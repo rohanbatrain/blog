@@ -1,0 +1,33 @@
+name: Hugo Static Site Build
+
+on:
+  push:
+    branches:
+      - main  # Trigger this workflow on pushes to the main branch
+  pull_request:
+    branches:
+      - main  # Also trigger on pull requests targeting the main branch
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: '0.112.5'  # Specify the Hugo version you want to use
+
+      - name: Build the Hugo site
+        run: hugo --minify
+
+      - name: Deploy to GitHub Pages
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          branch: gh-pages  # The branch to deploy to
+          folder: public    # The folder containing the generated static files
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Automatically provided token to authenticate the action
