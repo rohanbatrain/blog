@@ -1,10 +1,9 @@
 baseURL: "https://blog.rohanbatra.in/"
 title: "Rohan Batra"
-paginate: 5
 theme: PaperMod
 
 enableRobotsTXT: true
-buildDrafts: false
+buildDrafts: true
 buildFuture: false
 buildExpired: false
 
@@ -31,7 +30,7 @@ params:
   ShowCodeCopyButtons: true
   ShowWordCount: true
   ShowRssButtonInSectionTermList: true
-  UseHugoToc: true
+  UseHugoToc: false
   disableSpecial1stPost: false
   disableScrollToTop: false
   comments: false
@@ -59,7 +58,7 @@ params:
     enabled: true # needs to be explicitly set
     title: "Rohan Batra"
     subtitle: "Writer | Developer | Researcher"
-    # imageUrl: "<img location>"
+    imageUrl: "logo2.png"
     # imageWidth: 120
     # imageHeight: 120
     # imageTitle: my image
@@ -96,7 +95,7 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/<path_to_repo>/content"
+    URL: "https://github.com/rohanbatrain/blog/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
@@ -122,12 +121,11 @@ menu:
       url: /tags/
       weight: 20
     - identifier: example
-      name: example.org
-      url: https://example.org
+      name: blog.rohanbatra.in
+      url: https://github.com/rohanbatrain/blog/
       weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighbaseURL: "https://blog.rohanbatra.in/"
 title: Rohan's Blog
-paginate: 5
 theme: PaperMod
 params:
   # defaultTheme: light
@@ -147,7 +145,7 @@ params:
         enabled: true
         title: "Rohan Batra" # optional default will be site title
         #subtitle: "My Blog"
-        imageUrl: "<image link>" # optional
+        imageUrl: "logo2.png" # optional
         imageTitle: "Rohan Batra image" # optional
         imageWidth: 120 # custom size
         imageHeight: 120 # custom size
