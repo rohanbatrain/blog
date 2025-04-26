@@ -154,6 +154,8 @@ params:
               url: "donate"
             - name: Github
               url: "https://github.com/rohanbatrain"
+            - name: "Categories"
+              url: "categories"
   socialIcons: # optional
         - name: "Github"
           url: "<link>"
@@ -173,10 +175,7 @@ params:
 
 
 outputs:
-  home:
-    - HTML
-    - RSS
-    - JSON # is necessaryter-chroma
+  home: ["html" ,"rss", "json"]
 pygmentsUseClasses: true
 markup:
   highlight:
