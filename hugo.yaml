@@ -175,7 +175,7 @@ params:
 
 
 outputs:
-  home: ["html"]
+  home: ["html" ,"rss", "json"]
 pygmentsUseClasses: true
 markup:
   highlight:
