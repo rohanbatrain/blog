@@ -4,30 +4,23 @@
     <title>Blogging on Rohan&#39;s Blog</title>
     <link>https://blog.rohanbatra.in/categories/blogging/</link>
     <description>Recent content in Blogging on Rohan&#39;s Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 26 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.rohanbatra.in/categories/blogging/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 26 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://blog.rohanbatra.in/categories/blogging/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How I Deployed My Hugo Blog on GitHub Pages</title>
       <link>https://blog.rohanbatra.in/posts/2025-04-26-how-i-deployed-my-hugo-blog-on-github-pages/</link>
       <pubDate>Sat, 26 Apr 2025 00:00:00 +0000</pubDate>
-      
       <guid>https://blog.rohanbatra.in/posts/2025-04-26-how-i-deployed-my-hugo-blog-on-github-pages/</guid>
-      <description>Introduction In this guide, I&amp;rsquo;ll walk you through the process of deploying a Hugo blog to GitHub Pages, with an optional custom domain (e.g., blog.rohanbatra.in). By the end of this guide, you&amp;rsquo;ll have your static Hugo website hosted on GitHub Pages, and you can customize it further as needed.
-Prerequisites Before starting, make sure you have the following:
-Git: Ensure Git is installed on your computer. You can download it here.</description>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;In this guide, I&amp;rsquo;ll walk you through the process of deploying a Hugo blog to GitHub Pages, with an optional custom domain (e.g., &lt;code&gt;blog.rohanbatra.in&lt;/code&gt;). By the end of this guide, you&amp;rsquo;ll have your static Hugo website hosted on GitHub Pages, and you can customize it further as needed.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;prerequisites&#34;&gt;Prerequisites&lt;/h2&gt;&#xA;&lt;p&gt;Before starting, make sure you have the following:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Git&lt;/strong&gt;: Ensure Git is installed on your computer. You can download it &lt;a href=&#34;https://git-scm.com/downloads&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Hugo&lt;/strong&gt;: Install Hugo on your machine. You can follow the instructions on the &lt;a href=&#34;https://gohugo.io/getting-started/installing/&#34;&gt;official Hugo website&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;GitHub Account&lt;/strong&gt;: Make sure you have a GitHub account.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Domain Name&lt;/strong&gt; (optional): If you want to use a custom domain (e.g., &lt;code&gt;blog.rohanbatra.in&lt;/code&gt;), have access to your domain registrar&amp;rsquo;s DNS settings.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;step-1-create-a-new-hugo-site&#34;&gt;Step 1: Create a New Hugo Site&lt;/h2&gt;&#xA;&lt;p&gt;If you haven&amp;rsquo;t already created a Hugo site, follow these steps:&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>How I Built My Blog</title>
       <link>https://blog.rohanbatra.in/posts/2025-04-25-how-i-built-my-blog-with-hugo-and-paper-mod/</link>
       <pubDate>Fri, 25 Apr 2025 00:00:00 +0000</pubDate>
-      
       <guid>https://blog.rohanbatra.in/posts/2025-04-25-how-i-built-my-blog-with-hugo-and-paper-mod/</guid>
-      <description>Title: How I Built My Blog with Hugo and PaperMod Hello there! 👋
-Welcome to my digital space where I share my thoughts, creations, and various musings. I thought I’d take a moment to walk you through how I built my blog using Hugo — a fast and flexible static site generator — and the PaperMod theme, which turned out to be a perfect fit for my needs.
-Why Hugo? I’ve always been fascinated by the simplicity and speed that static site generators provide.</description>
+      <description>&lt;h3 id=&#34;title-how-i-built-my-blog-with-hugo-and-papermod&#34;&gt;&lt;strong&gt;Title: How I Built My Blog with Hugo and PaperMod&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Hello there! 👋&lt;/p&gt;&#xA;&lt;p&gt;Welcome to my digital space where I share my thoughts, creations, and various musings. I thought I’d take a moment to walk you through how I built my blog using &lt;strong&gt;Hugo&lt;/strong&gt; — a fast and flexible static site generator — and the &lt;strong&gt;PaperMod&lt;/strong&gt; theme, which turned out to be a perfect fit for my needs.&lt;/p&gt;&#xA;&lt;h3 id=&#34;why-hugo&#34;&gt;Why Hugo?&lt;/h3&gt;&#xA;&lt;p&gt;I’ve always been fascinated by the simplicity and speed that static site generators provide. After some research and experimentation, Hugo stood out for its blazing-fast build times, great documentation, and flexible theming system. Unlike traditional CMS platforms, Hugo allows me to focus on writing content without worrying too much about the backend. It’s the perfect solution for someone like me, who wants to keep things minimal and straightforward.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
