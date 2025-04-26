@@ -6,7 +6,18 @@
     <description>Recent content in Blogging on Rohan&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 25 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.rohanbatra.in/categories/blogging/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 26 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.rohanbatra.in/categories/blogging/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How I Deployed My Hugo Blog on GitHub Pages</title>
+      <link>https://blog.rohanbatra.in/posts/2025-04-26-how-i-deployed-my-hugo-blog-on-github-pages/</link>
+      <pubDate>Sat, 26 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.rohanbatra.in/posts/2025-04-26-how-i-deployed-my-hugo-blog-on-github-pages/</guid>
+      <description>Introduction In this guide, I&amp;rsquo;ll walk you through the process of deploying a Hugo blog to GitHub Pages, with an optional custom domain (e.g., blog.rohanbatra.in). By the end of this guide, you&amp;rsquo;ll have your static Hugo website hosted on GitHub Pages, and you can customize it further as needed.
+Prerequisites Before starting, make sure you have the following:
+Git: Ensure Git is installed on your computer. You can download it here.</description>
+    </item>
+    
     <item>
       <title>How I Built My Blog</title>
       <link>https://blog.rohanbatra.in/posts/2025-04-25-how-i-built-my-blog-with-hugo-and-paper-mod/</link>
