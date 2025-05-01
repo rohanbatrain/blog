@@ -7,6 +7,7 @@ authors:
     email: "contact@rohanbatra.in"
     website: "https://rohanbatra.in"
 draft: false
+tags: ["Hugo", "PaperMod", "Static Site Generator", "Web Development", "Blog Setup", "Markdown", "GitHub Pages"]
 description: "A behind-the-scenes look at how I built my blog, from setting up Hugo to customizing the PaperMod theme, and everything in between."
 image: "banners/hugo-banner.webp"
 aliases:

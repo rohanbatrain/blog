@@ -31,7 +31,7 @@ params:
   ShowWordCount: true
   ShowRssButtonInSectionTermList: true
   UseHugoToc: false
-  disableSpecial1stPost: false
+  disableSpecial1stPost: true
   disableScrollToTop: false
   comments: false
   hidemeta: false
@@ -144,7 +144,7 @@ params:
   profileMode:
         enabled: true
         title: "Rohan Batra" # optional default will be site title
-        #subtitle: "My Blog"
+        subtitle: "Writer | Developer | Researcher"
         imageUrl: "logo2.png" # optional
         imageTitle: "Rohan Batra image" # optional
         imageWidth: 120 # custom size

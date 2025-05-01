@@ -1,8 +1,9 @@
 ---
 title: "How I Deployed My Hugo Blog on GitHub Pages"
-date: 2025-04-26
+date: 2025-04-26T14:00:00+05:30
 description: "A step-by-step guide to deploying a Hugo blog on GitHub Pages, including custom domains."
-categories: ["Blogging"]
+categories: ["Blogging", "Deployment"]
+tags: ["Hugo", "GitHub Pages", "Static Site Deployment", "Custom Domain", "CI/CD", "Web Hosting", "Blog Deployment", "Hugo Build"]
 authors:
   - name: "Rohan Batra"
     email: "contact@rohanbatra.in"
