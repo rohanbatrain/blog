@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Devops on Rohan&#39;s Blog</title>
+    <link>https://blog.rohanbatra.in/tags/devops/</link>
+    <description>Recent content in Devops on Rohan&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 26 Apr 2025 19:00:00 +0530</lastBuildDate>
+    <atom:link href="https://blog.rohanbatra.in/tags/devops/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How I Installed Docker and Docker Compose on Arch Linux</title>
+      <link>https://blog.rohanbatra.in/posts/2025-04-26-how-i-installed-docker-and-docker-compose-on-arch-linux/</link>
+      <pubDate>Sat, 26 Apr 2025 19:00:00 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/posts/2025-04-26-how-i-installed-docker-and-docker-compose-on-arch-linux/</guid>
+      <description>&lt;h1 id=&#34;docker&#34;&gt;Docker&lt;/h1&gt;&#xA;&lt;p&gt;If you&amp;rsquo;re running Arch Linux and want to get Docker up and running fast — including Docker Compose — here&amp;rsquo;s a clean, one-liner way to do it using the AUR.&lt;/p&gt;&#xA;&lt;h2 id=&#34;-the-one-liner&#34;&gt;🛠️ The One-Liner&lt;/h2&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;sudo pacman -Syu --noconfirm docker &lt;span class=&#34;o&#34;&gt;&amp;amp;&amp;amp;&lt;/span&gt; yay -S --noconfirm docker-compose &lt;span class=&#34;o&#34;&gt;&amp;amp;&amp;amp;&lt;/span&gt; sudo systemctl &lt;span class=&#34;nb&#34;&gt;enable&lt;/span&gt; --now docker &lt;span class=&#34;o&#34;&gt;&amp;amp;&amp;amp;&lt;/span&gt; sudo usermod -aG docker &lt;span class=&#34;nv&#34;&gt;$USER&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;This command does the following:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Updates your system (&lt;code&gt;pacman -Syu&lt;/code&gt;)&lt;/li&gt;&#xA;&lt;li&gt;Installs Docker from the official repos&lt;/li&gt;&#xA;&lt;li&gt;Installs Docker Compose from the AUR (via &lt;code&gt;yay&lt;/code&gt;)&lt;/li&gt;&#xA;&lt;li&gt;Enables and starts the Docker service&lt;/li&gt;&#xA;&lt;li&gt;Adds your current user to the &lt;code&gt;docker&lt;/code&gt; group so you can use Docker without &lt;code&gt;sudo&lt;/code&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-post-install-tip&#34;&gt;🔁 Post-Install Tip&lt;/h2&gt;&#xA;&lt;p&gt;After running this, &lt;strong&gt;log out and log back in&lt;/strong&gt; to apply the group change.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

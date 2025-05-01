@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Installation on Rohan&#39;s Blog</title>
+    <link>https://blog.rohanbatra.in/tags/installation/</link>
+    <description>Recent content in Installation on Rohan&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 02 May 2025 00:55:21 +0530</lastBuildDate>
+    <atom:link href="https://blog.rohanbatra.in/tags/installation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2025 05 02 Arch Linux Meets Proxmox: Overcoming Automation Challenges With Docker</title>
+      <link>https://blog.rohanbatra.in/posts/arch-linux-meets-proxmox-automation-docker/</link>
+      <pubDate>Fri, 02 May 2025 00:55:21 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/posts/arch-linux-meets-proxmox-automation-docker/</guid>
+      <description>&lt;h2 id=&#34;my-journey-of-automating-proxmox-on-arch-linux&#34;&gt;My Journey of Automating Proxmox on Arch Linux&lt;/h2&gt;&#xA;&lt;p&gt;Automating Proxmox installs can be a time-saver, but the official Proxmox Automated Installer is built specifically for Debian-based systems, leaving Arch and other distros out in the cold. This project emerged out of my frustration with the limitations of the Proxmox installer.&lt;/p&gt;&#xA;&lt;h3 id=&#34;why-i-built-this-solution&#34;&gt;Why I Built This Solution&lt;/h3&gt;&#xA;&lt;p&gt;I was using &lt;strong&gt;Arch Linux&lt;/strong&gt; as my primary system, and I needed to deploy &lt;strong&gt;Proxmox VE&lt;/strong&gt; multiple times in a virtualized environment. The official installer was only available for Debian-based systems, so I decided to find a way to make it work on Arch. After trying several workarounds and encountering issues along the way, I decided to package the installer in a Docker container.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

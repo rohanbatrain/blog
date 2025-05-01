@@ -6,6 +6,315 @@
     <description>Recent content in Tags on Rohan&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
+    <lastBuildDate>Fri, 02 May 2025 00:55:21 +0530</lastBuildDate>
     <atom:link href="https://blog.rohanbatra.in/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arch Linux</title>
+      <link>https://blog.rohanbatra.in/tags/arch-linux/</link>
+      <pubDate>Fri, 02 May 2025 00:55:21 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/arch-linux/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Automation</title>
+      <link>https://blog.rohanbatra.in/tags/automation/</link>
+      <pubDate>Fri, 02 May 2025 00:55:21 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/automation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Docker</title>
+      <link>https://blog.rohanbatra.in/tags/docker/</link>
+      <pubDate>Fri, 02 May 2025 00:55:21 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/docker/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Installation</title>
+      <link>https://blog.rohanbatra.in/tags/installation/</link>
+      <pubDate>Fri, 02 May 2025 00:55:21 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/installation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Non-Debian</title>
+      <link>https://blog.rohanbatra.in/tags/non-debian/</link>
+      <pubDate>Fri, 02 May 2025 00:55:21 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/non-debian/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Proxmox</title>
+      <link>https://blog.rohanbatra.in/tags/proxmox/</link>
+      <pubDate>Fri, 02 May 2025 00:55:21 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/proxmox/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Virtualization</title>
+      <link>https://blog.rohanbatra.in/tags/virtualization/</link>
+      <pubDate>Fri, 02 May 2025 00:55:21 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/virtualization/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Iso</title>
+      <link>https://blog.rohanbatra.in/tags/iso/</link>
+      <pubDate>Fri, 02 May 2025 00:34:02 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/iso/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Linux</title>
+      <link>https://blog.rohanbatra.in/tags/linux/</link>
+      <pubDate>Fri, 02 May 2025 00:34:02 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/linux/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Unattended-Install</title>
+      <link>https://blog.rohanbatra.in/tags/unattended-install/</link>
+      <pubDate>Fri, 02 May 2025 00:34:02 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/unattended-install/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Automated Installation</title>
+      <link>https://blog.rohanbatra.in/tags/automated-installation/</link>
+      <pubDate>Tue, 29 Apr 2025 17:05:43 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/automated-installation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Automation Incomplete</title>
+      <link>https://blog.rohanbatra.in/tags/automation-incomplete/</link>
+      <pubDate>Tue, 29 Apr 2025 17:05:43 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/automation-incomplete/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Incomplete Attempt</title>
+      <link>https://blog.rohanbatra.in/tags/incomplete-attempt/</link>
+      <pubDate>Tue, 29 Apr 2025 17:05:43 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/incomplete-attempt/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Preseed</title>
+      <link>https://blog.rohanbatra.in/tags/preseed/</link>
+      <pubDate>Tue, 29 Apr 2025 17:05:43 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/preseed/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Preseed Issues</title>
+      <link>https://blog.rohanbatra.in/tags/preseed-issues/</link>
+      <pubDate>Tue, 29 Apr 2025 17:05:43 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/preseed-issues/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>VirtManager</title>
+      <link>https://blog.rohanbatra.in/tags/virtmanager/</link>
+      <pubDate>Tue, 29 Apr 2025 17:05:43 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/virtmanager/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Arch</title>
+      <link>https://blog.rohanbatra.in/tags/arch/</link>
+      <pubDate>Mon, 28 Apr 2025 13:51:18 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/arch/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Networking</title>
+      <link>https://blog.rohanbatra.in/tags/networking/</link>
+      <pubDate>Mon, 28 Apr 2025 13:51:18 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/networking/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Virt-Manager</title>
+      <link>https://blog.rohanbatra.in/tags/virt-manager/</link>
+      <pubDate>Mon, 28 Apr 2025 13:51:18 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/virt-manager/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DNS Strategy</title>
+      <link>https://blog.rohanbatra.in/tags/dns-strategy/</link>
+      <pubDate>Mon, 28 Apr 2025 13:31:43 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/dns-strategy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Docker Networking</title>
+      <link>https://blog.rohanbatra.in/tags/docker-networking/</link>
+      <pubDate>Mon, 28 Apr 2025 13:31:43 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/docker-networking/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>IP Addressing</title>
+      <link>https://blog.rohanbatra.in/tags/ip-addressing/</link>
+      <pubDate>Mon, 28 Apr 2025 13:31:43 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/ip-addressing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OPNsense</title>
+      <link>https://blog.rohanbatra.in/tags/opnsense/</link>
+      <pubDate>Mon, 28 Apr 2025 13:31:43 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/opnsense/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Termux</title>
+      <link>https://blog.rohanbatra.in/tags/termux/</link>
+      <pubDate>Mon, 28 Apr 2025 13:31:43 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/termux/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Android</title>
+      <link>https://blog.rohanbatra.in/tags/android/</link>
+      <pubDate>Sun, 27 Apr 2025 02:40:59 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/android/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>BlissOS</title>
+      <link>https://blog.rohanbatra.in/tags/blissos/</link>
+      <pubDate>Sun, 27 Apr 2025 02:40:59 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/blissos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>KVM</title>
+      <link>https://blog.rohanbatra.in/tags/kvm/</link>
+      <pubDate>Sun, 27 Apr 2025 02:40:59 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/kvm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>QEMU</title>
+      <link>https://blog.rohanbatra.in/tags/qemu/</link>
+      <pubDate>Sun, 27 Apr 2025 02:40:59 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/qemu/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Devops</title>
+      <link>https://blog.rohanbatra.in/tags/devops/</link>
+      <pubDate>Sat, 26 Apr 2025 19:00:00 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/devops/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CI/CD</title>
+      <link>https://blog.rohanbatra.in/tags/ci/cd/</link>
+      <pubDate>Sat, 26 Apr 2025 16:00:00 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/ci/cd/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GitHub Pages</title>
+      <link>https://blog.rohanbatra.in/tags/github-pages/</link>
+      <pubDate>Sat, 26 Apr 2025 16:00:00 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/github-pages/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Jenkins</title>
+      <link>https://blog.rohanbatra.in/tags/jenkins/</link>
+      <pubDate>Sat, 26 Apr 2025 16:00:00 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/jenkins/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Netlify</title>
+      <link>https://blog.rohanbatra.in/tags/netlify/</link>
+      <pubDate>Sat, 26 Apr 2025 16:00:00 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/netlify/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Blog Deployment</title>
+      <link>https://blog.rohanbatra.in/tags/blog-deployment/</link>
+      <pubDate>Sat, 26 Apr 2025 14:00:00 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/blog-deployment/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Custom Domain</title>
+      <link>https://blog.rohanbatra.in/tags/custom-domain/</link>
+      <pubDate>Sat, 26 Apr 2025 14:00:00 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/custom-domain/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hugo</title>
+      <link>https://blog.rohanbatra.in/tags/hugo/</link>
+      <pubDate>Sat, 26 Apr 2025 14:00:00 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/hugo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hugo Build</title>
+      <link>https://blog.rohanbatra.in/tags/hugo-build/</link>
+      <pubDate>Sat, 26 Apr 2025 14:00:00 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/hugo-build/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Static Site Deployment</title>
+      <link>https://blog.rohanbatra.in/tags/static-site-deployment/</link>
+      <pubDate>Sat, 26 Apr 2025 14:00:00 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/static-site-deployment/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Web Hosting</title>
+      <link>https://blog.rohanbatra.in/tags/web-hosting/</link>
+      <pubDate>Sat, 26 Apr 2025 14:00:00 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/web-hosting/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Blog Setup</title>
+      <link>https://blog.rohanbatra.in/tags/blog-setup/</link>
+      <pubDate>Fri, 25 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/blog-setup/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Markdown</title>
+      <link>https://blog.rohanbatra.in/tags/markdown/</link>
+      <pubDate>Fri, 25 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/markdown/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>PaperMod</title>
+      <link>https://blog.rohanbatra.in/tags/papermod/</link>
+      <pubDate>Fri, 25 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/papermod/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Static Site Generator</title>
+      <link>https://blog.rohanbatra.in/tags/static-site-generator/</link>
+      <pubDate>Fri, 25 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/static-site-generator/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Web Development</title>
+      <link>https://blog.rohanbatra.in/tags/web-development/</link>
+      <pubDate>Fri, 25 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/web-development/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

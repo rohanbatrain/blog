@@ -6,13 +6,104 @@
     <description>Recent content in Categories on Rohan&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 26 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 May 2025 00:55:21 +0530</lastBuildDate>
     <atom:link href="https://blog.rohanbatra.in/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Automation</title>
+      <link>https://blog.rohanbatra.in/categories/automation/</link>
+      <pubDate>Fri, 02 May 2025 00:55:21 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/categories/automation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Docker</title>
+      <link>https://blog.rohanbatra.in/categories/docker/</link>
+      <pubDate>Fri, 02 May 2025 00:55:21 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/categories/docker/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Proxmox</title>
+      <link>https://blog.rohanbatra.in/categories/proxmox/</link>
+      <pubDate>Fri, 02 May 2025 00:55:21 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/categories/proxmox/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Virtualization</title>
+      <link>https://blog.rohanbatra.in/categories/virtualization/</link>
+      <pubDate>Fri, 02 May 2025 00:55:21 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/categories/virtualization/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Devops</title>
+      <link>https://blog.rohanbatra.in/categories/devops/</link>
+      <pubDate>Fri, 02 May 2025 00:34:02 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/categories/devops/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Documentation</title>
+      <link>https://blog.rohanbatra.in/categories/documentation/</link>
+      <pubDate>Fri, 02 May 2025 00:34:02 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/categories/documentation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Infrastructure</title>
+      <link>https://blog.rohanbatra.in/categories/infrastructure/</link>
+      <pubDate>Fri, 02 May 2025 00:34:02 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/categories/infrastructure/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Incomplete</title>
+      <link>https://blog.rohanbatra.in/categories/incomplete/</link>
+      <pubDate>Tue, 29 Apr 2025 17:05:43 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/categories/incomplete/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Linux</title>
+      <link>https://blog.rohanbatra.in/categories/linux/</link>
+      <pubDate>Tue, 29 Apr 2025 17:05:43 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/categories/linux/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Architecture</title>
+      <link>https://blog.rohanbatra.in/categories/architecture/</link>
+      <pubDate>Mon, 28 Apr 2025 13:31:43 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/categories/architecture/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Networking</title>
+      <link>https://blog.rohanbatra.in/categories/networking/</link>
+      <pubDate>Mon, 28 Apr 2025 13:31:43 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/categories/networking/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Android</title>
+      <link>https://blog.rohanbatra.in/categories/android/</link>
+      <pubDate>Sun, 27 Apr 2025 02:40:59 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/categories/android/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Blogging</title>
       <link>https://blog.rohanbatra.in/categories/blogging/</link>
-      <pubDate>Sat, 26 Apr 2025 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 26 Apr 2025 16:00:00 +0530</pubDate>
       <guid>https://blog.rohanbatra.in/categories/blogging/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Deployment</title>
+      <link>https://blog.rohanbatra.in/categories/deployment/</link>
+      <pubDate>Sat, 26 Apr 2025 16:00:00 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/categories/deployment/</guid>
       <description></description>
     </item>
   </channel>

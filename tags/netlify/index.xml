@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Netlify on Rohan&#39;s Blog</title>
+    <link>https://blog.rohanbatra.in/tags/netlify/</link>
+    <description>Recent content in Netlify on Rohan&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 26 Apr 2025 16:00:00 +0530</lastBuildDate>
+    <atom:link href="https://blog.rohanbatra.in/tags/netlify/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How I Switched from Using GitHub to Netlify</title>
+      <link>https://blog.rohanbatra.in/posts/2025-04-26-how-i-switched-from-using-github-to-netlify/</link>
+      <pubDate>Sat, 26 Apr 2025 16:00:00 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/posts/2025-04-26-how-i-switched-from-using-github-to-netlify/</guid>
+      <description>&lt;p&gt;Recently, I decided to switch my blog hosting from &lt;strong&gt;GitHub Pages&lt;/strong&gt; to &lt;strong&gt;Netlify&lt;/strong&gt;, and here&amp;rsquo;s why.&lt;/p&gt;&#xA;&lt;p&gt;I had set up GitHub Actions to build my Hugo site and deploy it to the &lt;code&gt;gh-pages&lt;/code&gt; branch. We don’t use &lt;strong&gt;Jekyll&lt;/strong&gt;, and I made sure GitHub Pages was configured to serve the site from the built branch — not using GitHub&amp;rsquo;s default Jekyll build system.&lt;/p&gt;&#xA;&lt;p&gt;But despite that, something odd kept happening.&lt;/p&gt;&#xA;&lt;p&gt;Just before the GitHub Action could finish and push the Hugo-built site, GitHub Pages&amp;rsquo; &lt;strong&gt;default Jekyll builder&lt;/strong&gt; would sometimes run automatically — even though we weren’t using it. The result? It would overwrite the &lt;code&gt;gh-pages&lt;/code&gt; content, and my &lt;code&gt;index.html&lt;/code&gt; would mysteriously vanish.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
