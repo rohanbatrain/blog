@@ -1,5 +1,5 @@
 ---
-title: "2025 05 02 Arch Linux Meets Proxmox: Overcoming Automation Challenges With Docker"
+title: "Arch Linux Meets Proxmox: Overcoming Automation Challenges With Docker"
 date: 2025-05-02T00:55:21+05:30
 draft: true
 description: "Automating Proxmox installs on Arch Linux via Docker. Overcome the limitations of the official Proxmox installer, which only works on Debian-based systems."
