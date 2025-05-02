@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Encryption on Rohan&#39;s Blog</title>
+    <link>https://blog.rohanbatra.in/tags/encryption/</link>
+    <description>Recent content in Encryption on Rohan&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 02 May 2025 21:35:21 +0530</lastBuildDate>
+    <atom:link href="https://blog.rohanbatra.in/tags/encryption/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How I Handle Secrets in My DevOps Workflows — A GPG-First Approach to Security</title>
+      <link>https://blog.rohanbatra.in/posts/how-i-handle-secrets/</link>
+      <pubDate>Fri, 02 May 2025 21:35:21 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/posts/how-i-handle-secrets/</guid>
+      <description>&lt;h1 id=&#34;-how-i-handle-secrets-in-my-devops-workflows--a-gpg-first-approach-to-security&#34;&gt;🔐 How I Handle Secrets in My DevOps Workflows — A GPG-First Approach to Security&lt;/h1&gt;&#xA;&lt;p&gt;As someone who frequently automates deployments and manages infrastructure—across Proxmox clusters, Linux servers, and CI/CD pipelines—I take the handling of secrets seriously. In a world where credentials are often hardcoded into scripts or buried in dotfiles, I wanted a system that was:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Tamper-proof&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Auditable&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Public-repo friendly&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Portable across machines&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;And, most importantly, &lt;strong&gt;zero-trust by design&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;So I built a secret management system around &lt;strong&gt;GPG-based encryption&lt;/strong&gt;, leaning on battle-tested cryptography and deliberate design.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -2,6 +2,45 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://blog.rohanbatra.in/tags/automation/</loc>
+    <lastmod>2025-05-02T21:35:21+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/best-practices/</loc>
+    <lastmod>2025-05-02T21:35:21+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/categories/</loc>
+    <lastmod>2025-05-02T21:35:21+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/categories/devops/</loc>
+    <lastmod>2025-05-02T21:35:21+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/devops/</loc>
+    <lastmod>2025-05-02T21:35:21+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/encryption/</loc>
+    <lastmod>2025-05-02T21:35:21+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/gpg/</loc>
+    <lastmod>2025-05-02T21:35:21+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/posts/how-i-handle-secrets/</loc>
+    <lastmod>2025-05-02T21:35:21+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/posts/</loc>
+    <lastmod>2025-05-02T21:35:21+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/</loc>
+    <lastmod>2025-05-02T21:35:21+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/categories/security/</loc>
+    <lastmod>2025-05-02T21:35:21+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/security/</loc>
+    <lastmod>2025-05-02T21:35:21+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/</loc>
+    <lastmod>2025-05-02T21:35:21+05:30</lastmod>
+  </url><url>
     <loc>https://blog.rohanbatra.in/tags/arch-linux/</loc>
     <lastmod>2025-05-02T00:55:21+05:30</lastmod>
   </url><url>
@@ -9,12 +48,6 @@
     <lastmod>2025-05-02T00:55:21+05:30</lastmod>
   </url><url>
     <loc>https://blog.rohanbatra.in/categories/automation/</loc>
-    <lastmod>2025-05-02T00:55:21+05:30</lastmod>
-  </url><url>
-    <loc>https://blog.rohanbatra.in/tags/automation/</loc>
-    <lastmod>2025-05-02T00:55:21+05:30</lastmod>
-  </url><url>
-    <loc>https://blog.rohanbatra.in/categories/</loc>
     <lastmod>2025-05-02T00:55:21+05:30</lastmod>
   </url><url>
     <loc>https://blog.rohanbatra.in/categories/docker/</loc>
@@ -29,19 +62,10 @@
     <loc>https://blog.rohanbatra.in/tags/non-debian/</loc>
     <lastmod>2025-05-02T00:55:21+05:30</lastmod>
   </url><url>
-    <loc>https://blog.rohanbatra.in/posts/</loc>
-    <lastmod>2025-05-02T00:55:21+05:30</lastmod>
-  </url><url>
     <loc>https://blog.rohanbatra.in/categories/proxmox/</loc>
     <lastmod>2025-05-02T00:55:21+05:30</lastmod>
   </url><url>
     <loc>https://blog.rohanbatra.in/tags/proxmox/</loc>
-    <lastmod>2025-05-02T00:55:21+05:30</lastmod>
-  </url><url>
-    <loc>https://blog.rohanbatra.in/</loc>
-    <lastmod>2025-05-02T00:55:21+05:30</lastmod>
-  </url><url>
-    <loc>https://blog.rohanbatra.in/tags/</loc>
     <lastmod>2025-05-02T00:55:21+05:30</lastmod>
   </url><url>
     <loc>https://blog.rohanbatra.in/categories/virtualization/</loc>
@@ -49,9 +73,6 @@
   </url><url>
     <loc>https://blog.rohanbatra.in/tags/virtualization/</loc>
     <lastmod>2025-05-02T00:55:21+05:30</lastmod>
-  </url><url>
-    <loc>https://blog.rohanbatra.in/categories/devops/</loc>
-    <lastmod>2025-05-02T00:34:02+05:30</lastmod>
   </url><url>
     <loc>https://blog.rohanbatra.in/categories/documentation/</loc>
     <lastmod>2025-05-02T00:34:02+05:30</lastmod>
@@ -160,9 +181,6 @@
   </url><url>
     <loc>https://blog.rohanbatra.in/posts/2025-04-27-running-blissos-in-docker/</loc>
     <lastmod>2025-04-27T02:40:59+05:30</lastmod>
-  </url><url>
-    <loc>https://blog.rohanbatra.in/tags/devops/</loc>
-    <lastmod>2025-04-26T19:00:00+05:30</lastmod>
   </url><url>
     <loc>https://blog.rohanbatra.in/posts/2025-04-26-how-i-installed-docker-and-docker-compose-on-arch-linux/</loc>
     <lastmod>2025-04-26T19:00:00+05:30</lastmod>

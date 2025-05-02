@@ -6,20 +6,55 @@
     <description>Recent content in Tags on Rohan&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 02 May 2025 00:55:21 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 02 May 2025 21:35:21 +0530</lastBuildDate>
     <atom:link href="https://blog.rohanbatra.in/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Automation</title>
+      <link>https://blog.rohanbatra.in/tags/automation/</link>
+      <pubDate>Fri, 02 May 2025 21:35:21 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/automation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Best Practices</title>
+      <link>https://blog.rohanbatra.in/tags/best-practices/</link>
+      <pubDate>Fri, 02 May 2025 21:35:21 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/best-practices/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Devops</title>
+      <link>https://blog.rohanbatra.in/tags/devops/</link>
+      <pubDate>Fri, 02 May 2025 21:35:21 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/devops/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Encryption</title>
+      <link>https://blog.rohanbatra.in/tags/encryption/</link>
+      <pubDate>Fri, 02 May 2025 21:35:21 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/encryption/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gpg</title>
+      <link>https://blog.rohanbatra.in/tags/gpg/</link>
+      <pubDate>Fri, 02 May 2025 21:35:21 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/gpg/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Security</title>
+      <link>https://blog.rohanbatra.in/tags/security/</link>
+      <pubDate>Fri, 02 May 2025 21:35:21 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/security/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Arch Linux</title>
       <link>https://blog.rohanbatra.in/tags/arch-linux/</link>
       <pubDate>Fri, 02 May 2025 00:55:21 +0530</pubDate>
       <guid>https://blog.rohanbatra.in/tags/arch-linux/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Automation</title>
-      <link>https://blog.rohanbatra.in/tags/automation/</link>
-      <pubDate>Fri, 02 May 2025 00:55:21 +0530</pubDate>
-      <guid>https://blog.rohanbatra.in/tags/automation/</guid>
       <description></description>
     </item>
     <item>
@@ -202,13 +237,6 @@
       <link>https://blog.rohanbatra.in/tags/qemu/</link>
       <pubDate>Sun, 27 Apr 2025 02:40:59 +0530</pubDate>
       <guid>https://blog.rohanbatra.in/tags/qemu/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Devops</title>
-      <link>https://blog.rohanbatra.in/tags/devops/</link>
-      <pubDate>Sat, 26 Apr 2025 19:00:00 +0530</pubDate>
-      <guid>https://blog.rohanbatra.in/tags/devops/</guid>
       <description></description>
     </item>
     <item>
