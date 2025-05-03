@@ -6,8 +6,15 @@
     <description>Recent content in Proxmox on Rohan&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 02 May 2025 00:55:21 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 03 May 2025 00:31:19 +0530</lastBuildDate>
     <atom:link href="https://blog.rohanbatra.in/tags/proxmox/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Proxmox Automated VM Builder with Dual Disks</title>
+      <link>https://blog.rohanbatra.in/posts/proxmox-vm-builder-dual-disks/</link>
+      <pubDate>Sat, 03 May 2025 00:31:19 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/posts/proxmox-vm-builder-dual-disks/</guid>
+      <description>End-to-end automation of Proxmox ISO customization and VM provisioning using Docker and libvirt with support for dual QCOW2 disks.</description>
+    </item>
     <item>
       <title>Arch Linux Meets Proxmox: Overcoming Automation Challenges With Docker</title>
       <link>https://blog.rohanbatra.in/posts/arch-linux-meets-proxmox-automation-docker/</link>

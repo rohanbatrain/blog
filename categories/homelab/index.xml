@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homelab on Rohan&#39;s Blog</title>
+    <link>https://blog.rohanbatra.in/categories/homelab/</link>
+    <description>Recent content in Homelab on Rohan&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 03 May 2025 00:31:19 +0530</lastBuildDate>
+    <atom:link href="https://blog.rohanbatra.in/categories/homelab/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Proxmox Automated VM Builder with Dual Disks</title>
+      <link>https://blog.rohanbatra.in/posts/proxmox-vm-builder-dual-disks/</link>
+      <pubDate>Sat, 03 May 2025 00:31:19 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/posts/proxmox-vm-builder-dual-disks/</guid>
+      <description>End-to-end automation of Proxmox ISO customization and VM provisioning using Docker and libvirt with support for dual QCOW2 disks.</description>
+    </item>
+  </channel>
+</rss>

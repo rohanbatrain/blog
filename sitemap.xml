@@ -2,19 +2,178 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://blog.rohanbatra.in/tags/automation/</loc>
-    <lastmod>2025-05-02T21:35:21+05:30</lastmod>
-  </url><url>
-    <loc>https://blog.rohanbatra.in/tags/best-practices/</loc>
-    <lastmod>2025-05-02T21:35:21+05:30</lastmod>
+    <loc>https://blog.rohanbatra.in/tags/access-point/</loc>
+    <lastmod>2025-05-03T14:48:21+05:30</lastmod>
   </url><url>
     <loc>https://blog.rohanbatra.in/categories/</loc>
-    <lastmod>2025-05-02T21:35:21+05:30</lastmod>
+    <lastmod>2025-05-03T14:48:21+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/categories/computer-networks/</loc>
+    <lastmod>2025-05-03T14:48:21+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/devices/</loc>
+    <lastmod>2025-05-03T14:48:21+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/posts/digital-communication-and-networks/2025-05-03-network-devices--access-point/</loc>
+    <lastmod>2025-05-03T14:48:21+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/networking/</loc>
+    <lastmod>2025-05-03T14:48:21+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/posts/</loc>
+    <lastmod>2025-05-03T14:48:21+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/</loc>
+    <lastmod>2025-05-03T14:48:21+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/</loc>
+    <lastmod>2025-05-03T14:48:21+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/unit1/</loc>
+    <lastmod>2025-05-03T14:48:21+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/wifi/</loc>
+    <lastmod>2025-05-03T14:48:21+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/posts/digital-communication-and-networks/2025-05-03-network-devices--transceivers/</loc>
+    <lastmod>2025-05-03T14:42:21+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/physical/</loc>
+    <lastmod>2025-05-03T14:42:21+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/transceiver/</loc>
+    <lastmod>2025-05-03T14:42:21+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/modem/</loc>
+    <lastmod>2025-05-03T14:39:21+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/posts/digital-communication-and-networks/2025-05-03-network-devices--modem/</loc>
+    <lastmod>2025-05-03T14:39:21+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/posts/digital-communication-and-networks/2025-05-03-network-devices--repeater/</loc>
+    <lastmod>2025-05-03T13:50:21+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/repeater/</loc>
+    <lastmod>2025-05-03T13:50:21+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/hub/</loc>
+    <lastmod>2025-05-03T13:37:21+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/posts/digital-communication-and-networks/2025-05-03-network-devices--hub/</loc>
+    <lastmod>2025-05-03T13:37:21+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/bridge/</loc>
+    <lastmod>2025-05-03T13:33:21+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/data-link/</loc>
+    <lastmod>2025-05-03T13:33:21+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/posts/digital-communication-and-networks/2025-05-03-network-devices--bridges/</loc>
+    <lastmod>2025-05-03T13:33:21+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/network/</loc>
+    <lastmod>2025-05-03T13:29:21+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/posts/digital-communication-and-networks/2025-05-03-network-devices--router/</loc>
+    <lastmod>2025-05-03T13:29:21+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/router/</loc>
+    <lastmod>2025-05-03T13:29:21+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/posts/digital-communication-and-networks/2025-05-03-network-devices--switch/</loc>
+    <lastmod>2025-05-03T13:18:21+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/switch/</loc>
+    <lastmod>2025-05-03T13:18:21+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/posts/digital-communication-and-networks/2025-05-03-layered-network-protocol-architectures-/</loc>
+    <lastmod>2025-05-03T13:06:21+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/osi/</loc>
+    <lastmod>2025-05-03T13:06:21+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/protocols/</loc>
+    <lastmod>2025-05-03T13:06:21+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/tcpip/</loc>
+    <lastmod>2025-05-03T13:06:21+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/basics/</loc>
+    <lastmod>2025-05-03T13:03:21+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/posts/digital-communication-and-networks/2025-05-03-introduction-to-computer-networking-concepts/</loc>
+    <lastmod>2025-05-03T13:03:21+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/hardware/</loc>
+    <lastmod>2025-05-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/posts/digital-communication-and-networks/2025-05-03-network-devices--network-interface-card/</loc>
+    <lastmod>2025-05-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/nic/</loc>
+    <lastmod>2025-05-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/automation/</loc>
+    <lastmod>2025-05-03T00:31:19+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/bash/</loc>
+    <lastmod>2025-05-03T00:31:19+05:30</lastmod>
   </url><url>
     <loc>https://blog.rohanbatra.in/categories/devops/</loc>
-    <lastmod>2025-05-02T21:35:21+05:30</lastmod>
+    <lastmod>2025-05-03T00:31:19+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/categories/homelab/</loc>
+    <lastmod>2025-05-03T00:31:19+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/categories/infrastructure/</loc>
+    <lastmod>2025-05-03T00:31:19+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/libvirt/</loc>
+    <lastmod>2025-05-03T00:31:19+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/proxmox/</loc>
+    <lastmod>2025-05-03T00:31:19+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/posts/proxmox-vm-builder-dual-disks/</loc>
+    <lastmod>2025-05-03T00:31:19+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/qemu/</loc>
+    <lastmod>2025-05-03T00:31:19+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/categories/virtualization/</loc>
+    <lastmod>2025-05-03T00:31:19+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/vm/</loc>
+    <lastmod>2025-05-03T00:31:19+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/data-protection/</loc>
+    <lastmod>2025-05-03T00:07:34+05:30</lastmod>
   </url><url>
     <loc>https://blog.rohanbatra.in/tags/devops/</loc>
+    <lastmod>2025-05-03T00:07:34+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/infrastructure/</loc>
+    <lastmod>2025-05-03T00:07:34+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/linux/</loc>
+    <lastmod>2025-05-03T00:07:34+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/nas/</loc>
+    <lastmod>2025-05-03T00:07:34+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/raid/</loc>
+    <lastmod>2025-05-03T00:07:34+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/posts/raid-explained/</loc>
+    <lastmod>2025-05-03T00:07:34+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/categories/storage/</loc>
+    <lastmod>2025-05-03T00:07:34+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/storage/</loc>
+    <lastmod>2025-05-03T00:07:34+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/best-practices/</loc>
     <lastmod>2025-05-02T21:35:21+05:30</lastmod>
   </url><url>
     <loc>https://blog.rohanbatra.in/tags/encryption/</loc>
@@ -26,19 +185,10 @@
     <loc>https://blog.rohanbatra.in/posts/how-i-handle-secrets/</loc>
     <lastmod>2025-05-02T21:35:21+05:30</lastmod>
   </url><url>
-    <loc>https://blog.rohanbatra.in/posts/</loc>
-    <lastmod>2025-05-02T21:35:21+05:30</lastmod>
-  </url><url>
-    <loc>https://blog.rohanbatra.in/</loc>
-    <lastmod>2025-05-02T21:35:21+05:30</lastmod>
-  </url><url>
     <loc>https://blog.rohanbatra.in/categories/security/</loc>
     <lastmod>2025-05-02T21:35:21+05:30</lastmod>
   </url><url>
     <loc>https://blog.rohanbatra.in/tags/security/</loc>
-    <lastmod>2025-05-02T21:35:21+05:30</lastmod>
-  </url><url>
-    <loc>https://blog.rohanbatra.in/tags/</loc>
     <lastmod>2025-05-02T21:35:21+05:30</lastmod>
   </url><url>
     <loc>https://blog.rohanbatra.in/tags/arch-linux/</loc>
@@ -65,25 +215,13 @@
     <loc>https://blog.rohanbatra.in/categories/proxmox/</loc>
     <lastmod>2025-05-02T00:55:21+05:30</lastmod>
   </url><url>
-    <loc>https://blog.rohanbatra.in/tags/proxmox/</loc>
-    <lastmod>2025-05-02T00:55:21+05:30</lastmod>
-  </url><url>
-    <loc>https://blog.rohanbatra.in/categories/virtualization/</loc>
-    <lastmod>2025-05-02T00:55:21+05:30</lastmod>
-  </url><url>
     <loc>https://blog.rohanbatra.in/tags/virtualization/</loc>
     <lastmod>2025-05-02T00:55:21+05:30</lastmod>
   </url><url>
     <loc>https://blog.rohanbatra.in/categories/documentation/</loc>
     <lastmod>2025-05-02T00:34:02+05:30</lastmod>
   </url><url>
-    <loc>https://blog.rohanbatra.in/categories/infrastructure/</loc>
-    <lastmod>2025-05-02T00:34:02+05:30</lastmod>
-  </url><url>
     <loc>https://blog.rohanbatra.in/tags/iso/</loc>
-    <lastmod>2025-05-02T00:34:02+05:30</lastmod>
-  </url><url>
-    <loc>https://blog.rohanbatra.in/tags/linux/</loc>
     <lastmod>2025-05-02T00:34:02+05:30</lastmod>
   </url><url>
     <loc>https://blog.rohanbatra.in/tags/unattended-install/</loc>
@@ -134,9 +272,6 @@
     <loc>https://blog.rohanbatra.in/posts/2025-04-28-fix-sch_htb-module-not-found-error-in-virt-manager-on-arch-linux/</loc>
     <lastmod>2025-04-28T13:51:18+05:30</lastmod>
   </url><url>
-    <loc>https://blog.rohanbatra.in/tags/networking/</loc>
-    <lastmod>2025-04-28T13:51:18+05:30</lastmod>
-  </url><url>
     <loc>https://blog.rohanbatra.in/tags/virt-manager/</loc>
     <lastmod>2025-04-28T13:51:18+05:30</lastmod>
   </url><url>
@@ -174,9 +309,6 @@
     <lastmod>2025-04-27T02:40:59+05:30</lastmod>
   </url><url>
     <loc>https://blog.rohanbatra.in/tags/kvm/</loc>
-    <lastmod>2025-04-27T02:40:59+05:30</lastmod>
-  </url><url>
-    <loc>https://blog.rohanbatra.in/tags/qemu/</loc>
     <lastmod>2025-04-27T02:40:59+05:30</lastmod>
   </url><url>
     <loc>https://blog.rohanbatra.in/posts/2025-04-27-running-blissos-in-docker/</loc>

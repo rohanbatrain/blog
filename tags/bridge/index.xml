@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bridge on Rohan&#39;s Blog</title>
+    <link>https://blog.rohanbatra.in/tags/bridge/</link>
+    <description>Recent content in Bridge on Rohan&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 03 May 2025 13:33:21 +0530</lastBuildDate>
+    <atom:link href="https://blog.rohanbatra.in/tags/bridge/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Network Devices – Bridge</title>
+      <link>https://blog.rohanbatra.in/posts/digital-communication-and-networks/2025-05-03-network-devices--bridges/</link>
+      <pubDate>Sat, 03 May 2025 13:33:21 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/posts/digital-communication-and-networks/2025-05-03-network-devices--bridges/</guid>
+      <description>&lt;h1 id=&#34;-network-device-bridge&#34;&gt;🔌 Network Device: Bridge&lt;/h1&gt;&#xA;&lt;p&gt;A &lt;strong&gt;Bridge&lt;/strong&gt; is a networking device that operates at &lt;strong&gt;Layer 2 (Data Link Layer)&lt;/strong&gt; of the OSI model. It is used to &lt;strong&gt;connect two or more network segments&lt;/strong&gt; within a local area network (LAN), helping to filter traffic and reduce collisions.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-what-is-a-bridge&#34;&gt;🔹 What is a Bridge?&lt;/h2&gt;&#xA;&lt;p&gt;A &lt;strong&gt;Bridge&lt;/strong&gt; is a device used to divide large networks into smaller segments. It helps in controlling traffic between segments, increasing the efficiency of network communications. Unlike a hub or a switch, which broadcasts data to all devices, a bridge forwards data only to the segment where the destination device is located, improving network performance.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Modem on Rohan&#39;s Blog</title>
+    <link>https://blog.rohanbatra.in/tags/modem/</link>
+    <description>Recent content in Modem on Rohan&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 03 May 2025 14:39:21 +0530</lastBuildDate>
+    <atom:link href="https://blog.rohanbatra.in/tags/modem/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Network Devices – Modem</title>
+      <link>https://blog.rohanbatra.in/posts/digital-communication-and-networks/2025-05-03-network-devices--modem/</link>
+      <pubDate>Sat, 03 May 2025 14:39:21 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/posts/digital-communication-and-networks/2025-05-03-network-devices--modem/</guid>
+      <description>&lt;h1 id=&#34;-network-device-modem&#34;&gt;🔌 Network Device: Modem&lt;/h1&gt;&#xA;&lt;p&gt;A &lt;strong&gt;Modem&lt;/strong&gt; (Modulator-Demodulator) is a device that operates at the &lt;strong&gt;Physical Layer&lt;/strong&gt; of the OSI model. It is used to &lt;strong&gt;convert digital data to analog signals&lt;/strong&gt; and vice versa, enabling digital devices to communicate over analog communication channels like telephone lines.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-what-is-a-modem&#34;&gt;🔹 What is a Modem?&lt;/h2&gt;&#xA;&lt;p&gt;A &lt;strong&gt;Modem&lt;/strong&gt; is a device that modulates digital data from a computer into an analog signal for transmission over telephone lines (or similar media) and demodulates analog signals back into digital data at the receiving end. This is crucial for Internet access, particularly in older or rural areas where traditional broadband services (like fiber or cable) are unavailable.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

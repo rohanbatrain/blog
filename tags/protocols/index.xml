@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Protocols on Rohan&#39;s Blog</title>
+    <link>https://blog.rohanbatra.in/tags/protocols/</link>
+    <description>Recent content in Protocols on Rohan&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 03 May 2025 13:06:21 +0530</lastBuildDate>
+    <atom:link href="https://blog.rohanbatra.in/tags/protocols/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Layered Network Protocol Architectures (OSI &amp; TCP/IP)</title>
+      <link>https://blog.rohanbatra.in/posts/digital-communication-and-networks/2025-05-03-layered-network-protocol-architectures-/</link>
+      <pubDate>Sat, 03 May 2025 13:06:21 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/posts/digital-communication-and-networks/2025-05-03-layered-network-protocol-architectures-/</guid>
+      <description>&lt;h1 id=&#34;layered-network-protocol-architectures-osi-and-tcpip&#34;&gt;Layered Network Protocol Architectures: OSI and TCP/IP&lt;/h1&gt;&#xA;&lt;p&gt;Protocol architectures organize communication tasks into &lt;strong&gt;layers&lt;/strong&gt;. Each layer handles a specific function, ensuring modularity, easier troubleshooting, and interoperability.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-what-is-a-protocol-stack&#34;&gt;🔹 What is a Protocol Stack?&lt;/h2&gt;&#xA;&lt;p&gt;A &lt;strong&gt;protocol stack&lt;/strong&gt; is a collection of network protocols layered to work together. Each layer performs a specific function and interacts with layers directly above and below.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-osi-model-open-systems-interconnection&#34;&gt;🔹 OSI Model (Open Systems Interconnection)&lt;/h2&gt;&#xA;&lt;p&gt;The &lt;strong&gt;OSI model&lt;/strong&gt; is a theoretical model developed by ISO to standardize networking.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
