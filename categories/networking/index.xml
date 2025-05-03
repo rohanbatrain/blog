@@ -6,8 +6,15 @@
     <description>Recent content in Networking on Rohan&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 28 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 May 2025 00:55:00 +0530</lastBuildDate>
     <atom:link href="https://blog.rohanbatra.in/categories/networking/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>VM Behind NAT? No Problem with Reverse SSH</title>
+      <link>https://blog.rohanbatra.in/posts/2025-05-04-vm-behind-nat/</link>
+      <pubDate>Sun, 04 May 2025 00:55:00 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/posts/2025-05-04-vm-behind-nat/</guid>
+      <description>&lt;h2 id=&#34;-vm-behind-nat&#34;&gt;🧩 VM Behind NAT?&lt;/h2&gt;&#xA;&lt;h3 id=&#34;-scenario&#34;&gt;🖥️ Scenario&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Your &lt;strong&gt;VM&lt;/strong&gt; is running as &lt;code&gt;root&lt;/code&gt; user.&lt;/li&gt;&#xA;&lt;li&gt;Your &lt;strong&gt;host&lt;/strong&gt; machine has a user named &lt;code&gt;rohan&lt;/code&gt;.&lt;/li&gt;&#xA;&lt;li&gt;The VM is behind NAT — it &lt;strong&gt;can talk to the host&lt;/strong&gt;, but the &lt;strong&gt;host can’t directly talk to the VM&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;You want the &lt;strong&gt;host&lt;/strong&gt; to be able to connect to the &lt;strong&gt;VM&lt;/strong&gt; anyway.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;No worries — you can use a &lt;strong&gt;reverse SSH tunnel&lt;/strong&gt; to solve this!&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;-goal&#34;&gt;✅ Goal&lt;/h3&gt;&#xA;&lt;p&gt;Allow your host (&lt;code&gt;rohan@host&lt;/code&gt;) to SSH into your VM (&lt;code&gt;root@vm&lt;/code&gt;) &lt;strong&gt;even though the VM is behind NAT&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Full Network Addressing Architecture for Hybrid Infrastructure</title>
       <link>https://blog.rohanbatra.in/posts/hybrid-network-ip-architecture/</link>

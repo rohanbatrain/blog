@@ -6,20 +6,41 @@
     <description>Recent content in Categories on Rohan&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 03 May 2025 14:48:21 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 04 May 2025 00:55:00 +0530</lastBuildDate>
     <atom:link href="https://blog.rohanbatra.in/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Computer Networks</title>
-      <link>https://blog.rohanbatra.in/categories/computer-networks/</link>
-      <pubDate>Sat, 03 May 2025 14:48:21 +0530</pubDate>
-      <guid>https://blog.rohanbatra.in/categories/computer-networks/</guid>
-      <description></description>
-    </item>
     <item>
       <title>DevOps</title>
       <link>https://blog.rohanbatra.in/categories/devops/</link>
-      <pubDate>Sat, 03 May 2025 00:31:19 +0530</pubDate>
+      <pubDate>Sun, 04 May 2025 00:55:00 +0530</pubDate>
       <guid>https://blog.rohanbatra.in/categories/devops/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Networking</title>
+      <link>https://blog.rohanbatra.in/categories/networking/</link>
+      <pubDate>Sun, 04 May 2025 00:55:00 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/categories/networking/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>How-To</title>
+      <link>https://blog.rohanbatra.in/categories/how-to/</link>
+      <pubDate>Sun, 04 May 2025 00:43:21 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/categories/how-to/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Linux</title>
+      <link>https://blog.rohanbatra.in/categories/linux/</link>
+      <pubDate>Sun, 04 May 2025 00:43:21 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/categories/linux/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Computer Networks</title>
+      <link>https://blog.rohanbatra.in/categories/computer-networks/</link>
+      <pubDate>Sat, 03 May 2025 15:09:21 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/categories/computer-networks/</guid>
       <description></description>
     </item>
     <item>
@@ -93,24 +114,10 @@
       <description></description>
     </item>
     <item>
-      <title>Linux</title>
-      <link>https://blog.rohanbatra.in/categories/linux/</link>
-      <pubDate>Tue, 29 Apr 2025 17:05:43 +0530</pubDate>
-      <guid>https://blog.rohanbatra.in/categories/linux/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Architecture</title>
       <link>https://blog.rohanbatra.in/categories/architecture/</link>
       <pubDate>Mon, 28 Apr 2025 13:31:43 +0530</pubDate>
       <guid>https://blog.rohanbatra.in/categories/architecture/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Networking</title>
-      <link>https://blog.rohanbatra.in/categories/networking/</link>
-      <pubDate>Mon, 28 Apr 2025 13:31:43 +0530</pubDate>
-      <guid>https://blog.rohanbatra.in/categories/networking/</guid>
       <description></description>
     </item>
     <item>
