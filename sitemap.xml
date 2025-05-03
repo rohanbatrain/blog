@@ -3,40 +3,46 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://blog.rohanbatra.in/categories/</loc>
-    <lastmod>2025-05-04T00:55:00+05:30</lastmod>
+    <lastmod>2025-05-04T01:15:21+05:30</lastmod>
   </url><url>
     <loc>https://blog.rohanbatra.in/categories/devops/</loc>
-    <lastmod>2025-05-04T00:55:00+05:30</lastmod>
+    <lastmod>2025-05-04T01:15:21+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/posts/2025-05-04-proxmox-behind-nat/</loc>
+    <lastmod>2025-05-04T01:15:21+05:30</lastmod>
   </url><url>
     <loc>https://blog.rohanbatra.in/tags/linux/</loc>
-    <lastmod>2025-05-04T00:55:00+05:30</lastmod>
+    <lastmod>2025-05-04T01:15:21+05:30</lastmod>
   </url><url>
     <loc>https://blog.rohanbatra.in/tags/nat/</loc>
-    <lastmod>2025-05-04T00:55:00+05:30</lastmod>
+    <lastmod>2025-05-04T01:15:21+05:30</lastmod>
   </url><url>
     <loc>https://blog.rohanbatra.in/categories/networking/</loc>
-    <lastmod>2025-05-04T00:55:00+05:30</lastmod>
+    <lastmod>2025-05-04T01:15:21+05:30</lastmod>
   </url><url>
     <loc>https://blog.rohanbatra.in/tags/networking/</loc>
-    <lastmod>2025-05-04T00:55:00+05:30</lastmod>
+    <lastmod>2025-05-04T01:15:21+05:30</lastmod>
   </url><url>
     <loc>https://blog.rohanbatra.in/posts/</loc>
-    <lastmod>2025-05-04T00:55:00+05:30</lastmod>
+    <lastmod>2025-05-04T01:15:21+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/proxmox/</loc>
+    <lastmod>2025-05-04T01:15:21+05:30</lastmod>
   </url><url>
     <loc>https://blog.rohanbatra.in/tags/reverse-ssh/</loc>
-    <lastmod>2025-05-04T00:55:00+05:30</lastmod>
+    <lastmod>2025-05-04T01:15:21+05:30</lastmod>
   </url><url>
     <loc>https://blog.rohanbatra.in/</loc>
-    <lastmod>2025-05-04T00:55:00+05:30</lastmod>
+    <lastmod>2025-05-04T01:15:21+05:30</lastmod>
   </url><url>
     <loc>https://blog.rohanbatra.in/tags/ssh/</loc>
-    <lastmod>2025-05-04T00:55:00+05:30</lastmod>
+    <lastmod>2025-05-04T01:15:21+05:30</lastmod>
   </url><url>
     <loc>https://blog.rohanbatra.in/tags/</loc>
-    <lastmod>2025-05-04T00:55:00+05:30</lastmod>
+    <lastmod>2025-05-04T01:15:21+05:30</lastmod>
   </url><url>
     <loc>https://blog.rohanbatra.in/tags/vm/</loc>
-    <lastmod>2025-05-04T00:55:00+05:30</lastmod>
+    <lastmod>2025-05-04T01:15:21+05:30</lastmod>
   </url><url>
     <loc>https://blog.rohanbatra.in/posts/2025-05-04-vm-behind-nat/</loc>
     <lastmod>2025-05-04T00:55:00+05:30</lastmod>
@@ -189,9 +195,6 @@
     <lastmod>2025-05-03T00:31:19+05:30</lastmod>
   </url><url>
     <loc>https://blog.rohanbatra.in/tags/libvirt/</loc>
-    <lastmod>2025-05-03T00:31:19+05:30</lastmod>
-  </url><url>
-    <loc>https://blog.rohanbatra.in/tags/proxmox/</loc>
     <lastmod>2025-05-03T00:31:19+05:30</lastmod>
   </url><url>
     <loc>https://blog.rohanbatra.in/posts/proxmox-vm-builder-dual-disks/</loc>

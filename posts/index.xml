@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Rohan&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 04 May 2025 00:55:00 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 04 May 2025 01:15:21 +0530</lastBuildDate>
     <atom:link href="https://blog.rohanbatra.in/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Exposing Port 8006 from a VM Behind NAT using Reverse SSH Tunnel</title>
+      <link>https://blog.rohanbatra.in/posts/2025-05-04-proxmox-behind-nat/</link>
+      <pubDate>Sun, 04 May 2025 01:15:21 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/posts/2025-05-04-proxmox-behind-nat/</guid>
+      <description>&lt;p&gt;In virtualized environments, it&amp;rsquo;s common to have a &lt;strong&gt;VM running behind NAT&lt;/strong&gt;, especially when using tools like QEMU, VirtualBox, or cloud labs. This setup means the &lt;strong&gt;VM can reach the host&lt;/strong&gt;, but &lt;strong&gt;the host cannot directly initiate connections to the VM&lt;/strong&gt; — including to web services like the Proxmox web GUI running on port &lt;code&gt;8006&lt;/code&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Fortunately, this limitation is easy to bypass using &lt;strong&gt;reverse SSH tunneling&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-objective&#34;&gt;🧠 Objective&lt;/h2&gt;&#xA;&lt;p&gt;We want to:&lt;/p&gt;</description>
+    </item>
     <item>
       <title>VM Behind NAT? No Problem with Reverse SSH</title>
       <link>https://blog.rohanbatra.in/posts/2025-05-04-vm-behind-nat/</link>
