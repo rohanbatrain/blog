@@ -16,7 +16,7 @@ aliases:
 
 
 
-### **Title: How I Built My Blog with Hugo and PaperMod**
+### **How I Built My Blog with Hugo and PaperMod**
 
 Hello there! 👋
 
