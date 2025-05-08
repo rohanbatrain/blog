@@ -41,7 +41,7 @@ public class Main {
         myDog.sound();  // Output: Dog barks
     }
 }
-````
+```
 
 ### Example with `@Override` annotation:
 

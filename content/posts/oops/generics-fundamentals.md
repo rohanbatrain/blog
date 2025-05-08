@@ -26,7 +26,7 @@ Generics in Java provide a way to define classes, interfaces, and methods with a
 ArrayList list = new ArrayList();
 list.add("Hello");
 String s = (String) list.get(0); // requires casting
-````
+```
 
 ---
 

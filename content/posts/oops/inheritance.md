@@ -42,7 +42,7 @@ public class Main {
         dog.bark(); // Method of Dog class
     }
 }
-````
+```
 
 ### 🔗 Related Notes
 

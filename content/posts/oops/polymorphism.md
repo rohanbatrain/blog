@@ -3,7 +3,7 @@ date: 2025-05-08T18:41:22+05:30
 title: "Polymorphism"
 draft: false
 tags: ["OOP", "Polymorphism", "Java"]
-categories: ["Unit I", "OOPs"]
+categories: ["OOPs"]
 ---
 
 ## 🔁 Polymorphism
@@ -34,7 +34,7 @@ class MathOps {
         return a + b + c;
     }
 }
-````
+```
 
 ---
 

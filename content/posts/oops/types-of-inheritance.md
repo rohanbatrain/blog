@@ -34,7 +34,7 @@ public class Main {
         dog.bark(); // Method specific to Dog
     }
 }
-````
+```
 
 ### 2. **Multilevel Inheritance**
 

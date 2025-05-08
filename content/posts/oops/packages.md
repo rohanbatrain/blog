@@ -28,7 +28,7 @@ class Dog {
         System.out.println("Barking...");
     }
 }
-````
+```
 
 #### Using a class from a package:
 

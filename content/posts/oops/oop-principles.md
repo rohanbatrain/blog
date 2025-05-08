@@ -3,7 +3,7 @@ date: 2025-05-08T18:43:59+05:30
 title: "Object Oriented Programming Principles"
 draft: false
 tags: ["OOP", "Principles", "Java"]
-categories: ["Unit I", "OOPs"]
+categories: ["OOPs"]
 ---
 
 ## 🧠 Object Oriented Programming Principles
@@ -49,7 +49,7 @@ class Car implements Vehicle {
         System.out.println("Car started");
     }
 }
-````
+```
 
 This example combines:
 

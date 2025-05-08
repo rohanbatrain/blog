@@ -29,7 +29,7 @@ public class Main {
         t1.start();  // starts the thread
     }
 }
-````
+```
 
 ---
 

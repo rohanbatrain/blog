@@ -21,7 +21,7 @@ An **interface** in Java is a reference type, similar to a class, that can conta
 interface Animal {
     void sound();
 }
-````
+```
 
 #### Implementing the interface in a class:
 

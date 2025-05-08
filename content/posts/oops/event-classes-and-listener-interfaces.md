@@ -28,7 +28,7 @@ Event classes are found in `java.awt.event` and `javax.swing.event` packages. Ea
 public void actionPerformed(ActionEvent e) {
     String command = e.getActionCommand();
 }
-````
+```
 
 ---
 

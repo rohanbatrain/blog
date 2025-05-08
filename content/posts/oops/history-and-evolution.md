@@ -3,7 +3,7 @@ date: 2025-05-08T18:35:36+05:30
 title: "Object Oriented Programming - History and Evolution"
 draft: false
 tags: ["OOP", "History", "Programming Paradigms"]
-categories: ["Unit I", "OOPs"]
+categories: ["OOPs"]
 ---
 
 ## 🕰️ Object Oriented Programming – History and Evolution
@@ -59,7 +59,7 @@ class Car {
         myCar.displayColor();
     }
 }
-````
+```
 
 ---
 

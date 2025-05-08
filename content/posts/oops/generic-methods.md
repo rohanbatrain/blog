@@ -20,7 +20,7 @@ public <T> void printArray(T[] array) {
         System.out.println(element);
     }
 }
-````
+```
 
 * `<T>` before the return type indicates the method is generic.
 * `T` is the type parameter used within the method.

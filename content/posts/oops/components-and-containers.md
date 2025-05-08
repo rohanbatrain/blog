@@ -25,7 +25,7 @@ Components are instances of classes that inherit from `java.awt.Component`. Comm
 ```java
 JButton button = new JButton("Click Me");
 JLabel label = new JLabel("Hello");
-````
+```
 
 ---
 

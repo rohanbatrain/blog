@@ -36,7 +36,7 @@ On the **VM**, run the following command:
 
 ```bash
 ssh -R 8006:localhost:8006 rohan@host
-````
+```
 
 This command does the following:
 

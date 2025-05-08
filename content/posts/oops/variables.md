@@ -3,7 +3,7 @@ title: "Variables"
 date: 2025-05-08T19:00:08+05:30
 draft: false
 tags: ["Java", "Variables"]
-categories: ["Unit I", "OOPs"]
+categories: ["OOPs"]
 ---
 
 ## 📊 Variables in Java
@@ -49,7 +49,7 @@ public class VariablesExample {
         obj.exampleMethod();
     }
 }
-````
+```
 
 ---
 

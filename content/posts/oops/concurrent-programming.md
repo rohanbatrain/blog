@@ -39,7 +39,7 @@ public class Main {
         t1.start();  // Starts a new thread
     }
 }
-````
+```
 
 #### 2. By Implementing `Runnable` Interface
 

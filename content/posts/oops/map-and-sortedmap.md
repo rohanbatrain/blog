@@ -23,7 +23,7 @@ The **Map** interface defines a collection of key-value pairs. The key is used t
 
    ```java
    map.put("name", "Alice");
-````
+```
 
 2. **get(Object key)**:
 

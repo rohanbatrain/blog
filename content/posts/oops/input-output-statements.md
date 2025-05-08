@@ -3,7 +3,7 @@ title: "Input Output Statements"
 date: 2025-05-08T18:56:18+05:30
 draft: false
 tags: ["Java", "IO", "Basics"]
-categories: ["Unit I", "OOPs"]
+categories: ["OOPs"]
 ---
 
 ## 🖨️ Input/Output Statements in Java
@@ -29,7 +29,7 @@ public class InputExample {
         System.out.println("Hello, " + name);
     }
 }
-````
+```
 
 ---
 

@@ -25,7 +25,7 @@ class Outer {
         }
     }
 }
-````
+```
 
 **Usage:**
 

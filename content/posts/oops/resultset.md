@@ -36,7 +36,7 @@ In JDBC, the **ResultSet** interface represents the result set of a query. It pr
   while (rs.next()) {
       System.out.println(rs.getString("name"));
   }
-````
+```
 
 * **getString()**: Retrieves a column value as a `String`.
 

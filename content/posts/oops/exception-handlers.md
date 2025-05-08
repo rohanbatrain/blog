@@ -21,7 +21,7 @@ try {
 } catch (ArrayIndexOutOfBoundsException e) {
     System.out.println("Caught exception: " + e);
 }
-````
+```
 
 ---
 

@@ -31,7 +31,7 @@ A **CallableStatement** is an interface in JDBC that allows you to execute store
    ```java
    String sql = "{call getUserDetails(?, ?)}";
    CallableStatement cstmt = conn.prepareCall(sql);
-````
+```
 
 2. **Set Input Parameters**
    Use `setXXX()` methods to pass values to input parameters of the stored procedure.

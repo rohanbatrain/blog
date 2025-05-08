@@ -36,7 +36,7 @@ public class Main {
         dog.eat();  // Output will be: Animal is eating... Dog is eating...
     }
 }
-````
+```
 
 ### Example 2: Using `super` to call a superclass constructor
 

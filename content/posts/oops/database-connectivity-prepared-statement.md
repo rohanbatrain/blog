@@ -31,7 +31,7 @@ A **PreparedStatement** is an interface in JDBC that allows you to execute SQL q
    ```java
    String sql = "INSERT INTO users (name, age) VALUES (?, ?)";
    PreparedStatement pstmt = conn.prepareStatement(sql);
-````
+```
 
 2. **Set Parameters**
    Use `setXXX()` methods to bind values to the placeholders (`?`).

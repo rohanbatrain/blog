@@ -27,7 +27,7 @@ final class Animal {
 
 // The following code will result in a compile-time error
 // class Dog extends Animal { }
-````
+```
 
 ### Example 2: Using `final` with a method
 

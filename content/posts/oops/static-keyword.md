@@ -38,7 +38,7 @@ public class Main {
         Counter.displayCount();  // Output: Count: 2
     }
 }
-````
+```
 
 ### 🔗 Related Notes
 

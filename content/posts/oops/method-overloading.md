@@ -33,7 +33,7 @@ class Calculator {
         return a + b;
     }
 }
-````
+```
 
 ### Example of Method Overloading with Different Return Types:
 

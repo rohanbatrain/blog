@@ -3,7 +3,7 @@ title: "Command Line Arguments"
 date: 2025-05-08T18:57:32+05:30
 draft: false
 tags: ["Java", "Command Line", "Basics"]
-categories: ["Unit I", "OOPs"]
+categories: ["OOPs"]
 ---
 
 ## 🧾 Command Line Arguments in Java
@@ -18,7 +18,7 @@ Java's `main()` method accepts an array of `String` arguments:
 
 ```java
 public static void main(String[] args)
-````
+```
 
 * `args` holds the command line values as strings.
 * `args[0]`, `args[1]`, etc. refer to individual arguments.

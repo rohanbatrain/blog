@@ -45,7 +45,7 @@ frame.add(label, BorderLayout.CENTER);
 frame.setSize(300, 200);
 frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 frame.setVisible(true);
-````
+```
 
 ---
 

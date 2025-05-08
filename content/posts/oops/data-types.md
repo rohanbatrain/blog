@@ -3,7 +3,7 @@ title: "Data Types"
 date: 2025-05-08T18:58:37+05:30
 draft: false
 tags: ["Java", "Data Types"]
-categories: ["Unit I", "OOPs"]
+categories: ["OOPs"]
 ---
 
 ## 🔢 Data Types in Java
@@ -48,7 +48,7 @@ public class DataTypesExample {
         System.out.println("String: " + message);
     }
 }
-````
+```
 
 ---
 

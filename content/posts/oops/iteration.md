@@ -22,7 +22,7 @@ categories: ["OOPs"]
    for (String name : names) {
        System.out.println(name);
    }
-````
+```
 
 2. **Using Iterator**:
 

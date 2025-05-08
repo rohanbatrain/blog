@@ -21,7 +21,7 @@ The **List** interface is a part of the Java Collections Framework and represent
    List<String> names = new ArrayList<>();
    names.add("Alice");
    names.add("Bob");
-````
+```
 
 2. **LinkedList**:
 

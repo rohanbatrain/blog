@@ -3,7 +3,7 @@ title: "Types of Arrays"
 date: 2025-05-08T19:05:58+05:30
 draft: false
 tags: ["Java", "Arrays", "Types"]
-categories: ["Unit I", "OOPs"]
+categories: ["OOPs"]
 ---
 
 ## 📊 Types of Arrays in Java
@@ -21,7 +21,7 @@ A single-dimensional array is a linear list of elements, where each element is a
 ```java
 int[] numbers = {10, 20, 30, 40, 50};
 System.out.println("Element at index 2: " + numbers[2]);  // Output: 30
-````
+```
 
 #### 🔹 Declaring and Initializing
 

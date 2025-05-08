@@ -3,7 +3,7 @@ date: 2025-05-08T18:38:47+05:30
 title: "Encapsulation"
 draft: false
 tags: ["OOP", "Encapsulation", "Java"]
-categories: ["Unit I", "OOPs"]
+categories: ["OOPs"]
 ---
 
 ## 🔐 Encapsulation
@@ -45,7 +45,7 @@ class Student {
         return age;
     }
 }
-````
+```
 
 ---
 

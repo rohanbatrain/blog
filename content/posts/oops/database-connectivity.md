@@ -19,7 +19,7 @@ In Java, **JDBC (Java Database Connectivity)** provides an API for connecting to
 
    ```java
    Class.forName("com.mysql.cj.jdbc.Driver");
-````
+```
 
 2. **Establish a Connection**
    Use the `DriverManager.getConnection()` method to establish a connection.

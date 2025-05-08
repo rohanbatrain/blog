@@ -37,7 +37,7 @@ class MyClass {
         System.out.println("Default: " + defaultVar);
     }
 }
-````
+```
 
 ### 🔗 Related Notes
 

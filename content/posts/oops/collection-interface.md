@@ -19,7 +19,7 @@ The **Collection Interface** is the root interface of the Java Collections Frame
 
    ```java
    collection.add("Alice");
-````
+    ```
 
 2. **remove(Object o)**:
 

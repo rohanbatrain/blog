@@ -69,7 +69,7 @@ public class PersistentDataExample {
         }
     }
 }
-````
+```
 
 This example demonstrates how persistent data (the user's name and age) is inserted into and retrieved from the database using JDBC.
 

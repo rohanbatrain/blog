@@ -37,7 +37,7 @@ public class HelloSwing {
         frame.setVisible(true);
     }
 }
-````
+```
 
 ---
 

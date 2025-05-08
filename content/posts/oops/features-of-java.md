@@ -3,7 +3,7 @@ date: 2025-05-08T18:53:06+05:30
 title: "Features of Java"
 draft: false
 tags: ["Java", "OOP", "Features"]
-categories: ["Unit I", "OOPs"]
+categories: ["OOPs"]
 ---
 
 ## 🚀 Features of Java
@@ -36,7 +36,7 @@ public class HelloWorld {
         System.out.println("Hello, Java!");
     }
 }
-````
+```
 
 ---
 

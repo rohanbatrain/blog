@@ -3,7 +3,7 @@ title: "Operators"
 date: 2025-05-08T19:01:23+05:30
 draft: false
 tags: ["Java", "Operators"]
-categories: ["Unit I", "OOPs"]
+categories: ["OOPs"]
 ---
 
 ## ➗ Operators in Java
@@ -58,7 +58,7 @@ public class OperatorsExample {
         System.out.println("Is a > b? " + (a > b));    // true
     }
 }
-````
+```
 
 ---
 

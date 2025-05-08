@@ -31,7 +31,7 @@ button.addActionListener(new ActionListener() {
         System.out.println("Action performed!");
     }
 });
-````
+```
 
 ---
 

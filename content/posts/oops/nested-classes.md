@@ -22,7 +22,7 @@ A **Nested Class** is a class that is defined within another class. In Java, nes
            }
        }
    }
-````
+```
 
 2. **Inner Class (Non-static Nested Class)**: A class that is defined inside another class without the `static` keyword. It can access both static and non-static members of the outer class.
 

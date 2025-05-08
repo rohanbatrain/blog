@@ -20,7 +20,7 @@ Places components in a row, wraps to the next row when full.
 
 ```java
 setLayout(new FlowLayout());
-````
+```
 
 #### 2. **BorderLayout** (default for JFrame)
 

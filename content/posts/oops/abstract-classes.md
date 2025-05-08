@@ -43,7 +43,7 @@ public class Main {
         dog.sleep();  // Output: Sleeping...
     }
 }
-````
+```
 
 ### Example with multiple abstract methods:
 

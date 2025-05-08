@@ -23,7 +23,7 @@ hugo new posts/oops/collections.md
 
 ### Content for **collections.md**:
 
-````markdown
+```markdown
 ---
 title: "Collections"
 date: 2025-05-08T12:00:00
@@ -92,7 +92,7 @@ public class CollectionsExample {
         }
     }
 }
-````
+```
 
 ---
 

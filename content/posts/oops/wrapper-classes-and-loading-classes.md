@@ -24,7 +24,7 @@ Each primitive type in Java has a corresponding wrapper class. These wrapper cla
    ```java
    Integer i = Integer.valueOf(10);
    int x = i.intValue();
-````
+```
 
 2. **Double**: Corresponds to the `double` primitive type.
 

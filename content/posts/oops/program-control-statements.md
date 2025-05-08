@@ -3,7 +3,7 @@ title: "Program Control Statements"
 date: 2025-05-08T19:02:17+05:30
 draft: false
 tags: ["Java", "Control Statements"]
-categories: ["Unit I", "OOPs"]
+categories: ["OOPs"]
 ---
 
 ## 🔄 Program Control Statements in Java
@@ -24,7 +24,7 @@ Control statements in Java allow you to dictate the flow of execution in your pr
    } else {
        System.out.println("b is greater");
    }
-````
+```
 
 2. **Switch Statement**
 

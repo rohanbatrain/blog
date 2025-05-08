@@ -43,7 +43,7 @@ public class EventExample {
         frame.setVisible(true);
     }
 }
-````
+```
 
 ---
 

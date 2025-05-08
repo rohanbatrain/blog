@@ -23,7 +23,7 @@ The **Set** interface extends the `Collection` interface and does not allow dupl
    Set<String> names = new HashSet<>();
    names.add("Alice");
    names.add("Bob");
-````
+```
 
 2. **LinkedHashSet**:
 

@@ -3,7 +3,7 @@ title: "Strings"
 date: 2025-05-08T19:08:17+05:30
 draft: false
 tags: ["Java", "Strings"]
-categories: ["Unit I", "OOPs"]
+categories: ["OOPs"]
 ---
 
 ## 📝 Strings in Java
@@ -32,7 +32,7 @@ In Java, a **String** is a sequence of characters. It is a widely used class for
 
    ```java
    String str = "Hello, Java!";
-````
+```
 
 2. **Using the `new` Keyword**
 

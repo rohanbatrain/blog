@@ -3,7 +3,7 @@ title: "Abstraction"
 date: 2025-05-08T18:42:45+05:30
 draft: false
 tags: ["OOP", "Abstraction", "Java"]
-categories: ["Unit I", "OOPs"]
+categories: ["OOPs"]
 ---
 
 ## 🧊 Abstraction
@@ -35,7 +35,7 @@ class Dog extends Animal {
         System.out.println("Bark");
     }
 }
-````
+```
 
 ---
 

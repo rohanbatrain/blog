@@ -17,7 +17,7 @@ Lambdas in Java are anonymous functions that can be treated as objects and passe
 ```java
 (parameters) -> expression
 (parameters) -> { statements }
-````
+```
 
 ---
 

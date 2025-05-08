@@ -22,7 +22,7 @@ interface Animal {
     void sound();  // Abstract method
     void move();   // Abstract method
 }
-````
+```
 
 #### Implementing the Interface in a Class:
 

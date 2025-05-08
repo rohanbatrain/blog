@@ -3,7 +3,7 @@ title: "Arrays"
 date: 2025-05-08T19:04:43+05:30
 draft: false
 tags: ["Java", "Arrays"]
-categories: ["Unit I", "OOPs"]
+categories: ["OOPs"]
 ---
 
 ## 🧑‍💻 Arrays in Java

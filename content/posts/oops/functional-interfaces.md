@@ -19,7 +19,7 @@ A **Functional Interface** is an interface with exactly one abstract method. It 
 interface MyFunctionalInterface {
     void execute();
 }
-````
+```
 
 * The `@FunctionalInterface` annotation is optional but recommended.
 * Having more than one abstract method will result in a compilation error if the annotation is present.
