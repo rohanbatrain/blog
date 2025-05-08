@@ -3,7 +3,7 @@ title: "Network Devices – Router"
 date: 2025-05-03T13:29:21+05:30
 draft: false
 tags: ["networking", "unit1", "devices", "router", "network"]
-categories: ["Computer Networks"]
+categories: ["Digital Communication and Computer Networks"]
 ---
 
 # 🔌 Network Device: Router

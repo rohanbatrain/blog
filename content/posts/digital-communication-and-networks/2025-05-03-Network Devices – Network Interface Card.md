@@ -3,7 +3,7 @@ title: "Network Devices – Network Interface Card (NIC)"
 date: 2025-05-03
 draft: false
 tags: ["networking", "unit1", "devices", "nic", "hardware"]
-categories: ["Computer Networks"]
+categories: ["Digital Communication and Computer Networks"]
 ---
 
 # 🖧 Network Device: Network Interface Card (NIC)

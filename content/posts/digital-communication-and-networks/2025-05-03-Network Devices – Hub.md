@@ -3,7 +3,7 @@ title: "Network Devices – Hub"
 date: 2025-05-03T13:37:21+05:30
 draft: false
 tags: ["networking", "unit1", "devices", "hub", "physical"]
-categories: ["Computer Networks"]
+categories: ["Digital Communication and Computer Networks"]
 ---
 
 # 🔌 Network Device: Hub

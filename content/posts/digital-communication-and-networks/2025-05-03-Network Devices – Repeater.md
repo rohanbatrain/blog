@@ -3,7 +3,7 @@ title: "Network Devices – Repeater"
 date: 2025-05-03T13:50:21+05:30
 draft: false
 tags: ["networking", "unit1", "devices", "repeater", "physical"]
-categories: ["Computer Networks"]
+categories: ["Digital Communication and Computer Networks"]
 ---
 
 # 🔌 Network Device: Repeater

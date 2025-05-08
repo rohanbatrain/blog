@@ -89,7 +89,7 @@ Defines the **top-level environment** of the node:
 |-------------|-----------------------------------|
 | `11–99`     | Baremetal networks                |
 | `100–199`   | Virtualized networks (Proxmox, etc.) |
-| `200–250`   | Termux-based networks (Android)   |
+| `200–250`   | Android-based networks (Termux, Android VMS)   |
 | `251–254`   | Research, staging, or future-reserved |
 | `10`        | Special use for NAT `/29` subnets |
 

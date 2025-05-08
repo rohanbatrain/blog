@@ -3,7 +3,7 @@ title: "Network Devices – Wireless Access Point (AP)"
 date: 2025-05-03T14:48:21+05:30
 draft: false
 tags: ["networking", "unit1", "devices", "access point", "wifi"]
-categories: ["Computer Networks"]
+categories: ["Digital Communication and Computer Networks"]
 ---
 
 # 📡 Network Device: Wireless Access Point (AP)

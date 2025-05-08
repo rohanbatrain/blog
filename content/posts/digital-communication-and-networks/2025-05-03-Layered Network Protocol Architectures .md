@@ -3,7 +3,7 @@ title: "Layered Network Protocol Architectures (OSI & TCP/IP)"
 date: 2025-05-03T13:06:21+05:30
 draft: false
 tags: ["networking", "unit1", "protocols", "osi", "tcpip"]
-categories: ["Computer Networks"]
+categories: ["Digital Communication and Computer Networks"]
 ---
 
 # Layered Network Protocol Architectures: OSI and TCP/IP

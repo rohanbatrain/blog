@@ -3,7 +3,7 @@ title: "Introduction to Computer Networking Concepts"
 date: 2025-05-03T13:03:21+05:30
 draft: false
 tags: ["networking", "unit1", "basics"]
-categories: ["Computer Networks"]
+categories: ["Digital Communication and Computer Networks"]
 ---
 
 # Introduction to Computer Networking Concepts

@@ -3,7 +3,7 @@ title: "Network Devices – Transceiver"
 date: 2025-05-03T14:42:21+05:30
 draft: false
 tags: ["networking", "unit1", "devices", "transceiver", "physical"]
-categories: ["Computer Networks"]
+categories: ["Digital Communication and Computer Networks"]
 ---
 
 # 📡 Network Device: Transceiver

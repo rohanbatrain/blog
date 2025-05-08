@@ -3,7 +3,7 @@ title: "Network Devices – Switch"
 date: 2025-05-03T13:18:21+05:30
 draft: false
 tags: ["networking", "unit1", "devices", "switch", "data link"]
-categories: ["Computer Networks"]
+categories: ["Digital Communication and Computer Networks"]
 ---
 
 # 🔌 Network Device: Switch
