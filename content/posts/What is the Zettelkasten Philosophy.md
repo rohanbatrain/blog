@@ -1,5 +1,5 @@
 ---
-title: title: "What is the Zettelkasten Philosophy?"
+title: "What is the Zettelkasten Philosophy?"
 date: 2025-05-08T23:25:17+05:30
 draft: false
 categories: ["notes"]
