@@ -1,40 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Arch Linux on Rohan&#39;s Blog</title>
+    <title>Arch Linux on Rohan&#39;s Blog</title>
     <link>https://blog.rohanbatra.in/tags/arch-linux/</link>
-    <description>Recent content in Arch Linux on Rohan&#39;s Blog</description>
+    <description>Recent content in Arch Linux on Rohan&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 04 May 2025 00:43:21 +0530</lastBuildDate>
+    <lastBuildDate>Thu, 08 May 2025 21:37:45 +0530</lastBuildDate>
     <atom:link href="https://blog.rohanbatra.in/tags/arch-linux/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>How to Install OpenSSH on Arch Linux Using a Script</title>
-      <link>https://blog.rohanbatra.in/posts/2025-05-04-installing-ssh-on-arch/</link>
-      <pubDate>Sun, 04 May 2025 00:43:21 +0530</pubDate>
-      <guid>https://blog.rohanbatra.in/posts/2025-05-04-installing-ssh-on-arch/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;In this post, we will walk through how to quickly install and configure &lt;strong&gt;OpenSSH&lt;/strong&gt; on your &lt;strong&gt;Arch Linux&lt;/strong&gt; system using a simple Bash script. Whether you&amp;rsquo;re setting up SSH for the first time or automating your setup process, this script makes the process easy and efficient.&lt;/p&gt;&#xA;&lt;h3 id=&#34;why-use-openssh&#34;&gt;Why Use OpenSSH?&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;OpenSSH&lt;/strong&gt; is a widely used tool to enable secure remote connections to your Linux system. It allows you to remotely access and manage your machine through the terminal, which is essential for remote administration or server management.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Arch Linux Meets Proxmox: Overcoming Automation Challenges With Docker</title>
-      <link>https://blog.rohanbatra.in/posts/arch-linux-meets-proxmox-automation-docker/</link>
-      <pubDate>Fri, 02 May 2025 00:55:21 +0530</pubDate>
-      <guid>https://blog.rohanbatra.in/posts/arch-linux-meets-proxmox-automation-docker/</guid>
-      <description>&lt;h2 id=&#34;my-journey-of-automating-proxmox-on-arch-linux&#34;&gt;My Journey of Automating Proxmox on Arch Linux&lt;/h2&gt;&#xA;&lt;p&gt;Automating Proxmox installs can be a time-saver, but the official Proxmox Automated Installer is built specifically for Debian-based systems, leaving Arch and other distros out in the cold. This project emerged out of my frustration with the limitations of the Proxmox installer.&lt;/p&gt;&#xA;&lt;h3 id=&#34;why-i-built-this-solution&#34;&gt;Why I Built This Solution&lt;/h3&gt;&#xA;&lt;p&gt;I was using &lt;strong&gt;Arch Linux&lt;/strong&gt; as my primary system, and I needed to deploy &lt;strong&gt;Proxmox VE&lt;/strong&gt; multiple times in a virtualized environment. The official installer was only available for Debian-based systems, so I decided to find a way to make it work on Arch. After trying several workarounds and encountering issues along the way, I decided to package the installer in a Docker container.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>My Quest for Hands-Free Proxmox: An Incomplete Attempt at Automated Bliss via Embedded Preseed</title>
-      <link>https://blog.rohanbatra.in/drafts/proxmox-auto-install-preseed-virtmanager-incomplete/</link>
-      <pubDate>Tue, 29 Apr 2025 17:05:43 +0530</pubDate>
-      <guid>https://blog.rohanbatra.in/drafts/proxmox-auto-install-preseed-virtmanager-incomplete/</guid>
-      <description>&lt;h2 id=&#34;my-quest-for-hands-free-proxmox-an-incomplete-attempt-at-automated-bliss-via-embedded-preseed&#34;&gt;My Quest for Hands-Free Proxmox: An &lt;strong&gt;Incomplete&lt;/strong&gt; Attempt at Automated Bliss via Embedded Preseed&lt;/h2&gt;&#xA;&lt;p&gt;Hey everyone! Today, I wanted to recount a recent, and ultimately &lt;strong&gt;uncompleted&lt;/strong&gt;, foray into the realm of virtualization automation. My ambition? To achieve a completely unattended installation of Proxmox VE within VirtManager on my trusty Arch Linux machine. The vision was clear: craft a custom ISO with a preseed file meticulously integrated, initiate a VM, and witness Proxmox install itself autonomously, requiring zero manual input. Sounds like a dream, doesn&amp;rsquo;t it? Well, the journey proved to be quite… enlightening in its lack of completion.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>How I Installed Docker and Docker Compose on Arch Linux</title>
-      <link>https://blog.rohanbatra.in/posts/2025-04-26-how-i-installed-docker-and-docker-compose-on-arch-linux/</link>
-      <pubDate>Sat, 26 Apr 2025 19:00:00 +0530</pubDate>
-      <guid>https://blog.rohanbatra.in/posts/2025-04-26-how-i-installed-docker-and-docker-compose-on-arch-linux/</guid>
-      <description>&lt;h1 id=&#34;docker&#34;&gt;Docker&lt;/h1&gt;&#xA;&lt;p&gt;If you&amp;rsquo;re running Arch Linux and want to get Docker up and running fast — including Docker Compose — here&amp;rsquo;s a clean, one-liner way to do it using the AUR.&lt;/p&gt;&#xA;&lt;h2 id=&#34;-the-one-liner&#34;&gt;🛠️ The One-Liner&lt;/h2&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;sudo pacman -Syu --noconfirm docker &lt;span class=&#34;o&#34;&gt;&amp;amp;&amp;amp;&lt;/span&gt; yay -S --noconfirm docker-compose &lt;span class=&#34;o&#34;&gt;&amp;amp;&amp;amp;&lt;/span&gt; sudo systemctl &lt;span class=&#34;nb&#34;&gt;enable&lt;/span&gt; --now docker &lt;span class=&#34;o&#34;&gt;&amp;amp;&amp;amp;&lt;/span&gt; sudo usermod -aG docker &lt;span class=&#34;nv&#34;&gt;$USER&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;This command does the following:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Updates your system (&lt;code&gt;pacman -Syu&lt;/code&gt;)&lt;/li&gt;&#xA;&lt;li&gt;Installs Docker from the official repos&lt;/li&gt;&#xA;&lt;li&gt;Installs Docker Compose from the AUR (via &lt;code&gt;yay&lt;/code&gt;)&lt;/li&gt;&#xA;&lt;li&gt;Enables and starts the Docker service&lt;/li&gt;&#xA;&lt;li&gt;Adds your current user to the &lt;code&gt;docker&lt;/code&gt; group so you can use Docker without &lt;code&gt;sudo&lt;/code&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-post-install-tip&#34;&gt;🔁 Post-Install Tip&lt;/h2&gt;&#xA;&lt;p&gt;After running this, &lt;strong&gt;log out and log back in&lt;/strong&gt; to apply the group change.&lt;/p&gt;</description>
+      <title>How to Install Anki on Arch Linux</title>
+      <link>https://blog.rohanbatra.in/posts/how-to-install-anki-on-arch-linux/</link>
+      <pubDate>Thu, 08 May 2025 21:37:45 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/posts/how-to-install-anki-on-arch-linux/</guid>
+      <description>&lt;h2 id=&#34;1-prerequisites&#34;&gt;1. Prerequisites&lt;/h2&gt;&#xA;&lt;p&gt;Before you begin, ensure your system is up‑to‑date:&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;sudo pacman -Syu                                     &lt;span class=&#34;c1&#34;&gt;# Update core system packages&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;sudo pacman -S base-devel git                       &lt;span class=&#34;c1&#34;&gt;# Install build tools&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;If you plan to use Snap later, you’ll also need:&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;sudo pacman -S --needed go squashfs-tools&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;&#xA;&lt;h2 id=&#34;2-method-a-installing-via-aur&#34;&gt;2. Method A: Installing via AUR&lt;/h2&gt;&#xA;&lt;p&gt;ArchWiki recommends using the AUR packages &lt;code&gt;anki&lt;/code&gt; or &lt;code&gt;anki-bin&lt;/code&gt;:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Choose your helper&lt;/strong&gt; (we’ll use &lt;code&gt;yay&lt;/code&gt; below):&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;sudo pacman -S yay                                &lt;span class=&#34;c1&#34;&gt;# Install yay from [community]&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Install the binary bundle&lt;/strong&gt; (no local build):&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

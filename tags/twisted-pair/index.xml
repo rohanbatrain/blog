@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Twisted Pair on Rohan&#39;s Blog</title>
+    <link>https://blog.rohanbatra.in/tags/twisted-pair/</link>
+    <description>Recent content in Twisted Pair on Rohan&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 05 May 2025 13:32:00 +0530</lastBuildDate>
+    <atom:link href="https://blog.rohanbatra.in/tags/twisted-pair/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Twisted Pair Cable</title>
+      <link>https://blog.rohanbatra.in/posts/digital-communication-and-networks/twisted-pair-cable/</link>
+      <pubDate>Mon, 05 May 2025 13:32:00 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/posts/digital-communication-and-networks/twisted-pair-cable/</guid>
+      <description>&lt;h1 id=&#34;twisted-pair-cable&#34;&gt;Twisted Pair Cable&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Twisted Pair Cable&lt;/strong&gt; is a type of wiring used in many networks, including Ethernet. It consists of pairs of copper wires twisted together to reduce electromagnetic interference (EMI). It is one of the most commonly used cables in networking today, especially for local area networks (LANs).&lt;/p&gt;&#xA;&lt;h2 id=&#34;types-of-twisted-pair-cable&#34;&gt;Types of Twisted Pair Cable&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Unshielded Twisted Pair (UTP)&lt;/strong&gt;:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Most Common Use&lt;/strong&gt;: Ethernet networks (Cat 5e, Cat 6, etc.).&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Advantages&lt;/strong&gt;: Cost-effective, easy to install, and widely supported.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Limitations&lt;/strong&gt;: Susceptible to electromagnetic interference.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Shielded Twisted Pair (STP)&lt;/strong&gt;:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

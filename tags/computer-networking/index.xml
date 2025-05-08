@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computer Networking on Rohan&#39;s Blog</title>
+    <link>https://blog.rohanbatra.in/tags/computer-networking/</link>
+    <description>Recent content in Computer Networking on Rohan&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 05 May 2025 13:42:13 +0530</lastBuildDate>
+    <atom:link href="https://blog.rohanbatra.in/tags/computer-networking/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gigabit Ethernet</title>
+      <link>https://blog.rohanbatra.in/posts/digital-communication-and-networks/2025-05-05-gigabit-ethernet/</link>
+      <pubDate>Mon, 05 May 2025 13:42:13 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/posts/digital-communication-and-networks/2025-05-05-gigabit-ethernet/</guid>
+      <description>&lt;h2 id=&#34;gigabit-ethernet&#34;&gt;Gigabit Ethernet&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://blog.rohanbatra.in/posts/digital-communication-and-networks/2025-05-05-ethernet/&#34;&gt;Gigabit Ethernet&lt;/a&gt;&lt;/strong&gt; is an evolution of traditional Ethernet, providing much faster data transmission rates of up to &lt;strong&gt;1 Gbps&lt;/strong&gt; (Gigabit per second). It is commonly used in modern enterprise networks, data centers, and for high-performance computing applications.&lt;/p&gt;&#xA;&lt;h3 id=&#34;key-features-of-gigabit-ethernet&#34;&gt;Key Features of Gigabit Ethernet:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Faster Speeds&lt;/strong&gt;: Supports data transmission rates of 1 Gbps, ten times faster than traditional Ethernet.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Backward Compatibility&lt;/strong&gt;: Gigabit Ethernet is backward-compatible with older Ethernet standards, meaning it can work in environments that still use slower speeds like 100 Mbps Ethernet.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Use of Cable Types&lt;/strong&gt;: Primarily uses &lt;strong&gt;Twisted Pair Cables&lt;/strong&gt; (Cat 5e, Cat 6) and &lt;strong&gt;Fiber Optic Cables&lt;/strong&gt; for high-speed data transmission.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Gigabit Ethernet has become the standard for modern networking due to its ability to handle high-bandwidth applications, making it a crucial part of today&amp;rsquo;s network infrastructure.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ethernet</title>
+      <link>https://blog.rohanbatra.in/posts/digital-communication-and-networks/2025-05-05-ethernet/</link>
+      <pubDate>Mon, 05 May 2025 13:41:57 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/posts/digital-communication-and-networks/2025-05-05-ethernet/</guid>
+      <description>&lt;h2 id=&#34;ethernet&#34;&gt;Ethernet&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Ethernet&lt;/strong&gt;, also known as &lt;strong&gt;Fast Ethernet&lt;/strong&gt; (when referring to speeds up to 100 Mbps), is the foundational technology for most Local Area Networks (LANs). It is widely used to connect devices in a network using cables, typically &lt;strong&gt;Twisted Pair Cables&lt;/strong&gt; (such as &lt;strong&gt;Cat 5e&lt;/strong&gt; or &lt;strong&gt;Cat 6&lt;/strong&gt;) or &lt;strong&gt;Fiber Optic Cables&lt;/strong&gt;. Ethernet provides reliable and efficient data transmission at speeds ranging from 10 Mbps to 100 Mbps in its traditional form.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Connectivity Devices and Cable Types</title>
+      <link>https://blog.rohanbatra.in/posts/digital-communication-and-networks/2025-05-05-connectivity-and-cable-types/</link>
+      <pubDate>Mon, 05 May 2025 13:30:34 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/posts/digital-communication-and-networks/2025-05-05-connectivity-and-cable-types/</guid>
+      <description>&lt;h2 id=&#34;connectivity-devices-and-cable-types&#34;&gt;Connectivity Devices and Cable Types&lt;/h2&gt;&#xA;&lt;p&gt;In computer networks, various &lt;strong&gt;connectivity devices&lt;/strong&gt; are used to interconnect network components and ensure proper data communication. Different &lt;strong&gt;cable types&lt;/strong&gt; are also essential for transmitting data between devices. Understanding these devices and cables is fundamental for network design, maintenance, and troubleshooting.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;connectivity-devices&#34;&gt;&lt;strong&gt;Connectivity Devices&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://blog.rohanbatra.in/posts/digital-communication-and-networks/2025-05-03-network-devices--hub/&#34;&gt;Hub&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://blog.rohanbatra.in/posts/digital-communication-and-networks/2025-05-03-network-devices--switch/&#34;&gt;Switch&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://blog.rohanbatra.in/posts/digital-communication-and-networks/2025-05-03-network-devices--router/&#34;&gt;Router&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://blog.rohanbatra.in/posts/digital-communication-and-networks/2025-05-03-network-devices--bridges/&#34;&gt;Bridge&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://blog.rohanbatra.in/posts/digital-communication-and-networks/2025-05-05-network-devices---gateways/&#34;&gt;Gateway&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;cable-types&#34;&gt;&lt;strong&gt;Cable Types&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://blog.rohanbatra.in/posts/digital-communication-and-networks/twisted-pair-cable/&#34;&gt;Twisted Pair Cable&lt;/a&gt;&lt;/strong&gt;: Used in Ethernet networks and commonly seen in &lt;strong&gt;Cat 5e&lt;/strong&gt; or &lt;strong&gt;Cat 6&lt;/strong&gt; cables.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://blog.rohanbatra.in/posts/digital-communication-and-networks/coaxial-cable/&#34;&gt;Coaxial Cable&lt;/a&gt;&lt;/strong&gt;: Historically used for &lt;strong&gt;Ethernet networks&lt;/strong&gt; and &lt;strong&gt;cable TV&lt;/strong&gt; connections.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://blog.rohanbatra.in/posts/digital-communication-and-networks/fiber-optic-cable/&#34;&gt;Fiber Optic Cable&lt;/a&gt;&lt;/strong&gt;: Offers high-speed data transmission and is used for long-distance communication.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;</description>
+    </item>
+  </channel>
+</rss>

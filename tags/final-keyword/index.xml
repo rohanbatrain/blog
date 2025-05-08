@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Final Keyword on Rohan&#39;s Blog</title>
+    <link>https://blog.rohanbatra.in/tags/final-keyword/</link>
+    <description>Recent content in Final Keyword on Rohan&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 08 May 2025 20:13:02 +0530</lastBuildDate>
+    <atom:link href="https://blog.rohanbatra.in/tags/final-keyword/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Using Final</title>
+      <link>https://blog.rohanbatra.in/posts/oops/using-final/</link>
+      <pubDate>Thu, 08 May 2025 20:13:02 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/posts/oops/using-final/</guid>
+      <description>&lt;h2 id=&#34;using-final&#34;&gt;Using final&lt;/h2&gt;&#xA;&lt;p&gt;The &lt;code&gt;final&lt;/code&gt; keyword in Java is used to apply restrictions on classes, methods, and variables. It can be used to prevent inheritance, method overriding, and modification of variables.&lt;/p&gt;&#xA;&lt;h3 id=&#34;key-points&#34;&gt;Key Points:&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;final class&lt;/strong&gt;: A class declared as &lt;code&gt;final&lt;/code&gt; cannot be subclassed.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;final method&lt;/strong&gt;: A method declared as &lt;code&gt;final&lt;/code&gt; cannot be overridden by subclasses.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;final variable&lt;/strong&gt;: A variable declared as &lt;code&gt;final&lt;/code&gt; cannot be reassigned after initialization.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h3 id=&#34;example-1-using-final-with-a-class&#34;&gt;Example 1: Using &lt;code&gt;final&lt;/code&gt; with a class&lt;/h3&gt;&#xA;&lt;p&gt;When a class is declared &lt;code&gt;final&lt;/code&gt;, it cannot be extended (inherited).&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

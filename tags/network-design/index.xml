@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Network Design on Rohan&#39;s Blog</title>
+    <link>https://blog.rohanbatra.in/tags/network-design/</link>
+    <description>Recent content in Network Design on Rohan&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 05 May 2025 13:20:47 +0530</lastBuildDate>
+    <atom:link href="https://blog.rohanbatra.in/tags/network-design/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Local Area Network (LAN) Topologies</title>
+      <link>https://blog.rohanbatra.in/posts/digital-communication-and-networks/2025-05-05-lan-topologies/</link>
+      <pubDate>Mon, 05 May 2025 13:20:47 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/posts/digital-communication-and-networks/2025-05-05-lan-topologies/</guid>
+      <description>&lt;h1 id=&#34;local-area-network-lan-topologies&#34;&gt;Local Area Network (LAN) Topologies&lt;/h1&gt;&#xA;&lt;p&gt;A &lt;strong&gt;Local Area Network (LAN)&lt;/strong&gt; is a network that connects computers and devices within a limited geographical area, such as a home, office, or campus. The layout or structure of a LAN is determined by its &lt;strong&gt;topology&lt;/strong&gt;. LAN topologies define the way in which different devices and nodes are interconnected, and they play a crucial role in network performance, management, and troubleshooting.&lt;/p&gt;&#xA;&lt;h2 id=&#34;-key-characteristics-of-lan&#34;&gt;🔹 Key Characteristics of LAN&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Geographical Scope&lt;/strong&gt;: Limited to a single building or group of buildings (usually &amp;lt; 10 km).&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Ownership&lt;/strong&gt;: Typically owned by a single organization or individual.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Data Transfer Speed&lt;/strong&gt;: High-speed communication, ranging from 100 Mbps (Fast Ethernet) to 10 Gbps (Gigabit Ethernet).&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Connectivity Medium&lt;/strong&gt;: Wired (Ethernet cables) or wireless (Wi-Fi).&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-common-lan-topologies&#34;&gt;🔹 Common LAN Topologies&lt;/h2&gt;&#xA;&lt;p&gt;There are several types of LAN topologies, each with its own advantages, disadvantages, and use cases. The main LAN topologies include:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ethernet on Rohan&#39;s Blog</title>
+    <link>https://blog.rohanbatra.in/tags/ethernet/</link>
+    <description>Recent content in Ethernet on Rohan&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 05 May 2025 13:41:57 +0530</lastBuildDate>
+    <atom:link href="https://blog.rohanbatra.in/tags/ethernet/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ethernet</title>
+      <link>https://blog.rohanbatra.in/posts/digital-communication-and-networks/2025-05-05-ethernet/</link>
+      <pubDate>Mon, 05 May 2025 13:41:57 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/posts/digital-communication-and-networks/2025-05-05-ethernet/</guid>
+      <description>&lt;h2 id=&#34;ethernet&#34;&gt;Ethernet&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Ethernet&lt;/strong&gt;, also known as &lt;strong&gt;Fast Ethernet&lt;/strong&gt; (when referring to speeds up to 100 Mbps), is the foundational technology for most Local Area Networks (LANs). It is widely used to connect devices in a network using cables, typically &lt;strong&gt;Twisted Pair Cables&lt;/strong&gt; (such as &lt;strong&gt;Cat 5e&lt;/strong&gt; or &lt;strong&gt;Cat 6&lt;/strong&gt;) or &lt;strong&gt;Fiber Optic Cables&lt;/strong&gt;. Ethernet provides reliable and efficient data transmission at speeds ranging from 10 Mbps to 100 Mbps in its traditional form.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Local Area Network (LAN) Topologies</title>
+      <link>https://blog.rohanbatra.in/posts/digital-communication-and-networks/2025-05-05-lan-topologies/</link>
+      <pubDate>Mon, 05 May 2025 13:20:47 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/posts/digital-communication-and-networks/2025-05-05-lan-topologies/</guid>
+      <description>&lt;h1 id=&#34;local-area-network-lan-topologies&#34;&gt;Local Area Network (LAN) Topologies&lt;/h1&gt;&#xA;&lt;p&gt;A &lt;strong&gt;Local Area Network (LAN)&lt;/strong&gt; is a network that connects computers and devices within a limited geographical area, such as a home, office, or campus. The layout or structure of a LAN is determined by its &lt;strong&gt;topology&lt;/strong&gt;. LAN topologies define the way in which different devices and nodes are interconnected, and they play a crucial role in network performance, management, and troubleshooting.&lt;/p&gt;&#xA;&lt;h2 id=&#34;-key-characteristics-of-lan&#34;&gt;🔹 Key Characteristics of LAN&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Geographical Scope&lt;/strong&gt;: Limited to a single building or group of buildings (usually &amp;lt; 10 km).&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Ownership&lt;/strong&gt;: Typically owned by a single organization or individual.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Data Transfer Speed&lt;/strong&gt;: High-speed communication, ranging from 100 Mbps (Fast Ethernet) to 10 Gbps (Gigabit Ethernet).&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Connectivity Medium&lt;/strong&gt;: Wired (Ethernet cables) or wireless (Wi-Fi).&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-common-lan-topologies&#34;&gt;🔹 Common LAN Topologies&lt;/h2&gt;&#xA;&lt;p&gt;There are several types of LAN topologies, each with its own advantages, disadvantages, and use cases. The main LAN topologies include:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SortedMap on Rohan&#39;s Blog</title>
+    <link>https://blog.rohanbatra.in/tags/sortedmap/</link>
+    <description>Recent content in SortedMap on Rohan&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 08 May 2025 22:48:57 +0530</lastBuildDate>
+    <atom:link href="https://blog.rohanbatra.in/tags/sortedmap/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Map and Sortedmap</title>
+      <link>https://blog.rohanbatra.in/posts/oops/map-and-sortedmap/</link>
+      <pubDate>Thu, 08 May 2025 22:48:57 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/posts/oops/map-and-sortedmap/</guid>
+      <description>&lt;h2 id=&#34;map-and-sortedmap&#34;&gt;Map and SortedMap&lt;/h2&gt;&#xA;&lt;p&gt;In Java, the &lt;strong&gt;Map&lt;/strong&gt; and &lt;strong&gt;SortedMap&lt;/strong&gt; interfaces are part of the Java Collections Framework. The &lt;code&gt;Map&lt;/code&gt; interface represents a collection of key-value pairs, where each key is unique, and each key maps to exactly one value. The &lt;code&gt;SortedMap&lt;/code&gt; interface extends &lt;code&gt;Map&lt;/code&gt; and guarantees that the keys are sorted in a specific order.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;map-interface&#34;&gt;Map Interface&lt;/h3&gt;&#xA;&lt;p&gt;The &lt;strong&gt;Map&lt;/strong&gt; interface defines a collection of key-value pairs. The key is used to retrieve its corresponding value. Common implementations of &lt;code&gt;Map&lt;/code&gt; include &lt;code&gt;HashMap&lt;/code&gt;, &lt;code&gt;LinkedHashMap&lt;/code&gt;, and &lt;code&gt;TreeMap&lt;/code&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

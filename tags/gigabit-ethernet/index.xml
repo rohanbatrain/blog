@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gigabit Ethernet on Rohan&#39;s Blog</title>
+    <link>https://blog.rohanbatra.in/tags/gigabit-ethernet/</link>
+    <description>Recent content in Gigabit Ethernet on Rohan&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 05 May 2025 13:42:13 +0530</lastBuildDate>
+    <atom:link href="https://blog.rohanbatra.in/tags/gigabit-ethernet/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gigabit Ethernet</title>
+      <link>https://blog.rohanbatra.in/posts/digital-communication-and-networks/2025-05-05-gigabit-ethernet/</link>
+      <pubDate>Mon, 05 May 2025 13:42:13 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/posts/digital-communication-and-networks/2025-05-05-gigabit-ethernet/</guid>
+      <description>&lt;h2 id=&#34;gigabit-ethernet&#34;&gt;Gigabit Ethernet&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://blog.rohanbatra.in/posts/digital-communication-and-networks/2025-05-05-ethernet/&#34;&gt;Gigabit Ethernet&lt;/a&gt;&lt;/strong&gt; is an evolution of traditional Ethernet, providing much faster data transmission rates of up to &lt;strong&gt;1 Gbps&lt;/strong&gt; (Gigabit per second). It is commonly used in modern enterprise networks, data centers, and for high-performance computing applications.&lt;/p&gt;&#xA;&lt;h3 id=&#34;key-features-of-gigabit-ethernet&#34;&gt;Key Features of Gigabit Ethernet:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Faster Speeds&lt;/strong&gt;: Supports data transmission rates of 1 Gbps, ten times faster than traditional Ethernet.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Backward Compatibility&lt;/strong&gt;: Gigabit Ethernet is backward-compatible with older Ethernet standards, meaning it can work in environments that still use slower speeds like 100 Mbps Ethernet.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Use of Cable Types&lt;/strong&gt;: Primarily uses &lt;strong&gt;Twisted Pair Cables&lt;/strong&gt; (Cat 5e, Cat 6) and &lt;strong&gt;Fiber Optic Cables&lt;/strong&gt; for high-speed data transmission.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Gigabit Ethernet has become the standard for modern networking due to its ability to handle high-bandwidth applications, making it a crucial part of today&amp;rsquo;s network infrastructure.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

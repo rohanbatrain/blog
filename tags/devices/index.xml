@@ -6,8 +6,15 @@
     <description>Recent content in Devices on Rohan&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 03 May 2025 14:48:21 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 05 May 2025 13:24:48 +0530</lastBuildDate>
     <atom:link href="https://blog.rohanbatra.in/tags/devices/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Network Devices – Gateway</title>
+      <link>https://blog.rohanbatra.in/posts/digital-communication-and-networks/2025-05-05-network-devices---gateways/</link>
+      <pubDate>Mon, 05 May 2025 13:24:48 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/posts/digital-communication-and-networks/2025-05-05-network-devices---gateways/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;h1 id=&#34;-network-device-gateway&#34;&gt;🌐 Network Device: Gateway&lt;/h1&gt;&#xA;&lt;p&gt;A &lt;strong&gt;Gateway&lt;/strong&gt; is a device that operates at the &lt;strong&gt;Network Layer&lt;/strong&gt; of the OSI model and acts as an entry/exit point between different networks, typically between a local network and the Internet. It is responsible for &lt;strong&gt;protocol conversion&lt;/strong&gt;, &lt;strong&gt;address translation&lt;/strong&gt;, and &lt;strong&gt;data routing&lt;/strong&gt;, ensuring seamless communication between different systems or networks that may use different protocols.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-what-is-a-gateway&#34;&gt;🔹 What is a Gateway?&lt;/h2&gt;&#xA;&lt;p&gt;A &lt;strong&gt;Gateway&lt;/strong&gt; is a network device that connects two or more networks, which may be using different communication protocols or data formats. It translates data between these networks to enable communication. Gateways operate at various layers of the OSI model, often functioning between the &lt;strong&gt;Network Layer&lt;/strong&gt; and higher layers, allowing communication between systems that otherwise wouldn&amp;rsquo;t be able to interact.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Network Devices – Wireless Access Point (AP)</title>
       <link>https://blog.rohanbatra.in/posts/digital-communication-and-networks/2025-05-03-network-devices--access-point/</link>

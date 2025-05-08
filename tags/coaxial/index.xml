@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Coaxial on Rohan&#39;s Blog</title>
+    <link>https://blog.rohanbatra.in/tags/coaxial/</link>
+    <description>Recent content in Coaxial on Rohan&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 05 May 2025 13:34:00 +0530</lastBuildDate>
+    <atom:link href="https://blog.rohanbatra.in/tags/coaxial/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coaxial Cable</title>
+      <link>https://blog.rohanbatra.in/posts/digital-communication-and-networks/coaxial-cable/</link>
+      <pubDate>Mon, 05 May 2025 13:34:00 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/posts/digital-communication-and-networks/coaxial-cable/</guid>
+      <description>&lt;h1 id=&#34;coaxial-cable&#34;&gt;Coaxial Cable&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Coaxial Cable&lt;/strong&gt;, or &lt;strong&gt;Coax Cable&lt;/strong&gt;, consists of a central conductor, insulating layer, metal shield, and an outer insulating layer. It was one of the earliest cable types used for network connectivity and still sees use today, especially in cable television (CATV) and broadband internet.&lt;/p&gt;&#xA;&lt;h2 id=&#34;types-of-coaxial-cable&#34;&gt;Types of Coaxial Cable&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;RG-59&lt;/strong&gt;:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Most Common Use&lt;/strong&gt;: Cable TV.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Advantages&lt;/strong&gt;: Suitable for short-distance signals.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;RG-6&lt;/strong&gt;:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Most Common Use&lt;/strong&gt;: Satellite TV and broadband internet.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Advantages&lt;/strong&gt;: Higher bandwidth and suitable for longer distances compared to RG-59.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;uses-of-coaxial-cable&#34;&gt;Uses of Coaxial Cable&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Cable Television&lt;/strong&gt;: Historically used for transmitting television signals.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Broadband Internet&lt;/strong&gt;: Used in cable modems for internet access.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Networking&lt;/strong&gt;: In some older Ethernet setups (10BASE2), coaxial cable was used.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;advantages-and-disadvantages&#34;&gt;Advantages and Disadvantages&lt;/h2&gt;&#xA;&lt;h3 id=&#34;advantages&#34;&gt;Advantages:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Good Shielding&lt;/strong&gt;: The metal shield prevents interference, making it reliable for signal transmission.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Distance&lt;/strong&gt;: It can transmit data over longer distances without significant loss in signal quality.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;disadvantages&#34;&gt;Disadvantages:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Bulky&lt;/strong&gt;: Coaxial cables are thicker and less flexible compared to twisted pair cables.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Limited Speed&lt;/strong&gt;: They do not support high-speed data transmission as efficiently as fiber optics.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;For more details on &lt;strong&gt;Coaxial Cable&lt;/strong&gt;, see &lt;a href=&#34;https://blog.rohanbatra.in/posts/digital-communication-and-networks/2025-05-05-connectivity-and-cable-types/&#34;&gt;Connectivity and Cable Types&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

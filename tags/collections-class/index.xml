@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Collections Class on Rohan&#39;s Blog</title>
+    <link>https://blog.rohanbatra.in/tags/collections-class/</link>
+    <description>Recent content in Collections Class on Rohan&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 08 May 2025 22:49:57 +0530</lastBuildDate>
+    <atom:link href="https://blog.rohanbatra.in/tags/collections-class/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wrapped Collections and Collections Class</title>
+      <link>https://blog.rohanbatra.in/posts/oops/wrapped-collections-and-collections-class/</link>
+      <pubDate>Thu, 08 May 2025 22:49:57 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/posts/oops/wrapped-collections-and-collections-class/</guid>
+      <description>&lt;h2 id=&#34;wrapped-collections-and-collections-class&#34;&gt;Wrapped Collections and Collections Class&lt;/h2&gt;&#xA;&lt;p&gt;In Java, the &lt;strong&gt;Collections&lt;/strong&gt; class is a utility class that provides various static methods to operate on or return collections. The &lt;strong&gt;Wrapped Collections&lt;/strong&gt; refers to collections that are decorated with additional behavior like thread safety or immutability.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;wrapped-collections&#34;&gt;Wrapped Collections&lt;/h3&gt;&#xA;&lt;p&gt;Wrapped collections are used to extend the functionality of existing collections. The &lt;code&gt;Collections&lt;/code&gt; class in Java provides methods like &lt;code&gt;synchronizedList()&lt;/code&gt;, &lt;code&gt;unmodifiableList()&lt;/code&gt;, and others to &amp;ldquo;wrap&amp;rdquo; a collection with added functionality.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

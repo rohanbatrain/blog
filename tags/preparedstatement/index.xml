@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PreparedStatement on Rohan&#39;s Blog</title>
+    <link>https://blog.rohanbatra.in/tags/preparedstatement/</link>
+    <description>Recent content in PreparedStatement on Rohan&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 08 May 2025 22:27:07 +0530</lastBuildDate>
+    <atom:link href="https://blog.rohanbatra.in/tags/preparedstatement/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Database Connectivity Prepared Statement</title>
+      <link>https://blog.rohanbatra.in/posts/oops/database-connectivity-prepared-statement/</link>
+      <pubDate>Thu, 08 May 2025 22:27:07 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/posts/oops/database-connectivity-prepared-statement/</guid>
+      <description>&lt;h2 id=&#34;prepared-statement&#34;&gt;Prepared Statement&lt;/h2&gt;&#xA;&lt;p&gt;A &lt;strong&gt;PreparedStatement&lt;/strong&gt; is an interface in JDBC that allows you to execute SQL queries more securely and efficiently. It is used to execute parameterized SQL queries, preventing &lt;strong&gt;SQL injection&lt;/strong&gt; and improving performance, especially when executing the same query multiple times with different parameters.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;benefits-of-prepared-statements&#34;&gt;Benefits of Prepared Statements&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Prevents SQL Injection&lt;/strong&gt;:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Prepared statements automatically escape user input, protecting against SQL injection attacks.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Efficiency&lt;/strong&gt;:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;SQL queries are precompiled, making repeated executions faster.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Security&lt;/strong&gt;:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;No need to manually handle input sanitization.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;creating-and-using-a-prepared-statement&#34;&gt;Creating and Using a Prepared Statement&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Create a PreparedStatement&lt;/strong&gt;&lt;br&gt;&#xA;Use &lt;code&gt;Connection.prepareStatement()&lt;/code&gt; to create a prepared statement.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
