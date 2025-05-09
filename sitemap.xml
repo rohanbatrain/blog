@@ -2,6 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://blog.rohanbatra.in/books/ember/chapters/chapter-1/</loc>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/books/flicker/chapters/chapter-1/</loc>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/books/radiance/chapters/chapter-1/</loc>
+  </url><url>
     <loc>https://blog.rohanbatra.in/categories/</loc>
     <lastmod>2025-05-08T23:25:17+05:30</lastmod>
   </url><url>
@@ -945,5 +951,53 @@
     <lastmod>2025-04-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.rohanbatra.in/posts/oops/oops-principles/</loc>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/meta/about/</loc>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/books/</loc>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/books/ember/chapters/</loc>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/books/flicker/chapters/</loc>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/books/radiance/chapters/</loc>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/books/ember/characters/</loc>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/books/flicker/characters/</loc>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/books/radiance/characters/</loc>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/books/ember/chapters/chapter-1/dialogue/</loc>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/books/flicker/chapters/chapter-1/dialogue/</loc>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/books/radiance/chapters/chapter-1/dialogue/</loc>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/books/ember/</loc>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/books/flicker/</loc>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/meta/</loc>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/books/ember/notes/</loc>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/books/flicker/notes/</loc>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/books/radiance/notes/</loc>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/books/radiance/</loc>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/meta/symbolism/</loc>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/meta/timeline/</loc>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/books/ember/chapters/chapter-1/tpp/</loc>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/books/flicker/chapters/chapter-1/tpp/</loc>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/books/radiance/chapters/chapter-1/tpp/</loc>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/books/ember/world/</loc>
   </url>
 </urlset>

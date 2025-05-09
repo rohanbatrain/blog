@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Meta on Rohan&#39;s Blog</title>
+    <link>https://blog.rohanbatra.in/meta/</link>
+    <description>Recent content in Meta on Rohan&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="https://blog.rohanbatra.in/meta/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About the Trilogy</title>
+      <link>https://blog.rohanbatra.in/meta/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.rohanbatra.in/meta/about/</guid>
+      <description>&lt;p&gt;This trilogy explores light and fire as metaphors for growth, resistance, and decay.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Symbolism</title>
+      <link>https://blog.rohanbatra.in/meta/symbolism/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.rohanbatra.in/meta/symbolism/</guid>
+      <description>&lt;p&gt;🔥 Fire = transformation&lt;br&gt;&#xA;💡 Light = truth&lt;br&gt;&#xA;🌑 Shadow = fear&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Timeline</title>
+      <link>https://blog.rohanbatra.in/meta/timeline/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.rohanbatra.in/meta/timeline/</guid>
+      <description>&lt;p&gt;Coming soon: an interactive timeline of events across all three books.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
