@@ -15,5 +15,12 @@
       <guid>https://blog.rohanbatra.in/posts/oops/set-and-sortedset/</guid>
       <description>&lt;h2 id=&#34;set-and-sortedset&#34;&gt;Set and SortedSet&lt;/h2&gt;&#xA;&lt;p&gt;In Java, the &lt;strong&gt;Set&lt;/strong&gt; and &lt;strong&gt;SortedSet&lt;/strong&gt; interfaces represent collections of unique elements. While the &lt;code&gt;Set&lt;/code&gt; interface simply enforces uniqueness, the &lt;code&gt;SortedSet&lt;/code&gt; interface builds upon &lt;code&gt;Set&lt;/code&gt; by maintaining its elements in a sorted order. Both interfaces are part of the Java Collections Framework and are primarily used when uniqueness and ordering are required.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;set-interface&#34;&gt;Set Interface&lt;/h3&gt;&#xA;&lt;p&gt;The &lt;strong&gt;Set&lt;/strong&gt; interface extends the &lt;code&gt;Collection&lt;/code&gt; interface and does not allow duplicate elements. The most commonly used implementations of &lt;code&gt;Set&lt;/code&gt; are:&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>Collections</title>
+      <link>https://blog.rohanbatra.in/posts/oops/collections/</link>
+      <pubDate>Thu, 08 May 2025 22:39:52 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/posts/oops/collections/</guid>
+      <description>&lt;h2 id=&#34;collections&#34;&gt;Collections&lt;/h2&gt;&#xA;&lt;p&gt;In Java, the &lt;strong&gt;Collections Framework&lt;/strong&gt; is a unified architecture for representing and manipulating collections of objects. It provides a set of interfaces, implementations, and algorithms to handle various types of data collections like lists, sets, and maps. The &lt;code&gt;java.util&lt;/code&gt; package contains all the collection classes and interfaces.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;core-interfaces-of-collections-framework&#34;&gt;Core Interfaces of Collections Framework&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Collection Interface&lt;/strong&gt;:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;The root interface of the collection hierarchy. It defines common operations like &lt;code&gt;add()&lt;/code&gt;, &lt;code&gt;remove()&lt;/code&gt;, &lt;code&gt;size()&lt;/code&gt;, and &lt;code&gt;clear()&lt;/code&gt;, which are implemented by all other collection classes.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Set Interface&lt;/strong&gt;:&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
