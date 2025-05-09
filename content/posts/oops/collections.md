@@ -1,32 +1,7 @@
 ---
 title: "Collections"
 date: 2025-05-08T22:39:52+05:30
-draft: true
 categories: ["OOPs"]
----
-
-Let's begin with **Unit V: Collections and Wrapper Class**. We'll follow the same approach as before, creating one note at a time. Let's start with **Collections**.
-
----
-
-### Step 1: **Collections Note**
-
-### Hugo command to create the note:
-
-```bash
-hugo new posts/oops/collections.md
-```
-
-### Filename:
-
-`collections.md`
-
-### Content for **collections.md**:
-
-```markdown
----
-title: "Collections"
-date: 2025-05-08T12:00:00
 draft: false
 tags: ["Java", "Collections", "OOP", "List", "Set", "Map"]
 ---
