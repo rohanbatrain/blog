@@ -21,8 +21,8 @@ The `Collection` interface is part of the Java Collections Framework and defines
 
    ```java
    Collection<String> collection = new ArrayList<>();
-   collection.add("Alice");
-```
+   collection.add("Alice"); 
+   ```
 
 2. **remove(Object o)**:
 
