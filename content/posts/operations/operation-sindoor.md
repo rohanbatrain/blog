@@ -5,6 +5,7 @@ category: ["Counter-Terror","Operations"]
 tags: [India, Counter-Terror]
 ---
 
+> Disclaimer: Please be aware that portions of this update have been summarised with the assistance of artificial intelligence.
 
 # 10 May
 

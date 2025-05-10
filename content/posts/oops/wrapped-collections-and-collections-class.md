@@ -23,7 +23,7 @@ Wrapped collections are used to extend the functionality of existing collections
    List<String> names = Collections.synchronizedList(new ArrayList<>());
    names.add("Alice");
    names.add("Bob");
-```
+   ```
 
 2. **Unmodifiable Collections**:
 
