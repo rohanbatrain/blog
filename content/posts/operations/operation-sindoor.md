@@ -13,6 +13,9 @@ tags: [India, Counter-Terror]
 
 The Ministry of External Affairs has confirmed Pakistan's violation of the ceasefire agreement.
 
+Source:
+- [Ministry of External Affairs](https://x.com/SpokespersonMoD/status/1921265915733123462)
+
 ## Pakistan's Persistent Disinformation and Escalatory Actions Continue
 
 Official Spokesperson Shri Randhir Jaiswal welcomed the media to a briefing by Foreign Secretary Shri Vikram Misri, accompanied by Colonel Sofiya Qureshi and Wing Commander Vyomika Singh, on the ongoing developments related to OPERATION SINDOOR.
@@ -44,7 +47,7 @@ Shri Misri concluded by stating that the situation was evolving and therefore th
 **New Delhi**
 **May 10, 2025**
 
-
+Source:
 - [Ministry of External Affairs](https://www.mea.gov.in/media-briefings.htm?dtl/39486/Transcript_of_Special_briefing_on_OPERATION_SINDOOR_May_10_2025)
 
 ---
@@ -99,6 +102,7 @@ Shri Randhir Jaiswal concluded the press briefing, thanking everyone for their p
 **New Delhi**
 **May 09, 2025**
 
+Source:
 - [Ministry of External Affairs](https://www.mea.gov.in/media-briefings.htm?dtl/39482/Transcript_of_Special_briefing_on_OPERATION_SINDOOR_May_09_2025)
 
 ---
