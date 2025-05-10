@@ -95,7 +95,7 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/rohanbatrain/blog/tree/main/"
+    URL: "https://github.com/rohanbatrain/blog/tree/main/content/"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
@@ -134,7 +134,7 @@ params:
   ShowReadingTime: true
   ShowToc: true
   editPost:
-    URL: "https://github.com/rohanbatrain/blog/content"
+    URL: "https://github.com/rohanbatrain/blog/tree/main/content/"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
   defaultTheme: dark
