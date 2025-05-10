@@ -6,10 +6,6 @@ tags: [India, Counter-Terror]
 ---
 
 
-
-
----
-
 # 10 May
 
 ## 2300 hr

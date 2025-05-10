@@ -134,7 +134,7 @@ params:
   ShowReadingTime: true
   ShowToc: true
   editPost:
-    URL: "https://github.com/rohanbatrain/Blog/content"
+    URL: "https://github.com/rohanbatrain/blog/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
   defaultTheme: dark
