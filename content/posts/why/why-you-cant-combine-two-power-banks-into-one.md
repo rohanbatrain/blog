@@ -5,6 +5,7 @@ author: "Rohan Batra"
 description: "Exploring the myth of merging two power banks into a single higher-capacity unit by chaining them together. Here's why it fails in practice."
 tags: ["power bank", "battery life", "tech myth", "charging", "pTron", "energy efficiency"]
 categories: ["Tech Experiments", "Why"]
+
 ---
 
 ## Can You Make One Power Bank From Two Smaller Units?
@@ -19,11 +20,9 @@ I’ve got **two identical pTron Dynamo Surge 20,000mAh Power Banks** right here
 
 > "What if I just plug one into the other and boom—create a 40,000mAh superbank?"
 
-Now suppose **you** have two power banks like mine. The idea might feel tempting: Power Bank A charges Power Bank B, and then you use Bank B to power your devices.
+While I was working on an SOP to **most efficiently charge my DJI Action** during travels (where minimizing the number of devices I have to handle seemed practical), this idea of combining power banks popped into my mind to reduce the hassle of managing them as separate units.
 
-Sounds like a creative workaround to fuse capacities, right?
-
-But electrically? It’s flawed from the start.
+But now, after testing and learning more, I realize **this is not the way to go.**
 
 ---
 
@@ -31,21 +30,20 @@ But electrically? It’s flawed from the start.
 
 For this experiment, the gear in hand includes:
 
-- **Two pTron Dynamo Surge 20,000mAh** units
-- Each supports **22.5W fast output**, PD, VOOC, Dash, Warp
-- USB-A & USB-C outputs, USB-C input
-- Smart protections for heat, voltage, and current
+* **Two pTron Dynamo Surge 20,000mAh** units
+* Each supports **22.5W fast output**, PD, VOOC, Dash, Warp
+* USB-A & USB-C outputs, USB-C input
+* Smart protections for heat, voltage, and current
 
 Here’s the imagined setup:
 
 ```
 
-Power Bank A  -->  Power Bank B  -->  Phone
+Power Bank A  -->  Power Bank B  -->  Phone/DJI
 
 ```
 
-So, the energy path becomes:  
-**Bank A → Bank B → Phone**
+So, the energy path becomes: **Bank A → Bank B → Phone**
 
 Seems like you’re "combining" power. But let’s break down why this doesn’t hold up.
 
@@ -53,16 +51,17 @@ Seems like you’re "combining" power. But let’s break down why this doesn’t
 
 ## 3. Why This "One from Two" Fails Miserably
 
----
+
 
 ### 🔁 Double Conversion Losses
 
-Power banks store energy at ~3.7V internally. To output power via USB, they boost it to 5V+.  
+Power banks store energy at \~3.7V internally. To output power via USB, they boost it to 5V+.
 When another bank receives that, it *reduces* it back to 3.7V to store it again.
 
 Each of these steps loses about **10–15% energy**. Multiply that across the chain:
 
 #### Real-world Loss Chain:
+
 ```
 
 Bank A → ~18,000mAh usable
@@ -81,9 +80,9 @@ You’ve lost **nearly 40%** of usable energy.
 
 ### 🔥 Heat and Stress
 
-- Every boost/buck conversion creates **heat**.
-- Running this loop stresses both banks, especially when repeated.
-- Long-term? You risk **degrading the lithium cells** and port quality.
+* Every boost/buck conversion creates **heat**.
+* Running this loop stresses both banks, especially when repeated.
+* Long-term? You risk **degrading the lithium cells** and port quality.
 
 ---
 
@@ -99,9 +98,9 @@ All that, and you still haven’t charged your phone.
 
 Even with two banks, you're not making a mega-unit. You’re just:
 
-- Converting energy inefficiently  
-- Losing power with every jump  
-- Creating more heat than charge
+* Converting energy inefficiently
+* Losing power with every jump
+* Creating more heat than charge
 
 And the kicker?
 
@@ -117,16 +116,18 @@ Unlike internal parallel connections inside a **real 40,000mAh power bank**, thi
 
 ```
 
-Power Bank A  --> Conversion  --> Power Bank B  --> Conversion --> Phone
- |                           |
+Power Bank A  --> Conversion  --> Power Bank B  --> Conversion --> Phone 
+  
+|                           |
+
 Energy Loss              Energy Loss
 
 ```
 
-- Redundant circuits  
-- Conversion overhead  
-- Thermal stress  
-- No gain in actual capacity  
+* Redundant circuits
+* Conversion overhead
+* Thermal stress
+* No gain in actual capacity
 
 It’s like pouring water between two buckets and expecting it to double.
 
@@ -153,4 +154,3 @@ It’s like pouring water between two buckets and expecting it to double.
 Two power banks are great—just not as one. Use them smartly, not synthetically.
 
 Your gadgets—and your sanity—will thank you.
-
