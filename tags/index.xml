@@ -6,8 +6,64 @@
     <description>Recent content in Tags on Rohan&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 11 May 2025 12:40:03 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 11 May 2025 20:56:17 +0530</lastBuildDate>
     <atom:link href="https://blog.rohanbatra.in/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Automation</title>
+      <link>https://blog.rohanbatra.in/tags/automation/</link>
+      <pubDate>Sun, 11 May 2025 20:56:17 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/automation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bash</title>
+      <link>https://blog.rohanbatra.in/tags/bash/</link>
+      <pubDate>Sun, 11 May 2025 20:56:17 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/bash/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Productivity</title>
+      <link>https://blog.rohanbatra.in/tags/productivity/</link>
+      <pubDate>Sun, 11 May 2025 20:56:17 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/productivity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Script</title>
+      <link>https://blog.rohanbatra.in/tags/script/</link>
+      <pubDate>Sun, 11 May 2025 20:56:17 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/script/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Color Grading</title>
+      <link>https://blog.rohanbatra.in/tags/color-grading/</link>
+      <pubDate>Sun, 11 May 2025 20:17:20 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/color-grading/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>FFmpeg</title>
+      <link>https://blog.rohanbatra.in/tags/ffmpeg/</link>
+      <pubDate>Sun, 11 May 2025 20:17:20 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/ffmpeg/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>LUTs</title>
+      <link>https://blog.rohanbatra.in/tags/luts/</link>
+      <pubDate>Sun, 11 May 2025 20:17:20 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/luts/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Video Editing</title>
+      <link>https://blog.rohanbatra.in/tags/video-editing/</link>
+      <pubDate>Sun, 11 May 2025 20:17:20 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/video-editing/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Battery Life</title>
       <link>https://blog.rohanbatra.in/tags/battery-life/</link>
@@ -842,7 +898,7 @@
       <description></description>
     </item>
     <item>
-      <title>Ssh</title>
+      <title>SSH</title>
       <link>https://blog.rohanbatra.in/tags/ssh/</link>
       <pubDate>Sun, 04 May 2025 01:15:21 +0530</pubDate>
       <guid>https://blog.rohanbatra.in/tags/ssh/</guid>
@@ -860,13 +916,6 @@
       <link>https://blog.rohanbatra.in/tags/arch-linux/</link>
       <pubDate>Sun, 04 May 2025 00:43:21 +0530</pubDate>
       <guid>https://blog.rohanbatra.in/tags/arch-linux/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Automation</title>
-      <link>https://blog.rohanbatra.in/tags/automation/</link>
-      <pubDate>Sun, 04 May 2025 00:43:21 +0530</pubDate>
-      <guid>https://blog.rohanbatra.in/tags/automation/</guid>
       <description></description>
     </item>
     <item>
@@ -993,13 +1042,6 @@
       <link>https://blog.rohanbatra.in/tags/nic/</link>
       <pubDate>Sat, 03 May 2025 00:00:00 +0000</pubDate>
       <guid>https://blog.rohanbatra.in/tags/nic/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Bash</title>
-      <link>https://blog.rohanbatra.in/tags/bash/</link>
-      <pubDate>Sat, 03 May 2025 00:31:19 +0530</pubDate>
-      <guid>https://blog.rohanbatra.in/tags/bash/</guid>
       <description></description>
     </item>
     <item>

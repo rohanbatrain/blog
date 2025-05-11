@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tutorials on Rohan&#39;s Blog</title>
+    <link>https://blog.rohanbatra.in/categories/tutorials/</link>
+    <description>Recent content in Tutorials on Rohan&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 11 May 2025 20:56:17 +0530</lastBuildDate>
+    <atom:link href="https://blog.rohanbatra.in/categories/tutorials/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Remove Files Without Extensions Using a Bash Script</title>
+      <link>https://blog.rohanbatra.in/posts/howto/remove-files-without-extensions/</link>
+      <pubDate>Sun, 11 May 2025 20:56:17 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/posts/howto/remove-files-without-extensions/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;In production environments, it&amp;rsquo;s not uncommon to encounter files without extensions. These files can be hard to manage and may clutter up directories, making file operations more difficult. This blog post will guide you through writing a bash script that removes files without extensions from a given directory. The script is designed to be production-ready, meaning it includes logging and error handling to ensure safe and traceable file cleanup.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Automated LUT Testing and Rendering with FFmpeg</title>
+      <link>https://blog.rohanbatra.in/posts/howto/automated-lut-testing-ffmpeg/</link>
+      <pubDate>Sun, 11 May 2025 20:17:20 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/posts/howto/automated-lut-testing-ffmpeg/</guid>
+      <description>&lt;h1 id=&#34;-automated-lut-testing-and-rendering-with-ffmpeg&#34;&gt;🎨 Automated LUT Testing and Rendering with FFmpeg&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Color grading&lt;/strong&gt; can dramatically change the mood and aesthetic of your video. But testing multiple LUTs (&lt;code&gt;.cube&lt;/code&gt; files) manually can be a tedious process. This post walks you through a &lt;strong&gt;developer-friendly&lt;/strong&gt;, &lt;strong&gt;automated workflow&lt;/strong&gt; to:&lt;/p&gt;&#xA;&lt;p&gt;✅ Preview LUTs one by one with &lt;code&gt;ffplay&lt;/code&gt;&lt;br&gt;&#xA;✅ See the LUT name overlaid live&lt;br&gt;&#xA;✅ Automatically go to the next LUT when you close the window&lt;br&gt;&#xA;✅ Export final renders for each LUT using &lt;code&gt;ffmpeg&lt;/code&gt;&lt;br&gt;&#xA;✅ Choose a single LUT for final export if you prefer&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

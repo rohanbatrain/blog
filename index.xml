@@ -6,8 +6,22 @@
     <description>Recent content on Rohan&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 11 May 2025 12:40:03 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 11 May 2025 20:56:17 +0530</lastBuildDate>
     <atom:link href="https://blog.rohanbatra.in/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Remove Files Without Extensions Using a Bash Script</title>
+      <link>https://blog.rohanbatra.in/posts/howto/remove-files-without-extensions/</link>
+      <pubDate>Sun, 11 May 2025 20:56:17 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/posts/howto/remove-files-without-extensions/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;In production environments, it&amp;rsquo;s not uncommon to encounter files without extensions. These files can be hard to manage and may clutter up directories, making file operations more difficult. This blog post will guide you through writing a bash script that removes files without extensions from a given directory. The script is designed to be production-ready, meaning it includes logging and error handling to ensure safe and traceable file cleanup.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Automated LUT Testing and Rendering with FFmpeg</title>
+      <link>https://blog.rohanbatra.in/posts/howto/automated-lut-testing-ffmpeg/</link>
+      <pubDate>Sun, 11 May 2025 20:17:20 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/posts/howto/automated-lut-testing-ffmpeg/</guid>
+      <description>&lt;h1 id=&#34;-automated-lut-testing-and-rendering-with-ffmpeg&#34;&gt;🎨 Automated LUT Testing and Rendering with FFmpeg&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Color grading&lt;/strong&gt; can dramatically change the mood and aesthetic of your video. But testing multiple LUTs (&lt;code&gt;.cube&lt;/code&gt; files) manually can be a tedious process. This post walks you through a &lt;strong&gt;developer-friendly&lt;/strong&gt;, &lt;strong&gt;automated workflow&lt;/strong&gt; to:&lt;/p&gt;&#xA;&lt;p&gt;✅ Preview LUTs one by one with &lt;code&gt;ffplay&lt;/code&gt;&lt;br&gt;&#xA;✅ See the LUT name overlaid live&lt;br&gt;&#xA;✅ Automatically go to the next LUT when you close the window&lt;br&gt;&#xA;✅ Export final renders for each LUT using &lt;code&gt;ffmpeg&lt;/code&gt;&lt;br&gt;&#xA;✅ Choose a single LUT for final export if you prefer&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Why You Can’t Combine Two Power Banks into One Beast</title>
       <link>https://blog.rohanbatra.in/posts/why/why-you-cant-combine-two-power-banks-into-one/</link>
@@ -227,9 +241,9 @@
     </item>
     <item>
       <title>How to Install Anki on Arch Linux</title>
-      <link>https://blog.rohanbatra.in/posts/how-to-install-anki-on-arch-linux/</link>
+      <link>https://blog.rohanbatra.in/posts/howto/how-to-install-anki-on-arch-linux/</link>
       <pubDate>Thu, 08 May 2025 21:37:45 +0530</pubDate>
-      <guid>https://blog.rohanbatra.in/posts/how-to-install-anki-on-arch-linux/</guid>
+      <guid>https://blog.rohanbatra.in/posts/howto/how-to-install-anki-on-arch-linux/</guid>
       <description>&lt;h2 id=&#34;1-prerequisites&#34;&gt;1. Prerequisites&lt;/h2&gt;&#xA;&lt;p&gt;Before you begin, ensure your system is up‑to‑date:&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;sudo pacman -Syu                                     &lt;span class=&#34;c1&#34;&gt;# Update core system packages&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;sudo pacman -S base-devel git                       &lt;span class=&#34;c1&#34;&gt;# Install build tools&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;If you plan to use Snap later, you’ll also need:&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;sudo pacman -S --needed go squashfs-tools&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;&#xA;&lt;h2 id=&#34;2-method-a-installing-via-aur&#34;&gt;2. Method A: Installing via AUR&lt;/h2&gt;&#xA;&lt;p&gt;ArchWiki recommends using the AUR packages &lt;code&gt;anki&lt;/code&gt; or &lt;code&gt;anki-bin&lt;/code&gt;:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Choose your helper&lt;/strong&gt; (we’ll use &lt;code&gt;yay&lt;/code&gt; below):&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;sudo pacman -S yay                                &lt;span class=&#34;c1&#34;&gt;# Install yay from [community]&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Install the binary bundle&lt;/strong&gt; (no local build):&lt;/p&gt;</description>
     </item>
     <item>
@@ -598,9 +612,9 @@
     </item>
     <item>
       <title>How to Install OpenSSH on Arch Linux Using a Script</title>
-      <link>https://blog.rohanbatra.in/posts/2025-05-04-installing-ssh-on-arch/</link>
+      <link>https://blog.rohanbatra.in/posts/howto/2025-05-04-installing-ssh-on-arch/</link>
       <pubDate>Sun, 04 May 2025 00:43:21 +0530</pubDate>
-      <guid>https://blog.rohanbatra.in/posts/2025-05-04-installing-ssh-on-arch/</guid>
+      <guid>https://blog.rohanbatra.in/posts/howto/2025-05-04-installing-ssh-on-arch/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;In this post, we will walk through how to quickly install and configure &lt;strong&gt;OpenSSH&lt;/strong&gt; on your &lt;strong&gt;Arch Linux&lt;/strong&gt; system using a simple Bash script. Whether you&amp;rsquo;re setting up SSH for the first time or automating your setup process, this script makes the process easy and efficient.&lt;/p&gt;&#xA;&lt;h3 id=&#34;why-use-openssh&#34;&gt;Why Use OpenSSH?&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;OpenSSH&lt;/strong&gt; is a widely used tool to enable secure remote connections to your Linux system. It allows you to remotely access and manage your machine through the terminal, which is essential for remote administration or server management.&lt;/p&gt;</description>
     </item>
     <item>

@@ -8,10 +8,61 @@
   </url><url>
     <loc>https://blog.rohanbatra.in/books/radiance/chapters/chapter-1/</loc>
   </url><url>
-    <loc>https://blog.rohanbatra.in/tags/battery-life/</loc>
-    <lastmod>2025-05-11T12:40:03+05:30</lastmod>
+    <loc>https://blog.rohanbatra.in/tags/automation/</loc>
+    <lastmod>2025-05-11T20:56:17+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/bash/</loc>
+    <lastmod>2025-05-11T20:56:17+05:30</lastmod>
   </url><url>
     <loc>https://blog.rohanbatra.in/categories/</loc>
+    <lastmod>2025-05-11T20:56:17+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/posts/howto/remove-files-without-extensions/</loc>
+    <lastmod>2025-05-11T20:56:17+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/categories/how-to/</loc>
+    <lastmod>2025-05-11T20:56:17+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/posts/</loc>
+    <lastmod>2025-05-11T20:56:17+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/productivity/</loc>
+    <lastmod>2025-05-11T20:56:17+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/</loc>
+    <lastmod>2025-05-11T20:56:17+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/script/</loc>
+    <lastmod>2025-05-11T20:56:17+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/categories/system-administration/</loc>
+    <lastmod>2025-05-11T20:56:17+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/</loc>
+    <lastmod>2025-05-11T20:56:17+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/categories/tutorials/</loc>
+    <lastmod>2025-05-11T20:56:17+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/posts/howto/automated-lut-testing-ffmpeg/</loc>
+    <lastmod>2025-05-11T20:17:20+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/color-grading/</loc>
+    <lastmod>2025-05-11T20:17:20+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/ffmpeg/</loc>
+    <lastmod>2025-05-11T20:17:20+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/luts/</loc>
+    <lastmod>2025-05-11T20:17:20+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/video-editing/</loc>
+    <lastmod>2025-05-11T20:17:20+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/categories/video-production/</loc>
+    <lastmod>2025-05-11T20:17:20+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/battery-life/</loc>
     <lastmod>2025-05-11T12:40:03+05:30</lastmod>
   </url><url>
     <loc>https://blog.rohanbatra.in/tags/charging/</loc>
@@ -20,19 +71,10 @@
     <loc>https://blog.rohanbatra.in/tags/energy-efficiency/</loc>
     <lastmod>2025-05-11T12:40:03+05:30</lastmod>
   </url><url>
-    <loc>https://blog.rohanbatra.in/posts/</loc>
-    <lastmod>2025-05-11T12:40:03+05:30</lastmod>
-  </url><url>
     <loc>https://blog.rohanbatra.in/tags/power-bank/</loc>
     <lastmod>2025-05-11T12:40:03+05:30</lastmod>
   </url><url>
     <loc>https://blog.rohanbatra.in/tags/ptron/</loc>
-    <lastmod>2025-05-11T12:40:03+05:30</lastmod>
-  </url><url>
-    <loc>https://blog.rohanbatra.in/</loc>
-    <lastmod>2025-05-11T12:40:03+05:30</lastmod>
-  </url><url>
-    <loc>https://blog.rohanbatra.in/tags/</loc>
     <lastmod>2025-05-11T12:40:03+05:30</lastmod>
   </url><url>
     <loc>https://blog.rohanbatra.in/categories/tech-experiments/</loc>
@@ -281,7 +323,7 @@
     <loc>https://blog.rohanbatra.in/tags/aur/</loc>
     <lastmod>2025-05-08T21:37:45+05:30</lastmod>
   </url><url>
-    <loc>https://blog.rohanbatra.in/posts/how-to-install-anki-on-arch-linux/</loc>
+    <loc>https://blog.rohanbatra.in/posts/howto/how-to-install-anki-on-arch-linux/</loc>
     <lastmod>2025-05-08T21:37:45+05:30</lastmod>
   </url><url>
     <loc>https://blog.rohanbatra.in/tags/hugo/</loc>
@@ -665,13 +707,7 @@
     <loc>https://blog.rohanbatra.in/tags/arch-linux/</loc>
     <lastmod>2025-05-04T00:43:21+05:30</lastmod>
   </url><url>
-    <loc>https://blog.rohanbatra.in/tags/automation/</loc>
-    <lastmod>2025-05-04T00:43:21+05:30</lastmod>
-  </url><url>
-    <loc>https://blog.rohanbatra.in/posts/2025-05-04-installing-ssh-on-arch/</loc>
-    <lastmod>2025-05-04T00:43:21+05:30</lastmod>
-  </url><url>
-    <loc>https://blog.rohanbatra.in/categories/how-to/</loc>
+    <loc>https://blog.rohanbatra.in/posts/howto/2025-05-04-installing-ssh-on-arch/</loc>
     <lastmod>2025-05-04T00:43:21+05:30</lastmod>
   </url><url>
     <loc>https://blog.rohanbatra.in/categories/linux/</loc>
@@ -763,9 +799,6 @@
   </url><url>
     <loc>https://blog.rohanbatra.in/tags/nic/</loc>
     <lastmod>2025-05-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.rohanbatra.in/tags/bash/</loc>
-    <lastmod>2025-05-03T00:31:19+05:30</lastmod>
   </url><url>
     <loc>https://blog.rohanbatra.in/categories/homelab/</loc>
     <lastmod>2025-05-03T00:31:19+05:30</lastmod>
