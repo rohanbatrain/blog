@@ -3,6 +3,7 @@ title: "How to Install Anki on Arch Linux"
 date: 2025-05-08T21:37:45+05:30
 draft: false
 tags: ["Arch Linux","Anki","AUR","Snap","Hugo"]
+categories: ["How-to"]
 author: "Rohan Batra"
 ---
 
