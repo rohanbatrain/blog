@@ -3,7 +3,7 @@ date: 2025-05-12T17:59:51+05:30
 title: "IEEE Standards 802.3 & 802.11"
 tags: ["IEEE 802.3", "IEEE 802.11", "Ethernet", "Wi-Fi", "network standards"]
 series: "Medium Access Control (MAC)"
-categories: ["Computer Networks"]
+categories: ["Digital Communication and Computer Networks"]
 draft: false
 ---
 

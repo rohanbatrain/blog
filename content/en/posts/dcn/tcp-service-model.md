@@ -3,7 +3,7 @@ date: 2025-05-12T18:11:20+05:30
 title: "TCP: Service Model, Protocol, and Connection Management"
 tags: ["TCP", "Transport Layer", "Connection Management", "Sliding Window", "Congestion Control"]
 series: "Transport Layer"
-categories: ["Computer Networks"]
+categories: ["Digital Communication and Computer Networks"]
 draft: false
 ---
 

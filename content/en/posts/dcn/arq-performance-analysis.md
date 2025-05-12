@@ -3,7 +3,7 @@ date: 2025-05-12T17:55:19+05:30
 title: "Performance Analysis of ARQ Protocols"
 tags: ["ARQ", "performance analysis", "network protocols", "data link layer"]
 series: "Data Link Layer"
-categories: ["Computer Networks"]
+categories: ["Digital Communication and Computer Networks"]
 draft: false
 ---
 

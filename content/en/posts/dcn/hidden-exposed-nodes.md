@@ -3,7 +3,7 @@ date: 2025-05-12T17:57:48+05:30
 title: "Hidden Node and Exposed Node Problems"
 tags: ["hidden node", "exposed node", "MAC protocols", "collision", "wireless networks"]
 series: "Medium Access Control (MAC)"
-categories: ["Computer Networks"]
+categories: ["Digital Communication and Computer Networks"]
 draft: false
 ---
 

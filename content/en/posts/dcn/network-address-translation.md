@@ -3,7 +3,7 @@ date: 2025-05-12T18:01:40+05:30
 title: "Network Address Translation (NAT)"
 tags: ["NAT", "address translation", "network security", "IPv4"]
 series: "Network Layer"
-categories: ["Computer Networks"]
+categories: ["Digital Communication and Computer Networks"]
 draft: false
 ---
 

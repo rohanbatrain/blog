@@ -3,7 +3,7 @@ date: 2025-05-12T18:08:09+05:30
 title: "Wireshark Tool: Introduction and Usage"
 tags: ["Wireshark", "Network Analysis", "Packet Sniffer", "Protocol Analysis"]
 series: "Network Layer"
-categories: ["Computer Networks"]
+categories: ["Digital Communication and Computer Networks"]
 draft: false
 ---
 

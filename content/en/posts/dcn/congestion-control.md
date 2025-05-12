@@ -3,7 +3,7 @@ date: 2025-05-12T18:07:12+05:30
 title: "Congestion Control in Networks"
 tags: ["Congestion Control", "Network Performance", "QoS"]
 series: "Network Layer"
-categories: ["Computer Networks"]
+categories: ["Digital Communication and Computer Networks"]
 draft: false
 ---
 

@@ -4,7 +4,7 @@ date: 2025-05-12T18:10:41+05:30
 title: "UDP: Introduction and Remote Procedure Call (RPC)"
 tags: ["UDP", "Transport Protocols", "Remote Procedure Call", "Real-time Transport"]
 series: "Transport Layer"
-categories: ["Computer Networks"]
+categories: ["Digital Communication and Computer Networks"]
 draft: false
 ---
 

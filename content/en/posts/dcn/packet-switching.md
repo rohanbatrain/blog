@@ -3,7 +3,7 @@ date: 2025-05-12T12:15:21+05:30
 title: "Packet Switching: The Foundation of the Internet"
 tags: ["networking", "communication", "switching", "internet"]
 series: "Switching Techniques"
-categories: ["Computer Networks"]
+categories: ["Digital Communication and Computer Networks"]
 draft: false
 ---
 

@@ -12,7 +12,7 @@ Computer networking connects computing devices to enable data sharing and commun
 
 ---
 
-## 🔹 Purposes of Computer Networks
+## 🔹 Purposes of Digital Communication and Computer Networks
 
 - **Resource Sharing**: Access shared printers, files, storage.
 - **Communication**: Email, chat, video conferencing.
@@ -22,7 +22,7 @@ Computer networking connects computing devices to enable data sharing and commun
 
 ---
 
-## 🔹 Types of Computer Networks
+## 🔹 Types of Digital Communication and Computer Networks
 
 | Network | Coverage Area | Example |
 |--------|----------------|---------|

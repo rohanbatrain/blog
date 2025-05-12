@@ -3,7 +3,7 @@ date: 2025-05-12T12:13:42+05:30
 title: "Circuit Switching: Dedicated Paths in Communication"
 tags: ["networking", "communication", "switching"]
 series: "Switching Techniques"
-categories: ["Computer Networks"]
+categories: ["Digital Communication and Computer Networks"]
 draft: false
 ---
 

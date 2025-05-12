@@ -3,7 +3,7 @@ date: 2025-05-12T18:01:03+05:30
 title: "Network Layer Design Issues"
 tags: ["network layer", "network design", "routing", "protocols"]
 series: "Network Layer"
-categories: ["Computer Networks"]
+categories: ["Digital Communication and Computer Networks"]
 draft: false
 ---
 
@@ -39,5 +39,5 @@ The **Network Layer** is responsible for **routing** data packets between device
 ---
 
 ### 🔗 Links
-- Previous: [Introduction to Computer Networks]({{< relref "2025-05-03-Introduction to Computer Networking Concepts.md" >}})
+- Previous: [Introduction to Digital Communication and Computer Networks]({{< relref "2025-05-03-Introduction to Computer Networking Concepts.md" >}})
 - Next: [Network Address Translation (NAT)]({{< relref "network-address-translation.md" >}})

@@ -3,7 +3,7 @@ date: 2025-05-12T18:08:57+05:30
 title: "Introduction to Transport Layer and Services"
 tags: ["Transport Layer", "UDP", "TCP", "Socket Address", "Port Address", "Transport Protocols"]
 series: "Transport Layer"
-categories: ["Computer Networks"]
+categories: ["Digital Communication and Computer Networks"]
 draft: false
 ---
 

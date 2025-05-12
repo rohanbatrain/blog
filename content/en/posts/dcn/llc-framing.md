@@ -3,7 +3,7 @@ date: 2025-05-12T12:21:00+05:30
 title: "Logical Link Control and Framing in the Data Link Layer"
 tags: ["data link layer", "LLC", "framing", "networking", "protocols"]
 series: "Data Link Layer"
-categories: ["Computer Networks"]
+categories: ["Digital Communication and Computer Networks"]
 draft: false
 ---
 

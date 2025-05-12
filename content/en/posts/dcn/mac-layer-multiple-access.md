@@ -3,7 +3,7 @@ date: 2025-05-12T17:56:58+05:30
 title: "Medium Access Control (MAC) Layer and Multiple Access Protocols"
 tags: ["MAC layer", "TDMA", "FDMA", "CSMA", "multiple access", "protocols"]
 series: "Data Link Layer"
-categories: ["Computer Networks"]
+categories: ["Digital Communication and Computer Networks"]
 draft: false
 ---
 

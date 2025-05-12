@@ -4,7 +4,7 @@ title: "Error Correction and Hamming Code"
 date: 2025-05-12
 tags: ["error correction", "data link layer", "hamming code", "forward error correction"]
 series: "Data Link Layer"
-categories: ["Computer Networks"]
+categories: ["Digital Communication and Computer Networks"]
 draft: false
 ---
 

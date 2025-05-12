@@ -3,7 +3,7 @@ date: 2025-05-12T18:06:38+05:30
 title: "Encapsulation and Tunneling"
 tags: ["Encapsulation", "Tunneling", "IP", "VPN", "Network Layer"]
 series: "Network Layer"
-categories: ["Computer Networks"]
+categories: ["Digital Communication and Computer Networks"]
 draft: false
 ---
 

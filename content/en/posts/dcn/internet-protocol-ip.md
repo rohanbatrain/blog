@@ -3,7 +3,7 @@ date: 2025-05-12T18:02:51+05:30
 title: "Internet Protocol (IP)"
 tags: ["IP", "internet protocol", "IPv4", "IPv6", "addressing"]
 series: "Network Layer"
-categories: ["Computer Networks"]
+categories: ["Digital Communication and Computer Networks"]
 draft: false
 ---
 

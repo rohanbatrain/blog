@@ -3,7 +3,7 @@ date: 2025-05-12T12:14:27+05:30
 title: "Message Switching: Store-and-Forward Flexibility"
 tags: ["networking", "communication", "switching"]
 series: "Switching Techniques"
-categories: ["Computer Networks"]
+categories: ["Digital Communication and Computer Networks"]
 draft: false
 ---
 

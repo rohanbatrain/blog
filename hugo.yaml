@@ -179,10 +179,10 @@ languages:
     languageName: "English"
     weight: 1
     contentDir: "content/en"
-  # fr:
-  #   languageName: "Français"
-  #   weight: 2
-  #   contentDir: "content/fr"
+  hi:
+    languageName: "हिंदी"
+    weight: 2
+    contentDir: "content/hi"
 
 
 

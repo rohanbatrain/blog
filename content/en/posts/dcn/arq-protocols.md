@@ -4,7 +4,7 @@ title: "ARQ Protocols and Reliable Transmission"
 date: 2025-05-12
 tags: ["ARQ", "automatic repeat request", "reliable transmission", "data link layer", "protocols"]
 series: "Data Link Layer"
-categories: ["Computer Networks"]
+categories: ["Digital Communication and Computer Networks"]
 draft: false
 ---
 

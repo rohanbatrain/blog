@@ -3,7 +3,7 @@ date: 2025-05-12T18:07:38+05:30
 title: "Quality of Service (QoS) in Networking"
 tags: ["QoS", "Bandwidth", "Delay", "Jitter", "Packet Loss"]
 series: "Network Layer"
-categories: ["Computer Networks"]
+categories: ["Digital Communication and Computer Networks"]
 draft: false
 ---
 

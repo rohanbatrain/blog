@@ -3,7 +3,7 @@ date: 2025-05-12T18:06:06+05:30
 title: "Routing Protocols: IGP & EGP"
 tags: ["IGP", "EGP", "RIP", "OSPF", "BGP", "Routing"]
 series: "Network Layer"
-categories: ["Computer Networks"]
+categories: ["Digital Communication and Computer Networks"]
 draft: false
 ---
 

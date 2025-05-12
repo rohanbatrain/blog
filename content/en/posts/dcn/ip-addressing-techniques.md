@@ -3,7 +3,7 @@ date: 2025-05-12T18:19:06+05:30
 title: "IP Addressing Techniques"
 tags: ["IP Addressing", "CIDR", "Subnetting", "Supernetting", "IP Techniques"]
 series: "Network Layer"
-categories: ["Computer Networks"]
+categories: ["Digital Communication and Computer Networks"]
 draft: false
 ---
 

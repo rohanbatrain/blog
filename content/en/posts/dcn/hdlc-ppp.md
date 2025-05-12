@@ -3,7 +3,7 @@ date: 2025-05-12T17:54:37+05:30
 title: "HDLC and PPP Protocols"
 tags: ["HDLC", "PPP", "protocols", "data link layer", "networking"]
 series: "Data Link Layer"
-categories: ["Computer Networks"]
+categories: ["Digital Communication and Computer Networks"]
 draft: false
 ---
 

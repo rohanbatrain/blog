@@ -3,7 +3,7 @@ date: 2025-05-12T18:00:25+05:30
 title: "10-Gigabit Ethernet"
 tags: ["10-Gigabit Ethernet", "Ethernet", "high-speed networking", "network performance"]
 series: "Medium Access Control (MAC)"
-categories: ["Computer Networks"]
+categories: ["Digital Communication and Computer Networks"]
 draft: false
 ---
 

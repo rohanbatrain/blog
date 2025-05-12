@@ -3,7 +3,7 @@ date: 2025-05-12T18:04:08+05:30
 title: "Routing Algorithms"
 tags: ["Routing", "Distance Vector", "Link State", "Dijkstra", "Bellman-Ford"]
 series: "Network Layer"
-categories: ["Computer Networks"]
+categories: ["Digital Communication and Computer Networks"]
 draft: false
 ---
 

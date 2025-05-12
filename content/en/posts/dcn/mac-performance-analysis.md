@@ -4,7 +4,7 @@ draft: true
 title: "Performance Analysis of MAC Protocols"
 tags: ["MAC protocols", "performance analysis", "network efficiency", "channel allocation"]
 series: "Medium Access Control (MAC)"
-categories: ["Computer Networks"]
+categories: ["Digital Communication and Computer Networks"]
 draft: false
 ---
 

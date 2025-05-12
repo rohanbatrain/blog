@@ -3,7 +3,7 @@ date: 2025-05-12T18:18:07+05:30
 title: "Character Codes and Error Detection Techniques"
 tags: ["data link layer", "error detection", "character encoding", "VRC", "CRC"]
 series: "Data Link Layer"
-categories: ["Computer Networks"]
+categories: ["Digital Communication and Computer Networks"]
 draft: false
 ---
 

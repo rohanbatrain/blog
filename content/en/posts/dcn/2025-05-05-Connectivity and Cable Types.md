@@ -7,7 +7,7 @@ tags : ["Computer Networking", "Connectivity Devices", "Cable Types"]
 
 ## Connectivity Devices and Cable Types
 
-In computer networks, various **connectivity devices** are used to interconnect network components and ensure proper data communication. Different **cable types** are also essential for transmitting data between devices. Understanding these devices and cables is fundamental for network design, maintenance, and troubleshooting.
+In Digital Communication and Computer Networks, various **connectivity devices** are used to interconnect network components and ensure proper data communication. Different **cable types** are also essential for transmitting data between devices. Understanding these devices and cables is fundamental for network design, maintenance, and troubleshooting.
 
 ---
 

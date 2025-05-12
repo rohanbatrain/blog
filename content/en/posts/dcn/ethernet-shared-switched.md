@@ -3,7 +3,7 @@ date: 2025-05-12T17:59:19+05:30
 title: "Shared and Switched Ethernet"
 tags: ["Ethernet", "shared Ethernet", "switched Ethernet", "network topologies", "performance"]
 series: "Medium Access Control (MAC)"
-categories: ["Computer Networks"]
+categories: ["Digital Communication and Computer Networks"]
 draft: false
 ---
 

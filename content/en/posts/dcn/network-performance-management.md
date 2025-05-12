@@ -3,7 +3,7 @@ date: 2025-05-12T18:12:01+05:30
 title: "Performance Issues and Network Performance Management"
 tags: ["Network Performance", "TCP", "Congestion Control", "Fast Networks", "VPN", "Nmap"]
 series: "Transport Layer"
-categories: ["Computer Networks"]
+categories: ["Digital Communication and Computer Networks"]
 draft: false
 ---
 

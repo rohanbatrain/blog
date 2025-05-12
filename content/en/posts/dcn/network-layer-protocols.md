@@ -4,7 +4,7 @@ title: "Network-Layer Protocols"
 date: 2025-05-12
 tags: ["Network Layer", "Protocols", "IP", "ICMP", "ARP", "RARP"]
 series: "Network Layer"
-categories: ["Computer Networks"]
+categories: ["Digital Communication and Computer Networks"]
 draft: false
 ---
 
