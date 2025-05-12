@@ -37,10 +37,10 @@ Traditional procedural programming (like C) worked fine for small programs but f
 - Reuse was limited and error-prone
 
 OOP addressed these issues using four main principles:
-[Encapsulation]({{< ref "en/posts/oops/encapsulation.md" >}}), 
-[Inheritance]({{< ref "en/posts/oops/inheritance.md" >}}), 
-[Polymorphism]({{< ref "en/posts/oops/polymorphism.md" >}}), and 
-[Abstraction]({{< ref "en/posts/oops/abstraction.md" >}}).
+[Encapsulation]({{< ref "posts/oops/encapsulation.md" >}}), 
+[Inheritance]({{< ref "posts/oops/inheritance.md" >}}), 
+[Polymorphism]({{< ref "posts/oops/polymorphism.md" >}}), and 
+[Abstraction]({{< ref "posts/oops/abstraction.md" >}}).
 
 ---
 
@@ -65,15 +65,15 @@ class Car {
 
 ### 🔗 Linked Notes
 
-* [Encapsulation]({{< ref "en/posts/oops/encapsulation.md" >}})
-* [OOP Principles]({{< ref "en/posts/oops/oop-principles.md" >}})
+* [Encapsulation]({{< ref "posts/oops/encapsulation.md" >}})
+* [OOP Principles]({{< ref "posts/oops/oop-principles.md" >}})
 
 
 
 ### 🔗 Related Notes
-* [OOPs Principles]({{< ref "en/posts/oops/oops-principles.md" >}})
-* [Encapsulation]({{< ref "en/posts/oops/encapsulation.md" >}})
-* [Inheritance]({{< ref "en/posts/oops/inheritance.md" >}})
-* [Polymorphism]({{< ref "en/posts/oops/polymorphism.md" >}})
-* [Abstraction]({{< ref "en/posts/oops/abstraction.md" >}})
-* [Features of Java]({{< ref "en/posts/oops/features-of-java.md" >}})
+* [OOPs Principles]({{< ref "posts/oops/oops-principles.md" >}})
+* [Encapsulation]({{< ref "posts/oops/encapsulation.md" >}})
+* [Inheritance]({{< ref "posts/oops/inheritance.md" >}})
+* [Polymorphism]({{< ref "posts/oops/polymorphism.md" >}})
+* [Abstraction]({{< ref "posts/oops/abstraction.md" >}})
+* [Features of Java]({{< ref "posts/oops/features-of-java.md" >}})

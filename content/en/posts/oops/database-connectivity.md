@@ -93,6 +93,6 @@ public class DatabaseExample {
 
 ### 🔗 Related Notes
 
-* [Generic Class]({{< ref "en/posts/oops/generic-class.md" >}})
-* [Lambdas]({{< ref "en/posts/oops/lambdas.md" >}})
-* [Database Connectivity - Prepared Statement]({{< ref "en/posts/oops/database-connectivity-prepared-statement.md" >}})
+* [Generic Class]({{< ref "posts/oops/generic-class.md" >}})
+* [Lambdas]({{< ref "posts/oops/lambdas.md" >}})
+* [Database Connectivity - Prepared Statement]({{< ref "posts/oops/database-connectivity-prepared-statement.md" >}})

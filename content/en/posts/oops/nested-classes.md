@@ -77,7 +77,7 @@ A **Nested Class** is a class that is defined within another class. In Java, nes
 
 ### 🔗 Related Notes
 
-* [Exception Handling]({{< ref "en/posts/oops/exception-handling.md" >}})
-* [Types of Nested Classes]({{< ref "en/posts/oops/types-of-nested-classes.md" >}})
-* [The Thread Class]({{< ref "en/posts/oops/thread-class.md" >}})
-* [Runnable Interface]({{< ref "en/posts/oops/runnable-interface.md" >}})
+* [Exception Handling]({{< ref "posts/oops/exception-handling.md" >}})
+* [Types of Nested Classes]({{< ref "posts/oops/types-of-nested-classes.md" >}})
+* [The Thread Class]({{< ref "posts/oops/thread-class.md" >}})
+* [Runnable Interface]({{< ref "posts/oops/runnable-interface.md" >}})

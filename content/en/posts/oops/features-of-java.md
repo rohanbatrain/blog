@@ -49,9 +49,9 @@ Java’s design makes it ideal for web, enterprise, mobile, and embedded systems
 
 
 ### 🔗 Related Notes
-* [History and Evolution]({{< ref "en/posts/oops/history-and-evolution.md" >}})
-* [OOPs Principles]({{< ref "en/posts/oops/oops-principles.md" >}})
-* [Encapsulation]({{< ref "en/posts/oops/encapsulation.md" >}})
-* [Inheritance]({{< ref "en/posts/oops/inheritance.md" >}})
-* [Polymorphism]({{< ref "en/posts/oops/polymorphism.md" >}})
-* [Abstraction]({{< ref "en/posts/oops/abstraction.md" >}})
+* [History and Evolution]({{< ref "posts/oops/history-and-evolution.md" >}})
+* [OOPs Principles]({{< ref "posts/oops/oops-principles.md" >}})
+* [Encapsulation]({{< ref "posts/oops/encapsulation.md" >}})
+* [Inheritance]({{< ref "posts/oops/inheritance.md" >}})
+* [Polymorphism]({{< ref "posts/oops/polymorphism.md" >}})
+* [Abstraction]({{< ref "posts/oops/abstraction.md" >}})

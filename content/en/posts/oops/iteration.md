@@ -88,6 +88,6 @@ public class IterationExample {
 
 ### 🔗 Related Notes
 
-* [Collections]({{< ref "en/posts/oops/collections.md" >}})
-* [Iterator Interface]({{< ref "en/posts/oops/iteration-and-collection-interface.md" >}})
+* [Collections]({{< ref "posts/oops/collections.md" >}})
+* [Iterator Interface]({{< ref "posts/oops/iteration-and-collection-interface.md" >}})
 

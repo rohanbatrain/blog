@@ -74,6 +74,6 @@ list.forEach(item -> System.out.println(item));
 
 ### 🔗 Related Notes
 
-* [Functional Interfaces]({{< ref "en/posts/oops/functional-interfaces.md" >}})
-* [Generic Methods]({{< ref "en/posts/oops/generic-methods.md" >}})
+* [Functional Interfaces]({{< ref "posts/oops/functional-interfaces.md" >}})
+* [Generic Methods]({{< ref "posts/oops/generic-methods.md" >}})
 

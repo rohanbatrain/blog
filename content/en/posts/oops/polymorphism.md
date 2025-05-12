@@ -74,9 +74,9 @@ public class Main {
 
 
 ### 🔗 Related Notes
-* [History and Evolution]({{< ref "en/posts/oops/history-and-evolution.md" >}})
-* [OOPs Principles]({{< ref "en/posts/oops/oops-principles.md" >}})
-* [Features of Java]({{< ref "en/posts/oops/features-of-java.md" >}})
-* [Encapsulation]({{< ref "en/posts/oops/encapsulation.md" >}})
-* [Inheritance]({{< ref "en/posts/oops/inheritance.md" >}})
-* [Abstraction]({{< ref "en/posts/oops/abstraction.md" >}})
+* [History and Evolution]({{< ref "posts/oops/history-and-evolution.md" >}})
+* [OOPs Principles]({{< ref "posts/oops/oops-principles.md" >}})
+* [Features of Java]({{< ref "posts/oops/features-of-java.md" >}})
+* [Encapsulation]({{< ref "posts/oops/encapsulation.md" >}})
+* [Inheritance]({{< ref "posts/oops/inheritance.md" >}})
+* [Abstraction]({{< ref "posts/oops/abstraction.md" >}})

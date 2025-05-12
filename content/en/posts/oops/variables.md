@@ -62,8 +62,8 @@ public class VariablesExample {
 
 
 ### 🔗 Related Notes
-* [Data Types]({{< ref "en/posts/oops/data-types.md" >}})
-* [Operators]({{< ref "en/posts/oops/operators.md" >}})
-* [Program Control Statements]({{< ref "en/posts/oops/program-control-statements.md" >}})
-* [Arrays]({{< ref "en/posts/oops/arrays.md" >}})
-* [Strings]({{< ref "en/posts/oops/strings.md" >}})
+* [Data Types]({{< ref "posts/oops/data-types.md" >}})
+* [Operators]({{< ref "posts/oops/operators.md" >}})
+* [Program Control Statements]({{< ref "posts/oops/program-control-statements.md" >}})
+* [Arrays]({{< ref "posts/oops/arrays.md" >}})
+* [Strings]({{< ref "posts/oops/strings.md" >}})

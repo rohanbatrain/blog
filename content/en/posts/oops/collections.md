@@ -73,8 +73,8 @@ public class CollectionsExample {
 
 ### 🔗 Related Notes
 
-* [Iterator and Collection Interface]({{< ref "en/posts/oops/iteration-and-collection-interface.md" >}})
-* [Set Interface]({{< ref "en/posts/oops/set-and-sortedset.md" >}})
-* [List Interface]({{< ref "en/posts/oops/list.md" >}})
-* [Map Interface]({{< ref "en/posts/oops/map-and-sortedmap.md" >}})
+* [Iterator and Collection Interface]({{< ref "posts/oops/iteration-and-collection-interface.md" >}})
+* [Set Interface]({{< ref "posts/oops/set-and-sortedset.md" >}})
+* [List Interface]({{< ref "posts/oops/list.md" >}})
+* [Map Interface]({{< ref "posts/oops/map-and-sortedmap.md" >}})
 

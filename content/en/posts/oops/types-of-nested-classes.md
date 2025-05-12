@@ -114,6 +114,6 @@ public class Main {
 
 ### 🔗 Related Notes
 
-* [Nested Classes]({{< ref "en/posts/oops/nested-classes.md" >}})
-* [Runnable Interface]({{< ref "en/posts/oops/runnable-interface.md" >}})
-* [Thread Class]({{< ref "en/posts/oops/thread-class.md" >}})
+* [Nested Classes]({{< ref "posts/oops/nested-classes.md" >}})
+* [Runnable Interface]({{< ref "posts/oops/runnable-interface.md" >}})
+* [Thread Class]({{< ref "posts/oops/thread-class.md" >}})

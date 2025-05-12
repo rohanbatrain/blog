@@ -83,8 +83,8 @@ public class StringsExample {
 
 
 ### 🔗 Related Notes
-* [Arrays]({{< ref "en/posts/oops/arrays.md" >}})
-* [Program Control Statements]({{< ref "en/posts/oops/program-control-statements.md" >}})
-* [Variables]({{< ref "en/posts/oops/variables.md" >}})
-* [Operators]({{< ref "en/posts/oops/operators.md" >}})
-* [Types of Arrays]({{< ref "en/posts/oops/types-of-arrays.md" >}})
+* [Arrays]({{< ref "posts/oops/arrays.md" >}})
+* [Program Control Statements]({{< ref "posts/oops/program-control-statements.md" >}})
+* [Variables]({{< ref "posts/oops/variables.md" >}})
+* [Operators]({{< ref "posts/oops/operators.md" >}})
+* [Types of Arrays]({{< ref "posts/oops/types-of-arrays.md" >}})

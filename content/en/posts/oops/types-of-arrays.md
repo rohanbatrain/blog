@@ -100,5 +100,5 @@ public class ArrayTypesExample {
 
 
 ### 🔗 Related Notes
-* [Arrays]({{< ref "en/posts/oops/arrays.md" >}})
-* [Data Types]({{< ref "en/posts/oops/data-types.md" >}})
+* [Arrays]({{< ref "posts/oops/arrays.md" >}})
+* [Data Types]({{< ref "posts/oops/data-types.md" >}})

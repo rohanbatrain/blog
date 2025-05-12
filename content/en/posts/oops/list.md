@@ -133,7 +133,7 @@ public class ListExample {
 
 ### 🔗 Related Notes
 
-* [Collections]({{< ref "en/posts/oops/collections.md" >}})
-* [Set and SortedSet]({{< ref "en/posts/oops/set-and-sortedset.md" >}})
-* [Iterator Interface]({{< ref "en/posts/oops/iteration-and-collection-interface.md" >}})
+* [Collections]({{< ref "posts/oops/collections.md" >}})
+* [Set and SortedSet]({{< ref "posts/oops/set-and-sortedset.md" >}})
+* [Iterator Interface]({{< ref "posts/oops/iteration-and-collection-interface.md" >}})
 

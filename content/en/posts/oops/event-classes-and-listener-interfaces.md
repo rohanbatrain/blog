@@ -65,7 +65,7 @@ addMouseListener(new MouseAdapter() {
 
 ### 🔗 Related Notes
 
-* [Swing Event Handling]({{< ref "en/posts/oops/swing-event-handling.md" >}})
-* [Event Listeners]({{< ref "en/posts/oops/event-listeners.md" >}})
-* [Swing Controls]({{< ref "en/posts/oops/swing-controls.md" >}})
+* [Swing Event Handling]({{< ref "posts/oops/swing-event-handling.md" >}})
+* [Event Listeners]({{< ref "posts/oops/event-listeners.md" >}})
+* [Swing Controls]({{< ref "posts/oops/swing-controls.md" >}})
 

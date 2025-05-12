@@ -114,6 +114,6 @@ public class SetAndSortedSetExample {
 
 ### 🔗 Related Notes
 
-* [Collections]({{< ref "en/posts/oops/collections.md" >}})
-* [List Interface]({{< ref "en/posts/oops/list.md" >}})
-* [Iterator Interface]({{< ref "en/posts/oops/iteration-and-collection-interface.md" >}})
+* [Collections]({{< ref "posts/oops/collections.md" >}})
+* [List Interface]({{< ref "posts/oops/list.md" >}})
+* [Iterator Interface]({{< ref "posts/oops/iteration-and-collection-interface.md" >}})

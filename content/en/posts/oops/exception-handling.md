@@ -61,8 +61,8 @@ This will always execute.
 
 ### 🔗 Related Notes
 
-* [Exception Handlers]({{< ref "en/posts/oops/exception-handlers.md" >}})
-* [Nested Classes]({{< ref "en/posts/oops/nested-classes.md" >}})
-* [Types of Nested Classes]({{< ref "en/posts/oops/types-of-nested-classes.md" >}})
-* [Thread Class]({{< ref "en/posts/oops/thread-class.md" >}})
+* [Exception Handlers]({{< ref "posts/oops/exception-handlers.md" >}})
+* [Nested Classes]({{< ref "posts/oops/nested-classes.md" >}})
+* [Types of Nested Classes]({{< ref "posts/oops/types-of-nested-classes.md" >}})
+* [Thread Class]({{< ref "posts/oops/thread-class.md" >}})
 

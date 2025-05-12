@@ -63,5 +63,5 @@ System.out.println(isLong.test("Hello")); // false
 
 ### 🔗 Related Notes
 
-* [Lambdas]({{< ref "en/posts/oops/lambdas.md" >}})
-* [Generic Methods]({{< ref "en/posts/oops/generic-methods.md" >}})
+* [Lambdas]({{< ref "posts/oops/lambdas.md" >}})
+* [Generic Methods]({{< ref "posts/oops/generic-methods.md" >}})

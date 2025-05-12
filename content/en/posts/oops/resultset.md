@@ -98,6 +98,6 @@ public class ResultSetExample {
 
 ### 🔗 Related Notes
 
-* [CallableStatement]({{< ref "en/posts/oops/database-connectivity-callable-statement.md" >}})
-* [PreparedStatement]({{< ref "en/posts/oops/database-connectivity-prepared-statement.md" >}})
-* [Database Connectivity]({{< ref "en/posts/oops/database-connectivity.md" >}})
+* [CallableStatement]({{< ref "posts/oops/database-connectivity-callable-statement.md" >}})
+* [PreparedStatement]({{< ref "posts/oops/database-connectivity-prepared-statement.md" >}})
+* [Database Connectivity]({{< ref "posts/oops/database-connectivity.md" >}})

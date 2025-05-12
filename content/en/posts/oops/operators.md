@@ -70,8 +70,8 @@ Operator precedence determines the order in which operators are evaluated. For e
 
 
 ### 🔗 Related Notes
-* [Data Types]({{< ref "en/posts/oops/data-types.md" >}})
-* [Variables]({{< ref "en/posts/oops/variables.md" >}})
-* [Program Control Statements]({{< ref "en/posts/oops/program-control-statements.md" >}})
-* [Arrays]({{< ref "en/posts/oops/arrays.md" >}})
-* [Strings]({{< ref "en/posts/oops/strings.md" >}})
+* [Data Types]({{< ref "posts/oops/data-types.md" >}})
+* [Variables]({{< ref "posts/oops/variables.md" >}})
+* [Program Control Statements]({{< ref "posts/oops/program-control-statements.md" >}})
+* [Arrays]({{< ref "posts/oops/arrays.md" >}})
+* [Strings]({{< ref "posts/oops/strings.md" >}})

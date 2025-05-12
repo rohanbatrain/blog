@@ -11,7 +11,7 @@ tags: ["Hugo", "PaperMod", "Static Site Generator", "Web Development", "Blog Set
 description: "A behind-the-scenes look at how I built my blog, from setting up Hugo to customizing the PaperMod theme, and everything in between."
 image: "banners/hugo-banner.webp"
 aliases:
-  - "/en/posts/how-i-built-my-blog-with-hugo-and-paper-mod/"
+  - "/posts/how-i-built-my-blog-with-hugo-and-paper-mod/"
 ---
 
 

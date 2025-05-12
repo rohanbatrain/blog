@@ -86,6 +86,6 @@ synchronized void printTable(int n) {
 
 ### 🔗 Related Notes
 
-* [Thread Class]({{< ref "en/posts/oops/thread-class.md" >}})
-* [Runnable Interface]({{< ref "en/posts/oops/runnable-interface.md" >}})
-* [Exception Handling]({{< ref "en/posts/oops/exception-handling.md" >}})
+* [Thread Class]({{< ref "posts/oops/thread-class.md" >}})
+* [Runnable Interface]({{< ref "posts/oops/runnable-interface.md" >}})
+* [Exception Handling]({{< ref "posts/oops/exception-handling.md" >}})

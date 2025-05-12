@@ -63,7 +63,7 @@ try (FileWriter writer = new FileWriter("example.txt")) {
 
 ### 🔗 Related Notes
 
-* [FileReader]({{< ref "en/posts/oops/filereader.md" >}})
-* [Exception Handlers]({{< ref "en/posts/oops/exception-handlers.md" >}})
-* [Concurrent Programming]({{< ref "en/posts/oops/concurrent-programming.md" >}})
+* [FileReader]({{< ref "posts/oops/filereader.md" >}})
+* [Exception Handlers]({{< ref "posts/oops/exception-handlers.md" >}})
+* [Concurrent Programming]({{< ref "posts/oops/concurrent-programming.md" >}})
 

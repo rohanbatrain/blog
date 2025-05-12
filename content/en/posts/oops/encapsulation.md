@@ -52,9 +52,9 @@ class Student {
 
 
 ### 🔗 Related Notes
-* [History and Evolution]({{< ref "en/posts/oops/history-and-evolution.md" >}})
-* [OOPs Principles]({{< ref "en/posts/oops/oops-principles.md" >}})
-* [Features of Java]({{< ref "en/posts/oops/features-of-java.md" >}})
-* [Inheritance]({{< ref "en/posts/oops/inheritance.md" >}})
-* [Polymorphism]({{< ref "en/posts/oops/polymorphism.md" >}})
-* [Abstraction]({{< ref "en/posts/oops/abstraction.md" >}})
+* [History and Evolution]({{< ref "posts/oops/history-and-evolution.md" >}})
+* [OOPs Principles]({{< ref "posts/oops/oops-principles.md" >}})
+* [Features of Java]({{< ref "posts/oops/features-of-java.md" >}})
+* [Inheritance]({{< ref "posts/oops/inheritance.md" >}})
+* [Polymorphism]({{< ref "posts/oops/polymorphism.md" >}})
+* [Abstraction]({{< ref "posts/oops/abstraction.md" >}})

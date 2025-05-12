@@ -83,6 +83,6 @@ comboBox.addActionListener(new ActionListener() {
 
 ### 🔗 Related Notes
 
-* [Swing Event Handling]({{< ref "en/posts/oops/swing-event-handling.md" >}})
-* [Event Listeners]({{< ref "en/posts/oops/event-listeners.md" >}})
-* [Swing]({{< ref "en/posts/oops/swing.md" >}})
+* [Swing Event Handling]({{< ref "posts/oops/swing-event-handling.md" >}})
+* [Event Listeners]({{< ref "posts/oops/event-listeners.md" >}})
+* [Swing]({{< ref "posts/oops/swing.md" >}})

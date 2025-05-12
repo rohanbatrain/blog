@@ -55,8 +55,8 @@ public class DataTypesExample {
 
 
 ### 🔗 Related Notes
-* [Variables]({{< ref "en/posts/oops/variables.md" >}})
-* [Operators]({{< ref "en/posts/oops/operators.md" >}})
-* [Program Control Statements]({{< ref "en/posts/oops/program-control-statements.md" >}})
-* [Arrays]({{< ref "en/posts/oops/arrays.md" >}})
-* [Strings]({{< ref "en/posts/oops/strings.md" >}})
+* [Variables]({{< ref "posts/oops/variables.md" >}})
+* [Operators]({{< ref "posts/oops/operators.md" >}})
+* [Program Control Statements]({{< ref "posts/oops/program-control-statements.md" >}})
+* [Arrays]({{< ref "posts/oops/arrays.md" >}})
+* [Strings]({{< ref "posts/oops/strings.md" >}})

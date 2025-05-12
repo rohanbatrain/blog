@@ -112,7 +112,7 @@ public class CallableStatementExample {
 
 ### 🔗 Related Notes
 
-* [Database Connectivity]({{< ref "en/posts/oops/database-connectivity.md" >}})
-* [PreparedStatement]({{< ref "en/posts/oops/database-connectivity-prepared-statement.md" >}})
-* [ResultSet]({{< ref "en/posts/oops/resultset.md" >}})
+* [Database Connectivity]({{< ref "posts/oops/database-connectivity.md" >}})
+* [PreparedStatement]({{< ref "posts/oops/database-connectivity-prepared-statement.md" >}})
+* [ResultSet]({{< ref "posts/oops/resultset.md" >}})
 

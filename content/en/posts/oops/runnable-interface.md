@@ -75,7 +75,7 @@ public class Main {
 
 ### 🔗 Related Notes
 
-* [Thread Class]({{< ref "en/posts/oops/thread-class.md" >}})
-* [Concurrent Programming]({{< ref "en/posts/oops/concurrent-programming.md" >}})
-* [Exception Handlers]({{< ref "en/posts/oops/exception-handlers.md" >}})
+* [Thread Class]({{< ref "posts/oops/thread-class.md" >}})
+* [Concurrent Programming]({{< ref "posts/oops/concurrent-programming.md" >}})
+* [Exception Handlers]({{< ref "posts/oops/exception-handlers.md" >}})
 

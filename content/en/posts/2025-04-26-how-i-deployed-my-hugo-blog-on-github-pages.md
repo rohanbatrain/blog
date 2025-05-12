@@ -11,7 +11,7 @@ authors:
 draft: false
 # image: "banners/hugo-banner.webp"
 aliases:
-  - "/en/posts/how-i-deployed-my-hugo-blog-on-github-pages/"
+  - "/posts/how-i-deployed-my-hugo-blog-on-github-pages/"
 ---
 
 ## Introduction

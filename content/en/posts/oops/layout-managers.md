@@ -62,6 +62,6 @@ JPanel centerPanel = new JPanel(new GridLayout(2, 2));
 
 ### 🔗 Related Notes
 
-* [Swing]({{< ref "en/posts/oops/swing.md" >}})
-* [Components and Containers]({{< ref "en/posts/oops/components-and-containers.md" >}})
-* [Swing Controls]({{< ref "en/posts/oops/swing-controls.md" >}})
+* [Swing]({{< ref "posts/oops/swing.md" >}})
+* [Components and Containers]({{< ref "posts/oops/components-and-containers.md" >}})
+* [Swing Controls]({{< ref "posts/oops/swing-controls.md" >}})

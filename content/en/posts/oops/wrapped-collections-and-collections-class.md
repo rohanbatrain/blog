@@ -151,6 +151,6 @@ public class WrappedCollectionsExample {
 
 ### 🔗 Related Notes
 
-* [Collections]({{< ref "en/posts/oops/collections.md" >}})
-* [Map and SortedMap]({{< ref "en/posts/oops/map-and-sortedmap.md" >}})
-* [List]({{< ref "en/posts/oops/list.md" >}})
+* [Collections]({{< ref "posts/oops/collections.md" >}})
+* [Map and SortedMap]({{< ref "posts/oops/map-and-sortedmap.md" >}})
+* [List]({{< ref "posts/oops/list.md" >}})

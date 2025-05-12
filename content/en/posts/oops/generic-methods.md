@@ -64,6 +64,6 @@ public <T extends Number> void printNumber(T num) {
 
 ### 🔗 Related Notes
 
-* [Generics Fundamentals]({{< ref "en/posts/oops/generics-fundamentals.md" >}})
-* [Generic Class]({{< ref "en/posts/oops/generic-class.md" >}})
-* [Functional Interfaces]({{< ref "en/posts/oops/functional-interfaces.md" >}})
+* [Generics Fundamentals]({{< ref "posts/oops/generics-fundamentals.md" >}})
+* [Generic Class]({{< ref "posts/oops/generic-class.md" >}})
+* [Functional Interfaces]({{< ref "posts/oops/functional-interfaces.md" >}})

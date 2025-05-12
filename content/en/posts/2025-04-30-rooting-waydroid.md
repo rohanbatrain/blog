@@ -176,6 +176,6 @@ Contributions from **LXC experts** are welcome to improve this area.
 
 ## 🔗 Related Resources
 
-- 📣 My [LinkedIn Post](https://www.linkedin.com/en/posts/rohanbatrain_waydroid-magisk-gapps-activity-7323073114135822336-kJiF?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEPqBh8BH-tPbYYhUC-OyGBT1KdD6_ebicY) 
+- 📣 My [LinkedIn Post](https://www.linkedin.com/posts/rohanbatrain_waydroid-magisk-gapps-activity-7323073114135822336-kJiF?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEPqBh8BH-tPbYYhUC-OyGBT1KdD6_ebicY) 
 
 ---

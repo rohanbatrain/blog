@@ -60,5 +60,5 @@ System.out.print("Java!");           // continues on same line
 
 ### 🔗 Related Notes
 
-* [Features of Java]({{< ref "en/posts/oops/features-of-java.md" >}})
-* [Command Line Arguments]({{< ref "en/posts/oops/command-line-arguments.md" >}})
+* [Features of Java]({{< ref "posts/oops/features-of-java.md" >}})
+* [Command Line Arguments]({{< ref "posts/oops/command-line-arguments.md" >}})

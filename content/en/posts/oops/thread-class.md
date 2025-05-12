@@ -88,6 +88,6 @@ t1.setPriority(Thread.MAX_PRIORITY);
 
 ### 🔗 Related Notes
 
-* [Runnable Interface]({{< ref "en/posts/oops/runnable-interface.md" >}})
-* [Concurrent Programming]({{< ref "en/posts/oops/concurrent-programming.md" >}})
-* [Exception Handling]({{< ref "en/posts/oops/exception-handling.md" >}})
+* [Runnable Interface]({{< ref "posts/oops/runnable-interface.md" >}})
+* [Concurrent Programming]({{< ref "posts/oops/concurrent-programming.md" >}})
+* [Exception Handling]({{< ref "posts/oops/exception-handling.md" >}})

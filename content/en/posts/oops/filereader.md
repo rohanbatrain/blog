@@ -64,6 +64,6 @@ public class Main {
 
 ### 🔗 Related Notes
 
-* [FileWriter]({{< ref "en/posts/oops/filewriter.md" >}})
-* [Exception Handlers]({{< ref "en/posts/oops/exception-handlers.md" >}})
-* [Concurrent Programming]({{< ref "en/posts/oops/concurrent-programming.md" >}})
+* [FileWriter]({{< ref "posts/oops/filewriter.md" >}})
+* [Exception Handlers]({{< ref "posts/oops/exception-handlers.md" >}})
+* [Concurrent Programming]({{< ref "posts/oops/concurrent-programming.md" >}})

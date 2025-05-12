@@ -61,6 +61,6 @@ public class HelloSwing {
 
 ### 🔗 Related Notes
 
-* [Components and Containers]({{< ref "en/posts/oops/components-and-containers.md" >}})
-* [Layout Managers]({{< ref "en/posts/oops/layout-managers.md" >}})
-* [Swing Event Handling]({{< ref "en/posts/oops/swing-event-handling.md" >}})
+* [Components and Containers]({{< ref "posts/oops/components-and-containers.md" >}})
+* [Layout Managers]({{< ref "posts/oops/layout-managers.md" >}})
+* [Swing Event Handling]({{< ref "posts/oops/swing-event-handling.md" >}})

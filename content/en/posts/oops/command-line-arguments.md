@@ -63,6 +63,6 @@ Arg 1: Bob
 
 ### 🔗 Related Notes
 
-* [Input Output Statements]({{< ref "en/posts/oops/input-output-statements.md" >}})
-* [Features of Java]({{< ref "en/posts/oops/features-of-java.md" >}})
+* [Input Output Statements]({{< ref "posts/oops/input-output-statements.md" >}})
+* [Features of Java]({{< ref "posts/oops/features-of-java.md" >}})
 

@@ -77,7 +77,7 @@ This example demonstrates how persistent data (the user's name and age) is inser
 
 ### 🔗 Related Notes
 
-* [Database Connectivity]({{< ref "en/posts/oops/database-connectivity.md" >}})
-* [ResultSet]({{< ref "en/posts/oops/resultset.md" >}})
-* [PreparedStatement]({{< ref "en/posts/oops/database-connectivity-prepared-statement.md" >}})
-* [CallableStatement]({{< ref "en/posts/oops/database-connectivity-callable-statement.md" >}})
+* [Database Connectivity]({{< ref "posts/oops/database-connectivity.md" >}})
+* [ResultSet]({{< ref "posts/oops/resultset.md" >}})
+* [PreparedStatement]({{< ref "posts/oops/database-connectivity-prepared-statement.md" >}})
+* [CallableStatement]({{< ref "posts/oops/database-connectivity-callable-statement.md" >}})

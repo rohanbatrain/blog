@@ -59,6 +59,6 @@ panel.add(new JTextField(10));
 
 ### 🔗 Related Notes
 
-* [Swing]({{< ref "en/posts/oops/swing.md" >}})
-* [Layout Managers]({{< ref "en/posts/oops/layout-managers.md" >}})
-* [Swing Controls]({{< ref "en/posts/oops/swing-controls.md" >}})
+* [Swing]({{< ref "posts/oops/swing.md" >}})
+* [Layout Managers]({{< ref "posts/oops/layout-managers.md" >}})
+* [Swing Controls]({{< ref "posts/oops/swing-controls.md" >}})

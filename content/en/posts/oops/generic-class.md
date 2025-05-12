@@ -71,5 +71,5 @@ class Pair<K, V> {
 
 ### 🔗 Related Notes
 
-* [Generics Fundamentals]({{< ref "en/posts/oops/generics-fundamentals.md" >}})
-* [Generic Methods]({{< ref "en/posts/oops/generic-methods.md" >}})
+* [Generics Fundamentals]({{< ref "posts/oops/generics-fundamentals.md" >}})
+* [Generic Methods]({{< ref "posts/oops/generic-methods.md" >}})

@@ -65,7 +65,7 @@ button.addActionListener(e -> System.out.println("Clicked!"));
 
 ### 🔗 Related Notes
 
-* [Event Listeners]({{< ref "en/posts/oops/event-listeners.md" >}})
-* [Event Classes and Listener Interfaces]({{< ref "en/posts/oops/event-classes-and-listener-interfaces.md" >}})
-* [Swing Controls]({{< ref "en/posts/oops/swing-controls.md" >}})
+* [Event Listeners]({{< ref "posts/oops/event-listeners.md" >}})
+* [Event Classes and Listener Interfaces]({{< ref "posts/oops/event-classes-and-listener-interfaces.md" >}})
+* [Swing Controls]({{< ref "posts/oops/swing-controls.md" >}})
 

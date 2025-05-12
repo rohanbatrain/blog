@@ -41,8 +41,8 @@ class MyClass {
 
 ### 🔗 Related Notes
 
-* [Method Overloading]({{< ref "en/posts/oops/method-overloading.md" >}})
-* [Static Keyword]({{< ref "en/posts/oops/static-keyword.md" >}})
-* [Inheritance]({{< ref "en/posts/oops/inheritance.md" >}})
-* [Abstract Classes]({{< ref "en/posts/oops/abstract-classes.md" >}})
-* [Packages and Interfaces]({{< ref "en/posts/oops/packages-and-interfaces.md" >}})
+* [Method Overloading]({{< ref "posts/oops/method-overloading.md" >}})
+* [Static Keyword]({{< ref "posts/oops/static-keyword.md" >}})
+* [Inheritance]({{< ref "posts/oops/inheritance.md" >}})
+* [Abstract Classes]({{< ref "posts/oops/abstract-classes.md" >}})
+* [Packages and Interfaces]({{< ref "posts/oops/packages-and-interfaces.md" >}})

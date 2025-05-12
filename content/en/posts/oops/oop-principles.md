@@ -14,16 +14,16 @@ Object-Oriented Programming (OOP) is based on **four core principles** that guid
 
 ### 🔑 The Four Core Principles
 
-1. **[Encapsulation]({{< ref "en/posts/oops/encapsulation.md" >}})**  
+1. **[Encapsulation]({{< ref "posts/oops/encapsulation.md" >}})**  
    Hides internal details and exposes only what’s necessary.
 
-2. **[Inheritance]({{< ref "en/posts/oops/inheritance.md" >}})**  
+2. **[Inheritance]({{< ref "posts/oops/inheritance.md" >}})**  
    Allows a class to inherit methods and properties from another class.
 
-3. **[Polymorphism]({{< ref "en/posts/oops/polymorphism.md" >}})**  
+3. **[Polymorphism]({{< ref "posts/oops/polymorphism.md" >}})**  
    Enables a single interface to operate on different types.
 
-4. **[Abstraction]({{< ref "en/posts/oops/abstraction.md" >}})**  
+4. **[Abstraction]({{< ref "posts/oops/abstraction.md" >}})**  
    Focuses on essential characteristics, hiding implementation.
 
 ---
@@ -62,8 +62,8 @@ This example combines:
 
 ### 🔗 Related Notes
 
-- [History and Evolution]({{< ref "en/posts/oops/history-and-evolution.md" >}})
-- [Encapsulation]({{< ref "en/posts/oops/encapsulation.md" >}})
-- [Inheritance]({{< ref "en/posts/oops/inheritance.md" >}})
-- [Polymorphism]({{< ref "en/posts/oops/polymorphism.md" >}})
-- [Abstraction]({{< ref "en/posts/oops/abstraction.md" >}})
+- [History and Evolution]({{< ref "posts/oops/history-and-evolution.md" >}})
+- [Encapsulation]({{< ref "posts/oops/encapsulation.md" >}})
+- [Inheritance]({{< ref "posts/oops/inheritance.md" >}})
+- [Polymorphism]({{< ref "posts/oops/polymorphism.md" >}})
+- [Abstraction]({{< ref "posts/oops/abstraction.md" >}})

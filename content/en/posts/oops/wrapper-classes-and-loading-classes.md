@@ -169,5 +169,5 @@ public class WrapperClassesExample {
 
 ### 🔗 Related Notes
 
-* [Wrapper Classes and Loading Classes]({{< ref "en/posts/oops/wrapper-classes-and-loading-classes.md" >}})
-* [Collections]({{< ref "en/posts/oops/collections.md" >}})
+* [Wrapper Classes and Loading Classes]({{< ref "posts/oops/wrapper-classes-and-loading-classes.md" >}})
+* [Collections]({{< ref "posts/oops/collections.md" >}})

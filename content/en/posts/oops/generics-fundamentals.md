@@ -62,6 +62,6 @@ class Box<T> {
 
 ### 🔗 Related Notes
 
-* [Generic Class]({{< ref "en/posts/oops/generic-class.md" >}})
-* [Generic Methods]({{< ref "en/posts/oops/generic-methods.md" >}})
-* [Functional Interfaces]({{< ref "en/posts/oops/functional-interfaces.md" >}})
+* [Generic Class]({{< ref "posts/oops/generic-class.md" >}})
+* [Generic Methods]({{< ref "posts/oops/generic-methods.md" >}})
+* [Functional Interfaces]({{< ref "posts/oops/functional-interfaces.md" >}})

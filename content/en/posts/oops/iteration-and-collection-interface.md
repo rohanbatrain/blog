@@ -151,4 +151,4 @@ public class CollectionIterationExample {
 
 ### 🔗 Related Notes
 
-* [Collection Interface]({{< ref "en/posts/oops/collection-interface.md" >}})
+* [Collection Interface]({{< ref "posts/oops/collection-interface.md" >}})

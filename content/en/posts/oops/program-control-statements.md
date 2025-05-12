@@ -90,7 +90,7 @@ public class ControlStatementsExample {
 
 
 ### 🔗 Related Notes
-* [Variables]({{< ref "en/posts/oops/variables.md" >}})
-* [Operators]({{< ref "en/posts/oops/operators.md" >}})
-* [Arrays]({{< ref "en/posts/oops/arrays.md" >}})
-* [Strings]({{< ref "en/posts/oops/strings.md" >}})
+* [Variables]({{< ref "posts/oops/variables.md" >}})
+* [Operators]({{< ref "posts/oops/operators.md" >}})
+* [Arrays]({{< ref "posts/oops/arrays.md" >}})
+* [Strings]({{< ref "posts/oops/strings.md" >}})

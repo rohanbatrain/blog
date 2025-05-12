@@ -68,9 +68,9 @@ public class Main {
 
 ### 🔗 Related Notes
 
-* [Access Modifiers]({{< ref "en/posts/oops/access-modifiers.md" >}})
-* [Static Keyword]({{< ref "en/posts/oops/static-keyword.md" >}})
-* [Inheritance]({{< ref "en/posts/oops/inheritance.md" >}})
-* [Abstract Classes]({{< ref "en/posts/oops/abstract-classes.md" >}})
-* [Packages and Interfaces]({{< ref "en/posts/oops/packages-and-interfaces.md" >}})
+* [Access Modifiers]({{< ref "posts/oops/access-modifiers.md" >}})
+* [Static Keyword]({{< ref "posts/oops/static-keyword.md" >}})
+* [Inheritance]({{< ref "posts/oops/inheritance.md" >}})
+* [Abstract Classes]({{< ref "posts/oops/abstract-classes.md" >}})
+* [Packages and Interfaces]({{< ref "posts/oops/packages-and-interfaces.md" >}})
 
