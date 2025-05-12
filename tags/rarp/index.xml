@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RARP on Rohan&#39;s Blog</title>
+    <link>https://blog.rohanbatra.in/tags/rarp/</link>
+    <description>Recent content in RARP on Rohan&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 12 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://blog.rohanbatra.in/tags/rarp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Network-Layer Protocols</title>
+      <link>https://blog.rohanbatra.in/posts/dcn/network-layer-protocols/</link>
+      <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.rohanbatra.in/posts/dcn/network-layer-protocols/</guid>
+      <description>&lt;h3 id=&#34;-network-layer-protocols&#34;&gt;🌐 Network-Layer Protocols&lt;/h3&gt;&#xA;&lt;p&gt;The &lt;strong&gt;network layer&lt;/strong&gt; supports logical addressing, routing, and forwarding of packets. Several key protocols operate at this layer, each serving a unique function in enabling communication across networks.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;-1-internet-protocol-ip&#34;&gt;📦 1. Internet Protocol (IP)&lt;/h3&gt;&#xA;&lt;p&gt;The &lt;strong&gt;IP&lt;/strong&gt; protocol is the &lt;strong&gt;primary protocol&lt;/strong&gt; in the network layer, providing best-effort delivery of packets from source to destination.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;IP Versions&lt;/strong&gt;:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;IPv4&lt;/strong&gt;: 32-bit address; widely used.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;IPv6&lt;/strong&gt;: 128-bit address; designed to overcome IPv4 exhaustion.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Connectionless&lt;/strong&gt; and &lt;strong&gt;unreliable&lt;/strong&gt; by nature.&lt;/li&gt;&#xA;&lt;li&gt;Handles &lt;strong&gt;fragmentation and reassembly&lt;/strong&gt; of packets.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Example&lt;/strong&gt;: IP delivers a packet from &lt;code&gt;192.168.1.1&lt;/code&gt; to &lt;code&gt;8.8.8.8&lt;/code&gt;, regardless of the path it takes.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

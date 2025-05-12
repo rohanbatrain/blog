@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CRC on Rohan&#39;s Blog</title>
+    <link>https://blog.rohanbatra.in/tags/crc/</link>
+    <description>Recent content in CRC on Rohan&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 12 May 2025 18:18:07 +0530</lastBuildDate>
+    <atom:link href="https://blog.rohanbatra.in/tags/crc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Character Codes and Error Detection Techniques</title>
+      <link>https://blog.rohanbatra.in/posts/dcn/error-correction-detection/</link>
+      <pubDate>Mon, 12 May 2025 18:18:07 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/posts/dcn/error-correction-detection/</guid>
+      <description>&lt;h3 id=&#34;-character-codes-in-communication&#34;&gt;🔤 Character Codes in Communication&lt;/h3&gt;&#xA;&lt;p&gt;Character codes convert symbols into binary so they can be transmitted or stored.&lt;/p&gt;&#xA;&lt;h4 id=&#34;common-character-encodings&#34;&gt;Common Character Encodings:&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;ASCII (7-bit):&lt;/strong&gt; Standard for English text.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Extended ASCII (8-bit):&lt;/strong&gt; Includes extra symbols.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Unicode (UTF-8):&lt;/strong&gt; Multi-language, variable-length encoding.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Character codes are foundational — they are how &lt;strong&gt;meaning is encoded into binary&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;-error-detection-techniques&#34;&gt;⚠️ Error Detection Techniques&lt;/h3&gt;&#xA;&lt;p&gt;Communication is susceptible to noise. Error detection techniques help identify if data has been corrupted during transmission.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

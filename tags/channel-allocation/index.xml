@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Channel Allocation on Rohan&#39;s Blog</title>
+    <link>https://blog.rohanbatra.in/tags/channel-allocation/</link>
+    <description>Recent content in Channel Allocation on Rohan&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 12 May 2025 17:58:40 +0530</lastBuildDate>
+    <atom:link href="https://blog.rohanbatra.in/tags/channel-allocation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Performance Analysis of MAC Protocols</title>
+      <link>https://blog.rohanbatra.in/posts/dcn/mac-performance-analysis/</link>
+      <pubDate>Mon, 12 May 2025 17:58:40 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/posts/dcn/mac-performance-analysis/</guid>
+      <description>&lt;h3 id=&#34;-performance-of-mac-protocols&#34;&gt;📊 Performance of MAC Protocols&lt;/h3&gt;&#xA;&lt;p&gt;The &lt;strong&gt;performance of MAC protocols&lt;/strong&gt; directly influences the overall &lt;strong&gt;efficiency&lt;/strong&gt; and &lt;strong&gt;reliability&lt;/strong&gt; of data transmission in a network. Understanding how each protocol performs in different network conditions is key to optimizing &lt;strong&gt;channel utilization&lt;/strong&gt;, minimizing &lt;strong&gt;collision rates&lt;/strong&gt;, and ensuring &lt;strong&gt;fair access&lt;/strong&gt; to the communication medium.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;-tdma-performance&#34;&gt;🧑‍🤝‍🧑 TDMA Performance&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;TDMA (Time Division Multiple Access)&lt;/strong&gt; allocates time slots to each device for transmission. Its performance depends on the &lt;strong&gt;time slot allocation&lt;/strong&gt;, the &lt;strong&gt;number of devices&lt;/strong&gt;, and the &lt;strong&gt;synchronization&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

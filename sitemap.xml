@@ -8,13 +8,520 @@
   </url><url>
     <loc>https://blog.rohanbatra.in/books/radiance/chapters/chapter-1/</loc>
   </url><url>
+    <loc>https://blog.rohanbatra.in/categories/</loc>
+    <lastmod>2025-05-12T18:19:06+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/cidr/</loc>
+    <lastmod>2025-05-12T18:19:06+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/categories/computer-networks/</loc>
+    <lastmod>2025-05-12T18:19:06+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/ip-addressing/</loc>
+    <lastmod>2025-05-12T18:19:06+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/posts/dcn/ip-addressing-techniques/</loc>
+    <lastmod>2025-05-12T18:19:06+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/ip-techniques/</loc>
+    <lastmod>2025-05-12T18:19:06+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/posts/</loc>
+    <lastmod>2025-05-12T18:19:06+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/</loc>
+    <lastmod>2025-05-12T18:19:06+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/subnetting/</loc>
+    <lastmod>2025-05-12T18:19:06+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/supernetting/</loc>
+    <lastmod>2025-05-12T18:19:06+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/</loc>
+    <lastmod>2025-05-12T18:19:06+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/posts/dcn/error-correction-detection/</loc>
+    <lastmod>2025-05-12T18:18:07+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/character-encoding/</loc>
+    <lastmod>2025-05-12T18:18:07+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/crc/</loc>
+    <lastmod>2025-05-12T18:18:07+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/data-link-layer/</loc>
+    <lastmod>2025-05-12T18:18:07+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/error-detection/</loc>
+    <lastmod>2025-05-12T18:18:07+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/vrc/</loc>
+    <lastmod>2025-05-12T18:18:07+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/categories/cybersecurity/</loc>
+    <lastmod>2025-05-12T18:12:34+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/posts/dcn/nmap-tool/</loc>
+    <lastmod>2025-05-12T18:12:34+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/network-analysis/</loc>
+    <lastmod>2025-05-12T18:12:34+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/network-scanning/</loc>
+    <lastmod>2025-05-12T18:12:34+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/network-security/</loc>
+    <lastmod>2025-05-12T18:12:34+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/categories/network-tools/</loc>
+    <lastmod>2025-05-12T18:12:34+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/nmap/</loc>
+    <lastmod>2025-05-12T18:12:34+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/penetration-testing/</loc>
+    <lastmod>2025-05-12T18:12:34+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/congestion-control/</loc>
+    <lastmod>2025-05-12T18:12:01+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/fast-networks/</loc>
+    <lastmod>2025-05-12T18:12:01+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/network-performance/</loc>
+    <lastmod>2025-05-12T18:12:01+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/posts/dcn/network-performance-management/</loc>
+    <lastmod>2025-05-12T18:12:01+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/tcp/</loc>
+    <lastmod>2025-05-12T18:12:01+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/vpn/</loc>
+    <lastmod>2025-05-12T18:12:01+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/connection-management/</loc>
+    <lastmod>2025-05-12T18:11:20+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/sliding-window/</loc>
+    <lastmod>2025-05-12T18:11:20+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/posts/dcn/tcp-service-model/</loc>
+    <lastmod>2025-05-12T18:11:20+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/transport-layer/</loc>
+    <lastmod>2025-05-12T18:11:20+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/real-time-transport/</loc>
+    <lastmod>2025-05-12T18:10:41+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/remote-procedure-call/</loc>
+    <lastmod>2025-05-12T18:10:41+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/transport-protocols/</loc>
+    <lastmod>2025-05-12T18:10:41+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/udp/</loc>
+    <lastmod>2025-05-12T18:10:41+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/posts/dcn/udp-introduction/</loc>
+    <lastmod>2025-05-12T18:10:41+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/posts/dcn/transport-layer-services/</loc>
+    <lastmod>2025-05-12T18:08:57+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/port-address/</loc>
+    <lastmod>2025-05-12T18:08:57+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/socket-address/</loc>
+    <lastmod>2025-05-12T18:08:57+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/packet-sniffer/</loc>
+    <lastmod>2025-05-12T18:08:09+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/protocol-analysis/</loc>
+    <lastmod>2025-05-12T18:08:09+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/wireshark/</loc>
+    <lastmod>2025-05-12T18:08:09+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/posts/dcn/wireshark-tool/</loc>
+    <lastmod>2025-05-12T18:08:09+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/bandwidth/</loc>
+    <lastmod>2025-05-12T18:07:38+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/delay/</loc>
+    <lastmod>2025-05-12T18:07:38+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/jitter/</loc>
+    <lastmod>2025-05-12T18:07:38+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/packet-loss/</loc>
+    <lastmod>2025-05-12T18:07:38+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/qos/</loc>
+    <lastmod>2025-05-12T18:07:38+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/posts/dcn/quality-of-service/</loc>
+    <lastmod>2025-05-12T18:07:38+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/posts/dcn/congestion-control/</loc>
+    <lastmod>2025-05-12T18:07:12+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/encapsulation/</loc>
+    <lastmod>2025-05-12T18:06:38+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/posts/dcn/encapsulation-tunneling/</loc>
+    <lastmod>2025-05-12T18:06:38+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/ip/</loc>
+    <lastmod>2025-05-12T18:06:38+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/network-layer/</loc>
+    <lastmod>2025-05-12T18:06:38+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/tunneling/</loc>
+    <lastmod>2025-05-12T18:06:38+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/bgp/</loc>
+    <lastmod>2025-05-12T18:06:06+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/egp/</loc>
+    <lastmod>2025-05-12T18:06:06+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/igp/</loc>
+    <lastmod>2025-05-12T18:06:06+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/ospf/</loc>
+    <lastmod>2025-05-12T18:06:06+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/rip/</loc>
+    <lastmod>2025-05-12T18:06:06+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/routing/</loc>
+    <lastmod>2025-05-12T18:06:06+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/posts/dcn/routing-protocols/</loc>
+    <lastmod>2025-05-12T18:06:06+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/bellman-ford/</loc>
+    <lastmod>2025-05-12T18:04:08+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/dijkstra/</loc>
+    <lastmod>2025-05-12T18:04:08+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/distance-vector/</loc>
+    <lastmod>2025-05-12T18:04:08+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/link-state/</loc>
+    <lastmod>2025-05-12T18:04:08+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/posts/dcn/routing-algorithms/</loc>
+    <lastmod>2025-05-12T18:04:08+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/addressing/</loc>
+    <lastmod>2025-05-12T18:02:51+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/internet-protocol/</loc>
+    <lastmod>2025-05-12T18:02:51+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/posts/dcn/internet-protocol-ip/</loc>
+    <lastmod>2025-05-12T18:02:51+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/ipv4/</loc>
+    <lastmod>2025-05-12T18:02:51+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/ipv6/</loc>
+    <lastmod>2025-05-12T18:02:51+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/address-translation/</loc>
+    <lastmod>2025-05-12T18:01:40+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/nat/</loc>
+    <lastmod>2025-05-12T18:01:40+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/posts/dcn/network-address-translation/</loc>
+    <lastmod>2025-05-12T18:01:40+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/network-design/</loc>
+    <lastmod>2025-05-12T18:01:03+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/posts/dcn/network-layer-design-issues/</loc>
+    <lastmod>2025-05-12T18:01:03+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/protocols/</loc>
+    <lastmod>2025-05-12T18:01:03+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/posts/dcn/10-gigabit-ethernet/</loc>
+    <lastmod>2025-05-12T18:00:25+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/10-gigabit-ethernet/</loc>
+    <lastmod>2025-05-12T18:00:25+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/ethernet/</loc>
+    <lastmod>2025-05-12T18:00:25+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/high-speed-networking/</loc>
+    <lastmod>2025-05-12T18:00:25+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/ieee-802.11/</loc>
+    <lastmod>2025-05-12T17:59:51+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/ieee-802.3/</loc>
+    <lastmod>2025-05-12T17:59:51+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/posts/dcn/ieee-standards-802-3-802-11/</loc>
+    <lastmod>2025-05-12T17:59:51+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/network-standards/</loc>
+    <lastmod>2025-05-12T17:59:51+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/wi-fi/</loc>
+    <lastmod>2025-05-12T17:59:51+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/network-topologies/</loc>
+    <lastmod>2025-05-12T17:59:19+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/performance/</loc>
+    <lastmod>2025-05-12T17:59:19+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/posts/dcn/ethernet-shared-switched/</loc>
+    <lastmod>2025-05-12T17:59:19+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/shared-ethernet/</loc>
+    <lastmod>2025-05-12T17:59:19+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/switched-ethernet/</loc>
+    <lastmod>2025-05-12T17:59:19+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/channel-allocation/</loc>
+    <lastmod>2025-05-12T17:58:40+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/mac-protocols/</loc>
+    <lastmod>2025-05-12T17:58:40+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/network-efficiency/</loc>
+    <lastmod>2025-05-12T17:58:40+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/performance-analysis/</loc>
+    <lastmod>2025-05-12T17:58:40+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/posts/dcn/mac-performance-analysis/</loc>
+    <lastmod>2025-05-12T17:58:40+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/collision/</loc>
+    <lastmod>2025-05-12T17:57:48+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/exposed-node/</loc>
+    <lastmod>2025-05-12T17:57:48+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/hidden-node/</loc>
+    <lastmod>2025-05-12T17:57:48+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/posts/dcn/hidden-exposed-nodes/</loc>
+    <lastmod>2025-05-12T17:57:48+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/wireless-networks/</loc>
+    <lastmod>2025-05-12T17:57:48+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/csma/</loc>
+    <lastmod>2025-05-12T17:56:58+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/fdma/</loc>
+    <lastmod>2025-05-12T17:56:58+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/mac-layer/</loc>
+    <lastmod>2025-05-12T17:56:58+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/posts/dcn/mac-layer-multiple-access/</loc>
+    <lastmod>2025-05-12T17:56:58+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/multiple-access/</loc>
+    <lastmod>2025-05-12T17:56:58+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/tdma/</loc>
+    <lastmod>2025-05-12T17:56:58+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/arq/</loc>
+    <lastmod>2025-05-12T17:55:19+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/network-protocols/</loc>
+    <lastmod>2025-05-12T17:55:19+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/posts/dcn/arq-performance-analysis/</loc>
+    <lastmod>2025-05-12T17:55:19+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/hdlc/</loc>
+    <lastmod>2025-05-12T17:54:37+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/posts/dcn/hdlc-ppp/</loc>
+    <lastmod>2025-05-12T17:54:37+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/networking/</loc>
+    <lastmod>2025-05-12T17:54:37+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/ppp/</loc>
+    <lastmod>2025-05-12T17:54:37+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/framing/</loc>
+    <lastmod>2025-05-12T12:21:00+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/llc/</loc>
+    <lastmod>2025-05-12T12:21:00+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/posts/dcn/llc-framing/</loc>
+    <lastmod>2025-05-12T12:21:00+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/communication/</loc>
+    <lastmod>2025-05-12T12:19:23+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/posts/dcn/comm-channels-performance/</loc>
+    <lastmod>2025-05-12T12:19:23+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/categories/communication-technologies/</loc>
+    <lastmod>2025-05-12T12:19:23+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/latency/</loc>
+    <lastmod>2025-05-12T12:19:23+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/metrics/</loc>
+    <lastmod>2025-05-12T12:19:23+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/5g/</loc>
+    <lastmod>2025-05-12T12:18:28+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/cellular/</loc>
+    <lastmod>2025-05-12T12:18:28+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/posts/dcn/cellular-technology/</loc>
+    <lastmod>2025-05-12T12:18:28+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/gsm/</loc>
+    <lastmod>2025-05-12T12:18:28+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/lte/</loc>
+    <lastmod>2025-05-12T12:18:28+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/mobile/</loc>
+    <lastmod>2025-05-12T12:18:28+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/posts/dcn/5g-and-beyond/</loc>
+    <lastmod>2025-05-12T12:17:31+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/6g/</loc>
+    <lastmod>2025-05-12T12:17:31+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/iot/</loc>
+    <lastmod>2025-05-12T12:17:31+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/wireless/</loc>
+    <lastmod>2025-05-12T12:17:31+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/broadband/</loc>
+    <lastmod>2025-05-12T12:16:05+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/wimax/</loc>
+    <lastmod>2025-05-12T12:16:05+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/posts/dcn/wimax/</loc>
+    <lastmod>2025-05-12T12:16:05+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/internet/</loc>
+    <lastmod>2025-05-12T12:15:21+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/posts/dcn/packet-switching/</loc>
+    <lastmod>2025-05-12T12:15:21+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/switching/</loc>
+    <lastmod>2025-05-12T12:15:21+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/posts/dcn/message-switching/</loc>
+    <lastmod>2025-05-12T12:14:27+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/posts/dcn/circuit-switching/</loc>
+    <lastmod>2025-05-12T12:13:42+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/arp/</loc>
+    <lastmod>2025-05-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/posts/dcn/arq-protocols/</loc>
+    <lastmod>2025-05-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/automatic-repeat-request/</loc>
+    <lastmod>2025-05-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/error-correction/</loc>
+    <lastmod>2025-05-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/posts/dcn/error-correction-hamming/</loc>
+    <lastmod>2025-05-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/forward-error-correction/</loc>
+    <lastmod>2025-05-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/hamming-code/</loc>
+    <lastmod>2025-05-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/icmp/</loc>
+    <lastmod>2025-05-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/posts/dcn/network-layer-protocols/</loc>
+    <lastmod>2025-05-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/rarp/</loc>
+    <lastmod>2025-05-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/reliable-transmission/</loc>
+    <lastmod>2025-05-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/arch-linux/</loc>
+    <lastmod>2025-05-12T01:13:12+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/categories/development/</loc>
+    <lastmod>2025-05-12T01:13:12+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/categories/flutter/</loc>
+    <lastmod>2025-05-12T01:13:12+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/flutter/</loc>
+    <lastmod>2025-05-12T01:13:12+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/posts/howto/flutter-setup-on-arch-linux/</loc>
+    <lastmod>2025-05-12T01:13:12+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/mobile-development/</loc>
+    <lastmod>2025-05-12T01:13:12+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/setup/</loc>
+    <lastmod>2025-05-12T01:13:12+05:30</lastmod>
+  </url><url>
     <loc>https://blog.rohanbatra.in/tags/automation/</loc>
-    <lastmod>2025-05-11T20:56:17+05:30</lastmod>
+    <lastmod>2025-05-12T00:16:46+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/ci-cd/</loc>
+    <lastmod>2025-05-12T00:16:46+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/categories/ci/cd/</loc>
+    <lastmod>2025-05-12T00:16:46+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/posts/howto/clone-private-repo-using-gh-secrets/</loc>
+    <lastmod>2025-05-12T00:16:46+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/devops/</loc>
+    <lastmod>2025-05-12T00:16:46+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/categories/github/</loc>
+    <lastmod>2025-05-12T00:16:46+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/github-actions/</loc>
+    <lastmod>2025-05-12T00:16:46+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.rohanbatra.in/tags/secrets/</loc>
+    <lastmod>2025-05-12T00:16:46+05:30</lastmod>
   </url><url>
     <loc>https://blog.rohanbatra.in/tags/bash/</loc>
-    <lastmod>2025-05-11T20:56:17+05:30</lastmod>
-  </url><url>
-    <loc>https://blog.rohanbatra.in/categories/</loc>
     <lastmod>2025-05-11T20:56:17+05:30</lastmod>
   </url><url>
     <loc>https://blog.rohanbatra.in/posts/howto/remove-files-without-extensions/</loc>
@@ -23,22 +530,13 @@
     <loc>https://blog.rohanbatra.in/categories/how-to/</loc>
     <lastmod>2025-05-11T20:56:17+05:30</lastmod>
   </url><url>
-    <loc>https://blog.rohanbatra.in/posts/</loc>
-    <lastmod>2025-05-11T20:56:17+05:30</lastmod>
-  </url><url>
     <loc>https://blog.rohanbatra.in/tags/productivity/</loc>
-    <lastmod>2025-05-11T20:56:17+05:30</lastmod>
-  </url><url>
-    <loc>https://blog.rohanbatra.in/</loc>
     <lastmod>2025-05-11T20:56:17+05:30</lastmod>
   </url><url>
     <loc>https://blog.rohanbatra.in/tags/script/</loc>
     <lastmod>2025-05-11T20:56:17+05:30</lastmod>
   </url><url>
     <loc>https://blog.rohanbatra.in/categories/system-administration/</loc>
-    <lastmod>2025-05-11T20:56:17+05:30</lastmod>
-  </url><url>
-    <loc>https://blog.rohanbatra.in/tags/</loc>
     <lastmod>2025-05-11T20:56:17+05:30</lastmod>
   </url><url>
     <loc>https://blog.rohanbatra.in/categories/tutorials/</loc>
@@ -536,9 +1034,6 @@
     <loc>https://blog.rohanbatra.in/posts/oops/encapsulation/</loc>
     <lastmod>2025-05-08T18:38:47+05:30</lastmod>
   </url><url>
-    <loc>https://blog.rohanbatra.in/tags/encapsulation/</loc>
-    <lastmod>2025-05-08T18:38:47+05:30</lastmod>
-  </url><url>
     <loc>https://blog.rohanbatra.in/tags/history/</loc>
     <lastmod>2025-05-08T18:35:36+05:30</lastmod>
   </url><url>
@@ -551,16 +1046,13 @@
     <loc>https://blog.rohanbatra.in/tags/computer-networking/</loc>
     <lastmod>2025-05-05T13:42:13+05:30</lastmod>
   </url><url>
-    <loc>https://blog.rohanbatra.in/posts/digital-communication-and-networks/2025-05-05-gigabit-ethernet/</loc>
+    <loc>https://blog.rohanbatra.in/posts/dcn/2025-05-05-gigabit-ethernet/</loc>
     <lastmod>2025-05-05T13:42:13+05:30</lastmod>
   </url><url>
     <loc>https://blog.rohanbatra.in/tags/gigabit-ethernet/</loc>
     <lastmod>2025-05-05T13:42:13+05:30</lastmod>
   </url><url>
-    <loc>https://blog.rohanbatra.in/posts/digital-communication-and-networks/2025-05-05-ethernet/</loc>
-    <lastmod>2025-05-05T13:41:57+05:30</lastmod>
-  </url><url>
-    <loc>https://blog.rohanbatra.in/tags/ethernet/</loc>
+    <loc>https://blog.rohanbatra.in/posts/dcn/2025-05-05-ethernet/</loc>
     <lastmod>2025-05-05T13:41:57+05:30</lastmod>
   </url><url>
     <loc>https://blog.rohanbatra.in/tags/cable/</loc>
@@ -569,25 +1061,22 @@
     <loc>https://blog.rohanbatra.in/categories/digital-communication-and-computer-networks/</loc>
     <lastmod>2025-05-05T13:35:25+05:30</lastmod>
   </url><url>
-    <loc>https://blog.rohanbatra.in/posts/digital-communication-and-networks/fiber-optic-cable/</loc>
+    <loc>https://blog.rohanbatra.in/posts/dcn/fiber-optic-cable/</loc>
     <lastmod>2025-05-05T13:35:25+05:30</lastmod>
   </url><url>
     <loc>https://blog.rohanbatra.in/tags/fiber-optics/</loc>
     <lastmod>2025-05-05T13:35:25+05:30</lastmod>
   </url><url>
-    <loc>https://blog.rohanbatra.in/tags/networking/</loc>
-    <lastmod>2025-05-05T13:35:25+05:30</lastmod>
-  </url><url>
     <loc>https://blog.rohanbatra.in/tags/coaxial/</loc>
     <lastmod>2025-05-05T13:34:00+05:30</lastmod>
   </url><url>
-    <loc>https://blog.rohanbatra.in/posts/digital-communication-and-networks/coaxial-cable/</loc>
+    <loc>https://blog.rohanbatra.in/posts/dcn/coaxial-cable/</loc>
     <lastmod>2025-05-05T13:34:00+05:30</lastmod>
   </url><url>
     <loc>https://blog.rohanbatra.in/tags/twisted-pair/</loc>
     <lastmod>2025-05-05T13:32:00+05:30</lastmod>
   </url><url>
-    <loc>https://blog.rohanbatra.in/posts/digital-communication-and-networks/twisted-pair-cable/</loc>
+    <loc>https://blog.rohanbatra.in/posts/dcn/twisted-pair-cable/</loc>
     <lastmod>2025-05-05T13:32:00+05:30</lastmod>
   </url><url>
     <loc>https://blog.rohanbatra.in/tags/cable-types/</loc>
@@ -596,7 +1085,7 @@
     <loc>https://blog.rohanbatra.in/tags/connectivity-devices/</loc>
     <lastmod>2025-05-05T13:30:34+05:30</lastmod>
   </url><url>
-    <loc>https://blog.rohanbatra.in/posts/digital-communication-and-networks/2025-05-05-connectivity-and-cable-types/</loc>
+    <loc>https://blog.rohanbatra.in/posts/dcn/2025-05-05-connectivity-and-cable-types/</loc>
     <lastmod>2025-05-05T13:30:34+05:30</lastmod>
   </url><url>
     <loc>https://blog.rohanbatra.in/tags/devices/</loc>
@@ -605,10 +1094,7 @@
     <loc>https://blog.rohanbatra.in/tags/gateway/</loc>
     <lastmod>2025-05-05T13:24:48+05:30</lastmod>
   </url><url>
-    <loc>https://blog.rohanbatra.in/posts/digital-communication-and-networks/2025-05-05-network-devices---gateways/</loc>
-    <lastmod>2025-05-05T13:24:48+05:30</lastmod>
-  </url><url>
-    <loc>https://blog.rohanbatra.in/tags/network-layer/</loc>
+    <loc>https://blog.rohanbatra.in/posts/dcn/2025-05-05-network-devices---gateways/</loc>
     <lastmod>2025-05-05T13:24:48+05:30</lastmod>
   </url><url>
     <loc>https://blog.rohanbatra.in/tags/unit1/</loc>
@@ -617,10 +1103,7 @@
     <loc>https://blog.rohanbatra.in/tags/lan/</loc>
     <lastmod>2025-05-05T13:20:47+05:30</lastmod>
   </url><url>
-    <loc>https://blog.rohanbatra.in/posts/digital-communication-and-networks/2025-05-05-lan-topologies/</loc>
-    <lastmod>2025-05-05T13:20:47+05:30</lastmod>
-  </url><url>
-    <loc>https://blog.rohanbatra.in/tags/network-design/</loc>
+    <loc>https://blog.rohanbatra.in/posts/dcn/2025-05-05-lan-topologies/</loc>
     <lastmod>2025-05-05T13:20:47+05:30</lastmod>
   </url><url>
     <loc>https://blog.rohanbatra.in/tags/topology/</loc>
@@ -629,16 +1112,13 @@
     <loc>https://blog.rohanbatra.in/tags/bluetooth/</loc>
     <lastmod>2025-05-05T13:19:06+05:30</lastmod>
   </url><url>
-    <loc>https://blog.rohanbatra.in/tags/iot/</loc>
-    <lastmod>2025-05-05T13:19:06+05:30</lastmod>
-  </url><url>
     <loc>https://blog.rohanbatra.in/tags/nfc/</loc>
     <lastmod>2025-05-05T13:19:06+05:30</lastmod>
   </url><url>
     <loc>https://blog.rohanbatra.in/tags/pan/</loc>
     <lastmod>2025-05-05T13:19:06+05:30</lastmod>
   </url><url>
-    <loc>https://blog.rohanbatra.in/posts/digital-communication-and-networks/personal-area-network-overview/</loc>
+    <loc>https://blog.rohanbatra.in/posts/dcn/personal-area-network-overview/</loc>
     <lastmod>2025-05-05T13:19:06+05:30</lastmod>
   </url><url>
     <loc>https://blog.rohanbatra.in/tags/security/</loc>
@@ -653,7 +1133,7 @@
     <loc>https://blog.rohanbatra.in/tags/man/</loc>
     <lastmod>2025-05-05T13:16:38+05:30</lastmod>
   </url><url>
-    <loc>https://blog.rohanbatra.in/posts/digital-communication-and-networks/2025-05-05-man/</loc>
+    <loc>https://blog.rohanbatra.in/posts/dcn/2025-05-05-man/</loc>
     <lastmod>2025-05-05T13:16:38+05:30</lastmod>
   </url><url>
     <loc>https://blog.rohanbatra.in/tags/metropolitan-area-network/</loc>
@@ -662,13 +1142,13 @@
     <loc>https://blog.rohanbatra.in/tags/wan/</loc>
     <lastmod>2025-05-05T13:16:04+05:30</lastmod>
   </url><url>
-    <loc>https://blog.rohanbatra.in/posts/digital-communication-and-networks/2025-05-05-wan/</loc>
+    <loc>https://blog.rohanbatra.in/posts/dcn/2025-05-05-wan/</loc>
     <lastmod>2025-05-05T13:16:04+05:30</lastmod>
   </url><url>
     <loc>https://blog.rohanbatra.in/tags/wide-area-network/</loc>
     <lastmod>2025-05-05T13:16:04+05:30</lastmod>
   </url><url>
-    <loc>https://blog.rohanbatra.in/posts/digital-communication-and-networks/2025-05-05-lan/</loc>
+    <loc>https://blog.rohanbatra.in/posts/dcn/2025-05-05-lan/</loc>
     <lastmod>2025-05-05T13:15:06+05:30</lastmod>
   </url><url>
     <loc>https://blog.rohanbatra.in/tags/local-area-network/</loc>
@@ -681,9 +1161,6 @@
     <lastmod>2025-05-04T01:15:21+05:30</lastmod>
   </url><url>
     <loc>https://blog.rohanbatra.in/tags/linux/</loc>
-    <lastmod>2025-05-04T01:15:21+05:30</lastmod>
-  </url><url>
-    <loc>https://blog.rohanbatra.in/tags/nat/</loc>
     <lastmod>2025-05-04T01:15:21+05:30</lastmod>
   </url><url>
     <loc>https://blog.rohanbatra.in/categories/networking/</loc>
@@ -704,9 +1181,6 @@
     <loc>https://blog.rohanbatra.in/posts/2025-05-04-vm-behind-nat/</loc>
     <lastmod>2025-05-04T00:55:00+05:30</lastmod>
   </url><url>
-    <loc>https://blog.rohanbatra.in/tags/arch-linux/</loc>
-    <lastmod>2025-05-04T00:43:21+05:30</lastmod>
-  </url><url>
     <loc>https://blog.rohanbatra.in/posts/howto/2025-05-04-installing-ssh-on-arch/</loc>
     <lastmod>2025-05-04T00:43:21+05:30</lastmod>
   </url><url>
@@ -719,13 +1193,13 @@
     <loc>https://blog.rohanbatra.in/tags/access-point/</loc>
     <lastmod>2025-05-03T14:48:21+05:30</lastmod>
   </url><url>
-    <loc>https://blog.rohanbatra.in/posts/digital-communication-and-networks/2025-05-03-network-devices--access-point/</loc>
+    <loc>https://blog.rohanbatra.in/posts/dcn/2025-05-03-network-devices--access-point/</loc>
     <lastmod>2025-05-03T14:48:21+05:30</lastmod>
   </url><url>
     <loc>https://blog.rohanbatra.in/tags/wifi/</loc>
     <lastmod>2025-05-03T14:48:21+05:30</lastmod>
   </url><url>
-    <loc>https://blog.rohanbatra.in/posts/digital-communication-and-networks/2025-05-03-network-devices--transceivers/</loc>
+    <loc>https://blog.rohanbatra.in/posts/dcn/2025-05-03-network-devices--transceivers/</loc>
     <lastmod>2025-05-03T14:42:21+05:30</lastmod>
   </url><url>
     <loc>https://blog.rohanbatra.in/tags/physical/</loc>
@@ -737,10 +1211,10 @@
     <loc>https://blog.rohanbatra.in/tags/modem/</loc>
     <lastmod>2025-05-03T14:39:21+05:30</lastmod>
   </url><url>
-    <loc>https://blog.rohanbatra.in/posts/digital-communication-and-networks/2025-05-03-network-devices--modem/</loc>
+    <loc>https://blog.rohanbatra.in/posts/dcn/2025-05-03-network-devices--modem/</loc>
     <lastmod>2025-05-03T14:39:21+05:30</lastmod>
   </url><url>
-    <loc>https://blog.rohanbatra.in/posts/digital-communication-and-networks/2025-05-03-network-devices--repeater/</loc>
+    <loc>https://blog.rohanbatra.in/posts/dcn/2025-05-03-network-devices--repeater/</loc>
     <lastmod>2025-05-03T13:50:21+05:30</lastmod>
   </url><url>
     <loc>https://blog.rohanbatra.in/tags/repeater/</loc>
@@ -749,7 +1223,7 @@
     <loc>https://blog.rohanbatra.in/tags/hub/</loc>
     <lastmod>2025-05-03T13:37:21+05:30</lastmod>
   </url><url>
-    <loc>https://blog.rohanbatra.in/posts/digital-communication-and-networks/2025-05-03-network-devices--hub/</loc>
+    <loc>https://blog.rohanbatra.in/posts/dcn/2025-05-03-network-devices--hub/</loc>
     <lastmod>2025-05-03T13:37:21+05:30</lastmod>
   </url><url>
     <loc>https://blog.rohanbatra.in/tags/bridge/</loc>
@@ -758,43 +1232,40 @@
     <loc>https://blog.rohanbatra.in/tags/data-link/</loc>
     <lastmod>2025-05-03T13:33:21+05:30</lastmod>
   </url><url>
-    <loc>https://blog.rohanbatra.in/posts/digital-communication-and-networks/2025-05-03-network-devices--bridges/</loc>
+    <loc>https://blog.rohanbatra.in/posts/dcn/2025-05-03-network-devices--bridges/</loc>
     <lastmod>2025-05-03T13:33:21+05:30</lastmod>
   </url><url>
     <loc>https://blog.rohanbatra.in/tags/network/</loc>
     <lastmod>2025-05-03T13:29:21+05:30</lastmod>
   </url><url>
-    <loc>https://blog.rohanbatra.in/posts/digital-communication-and-networks/2025-05-03-network-devices--router/</loc>
+    <loc>https://blog.rohanbatra.in/posts/dcn/2025-05-03-network-devices--router/</loc>
     <lastmod>2025-05-03T13:29:21+05:30</lastmod>
   </url><url>
     <loc>https://blog.rohanbatra.in/tags/router/</loc>
     <lastmod>2025-05-03T13:29:21+05:30</lastmod>
   </url><url>
-    <loc>https://blog.rohanbatra.in/posts/digital-communication-and-networks/2025-05-03-network-devices--switch/</loc>
+    <loc>https://blog.rohanbatra.in/posts/dcn/2025-05-03-network-devices--switch/</loc>
     <lastmod>2025-05-03T13:18:21+05:30</lastmod>
   </url><url>
     <loc>https://blog.rohanbatra.in/tags/switch/</loc>
     <lastmod>2025-05-03T13:18:21+05:30</lastmod>
   </url><url>
-    <loc>https://blog.rohanbatra.in/posts/digital-communication-and-networks/2025-05-03-layered-network-protocol-architectures-/</loc>
+    <loc>https://blog.rohanbatra.in/posts/dcn/2025-05-03-layered-network-protocol-architectures-/</loc>
     <lastmod>2025-05-03T13:06:21+05:30</lastmod>
   </url><url>
     <loc>https://blog.rohanbatra.in/tags/osi/</loc>
     <lastmod>2025-05-03T13:06:21+05:30</lastmod>
   </url><url>
-    <loc>https://blog.rohanbatra.in/tags/protocols/</loc>
-    <lastmod>2025-05-03T13:06:21+05:30</lastmod>
-  </url><url>
     <loc>https://blog.rohanbatra.in/tags/tcpip/</loc>
     <lastmod>2025-05-03T13:06:21+05:30</lastmod>
   </url><url>
-    <loc>https://blog.rohanbatra.in/posts/digital-communication-and-networks/2025-05-03-introduction-to-computer-networking-concepts/</loc>
+    <loc>https://blog.rohanbatra.in/posts/dcn/2025-05-03-introduction-to-computer-networking-concepts/</loc>
     <lastmod>2025-05-03T13:03:21+05:30</lastmod>
   </url><url>
     <loc>https://blog.rohanbatra.in/tags/hardware/</loc>
     <lastmod>2025-05-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.rohanbatra.in/posts/digital-communication-and-networks/2025-05-03-network-devices--network-interface-card/</loc>
+    <loc>https://blog.rohanbatra.in/posts/dcn/2025-05-03-network-devices--network-interface-card/</loc>
     <lastmod>2025-05-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.rohanbatra.in/tags/nic/</loc>
@@ -819,9 +1290,6 @@
     <lastmod>2025-05-03T00:31:19+05:30</lastmod>
   </url><url>
     <loc>https://blog.rohanbatra.in/tags/data-protection/</loc>
-    <lastmod>2025-05-03T00:07:34+05:30</lastmod>
-  </url><url>
-    <loc>https://blog.rohanbatra.in/tags/devops/</loc>
     <lastmod>2025-05-03T00:07:34+05:30</lastmod>
   </url><url>
     <loc>https://blog.rohanbatra.in/tags/infrastructure/</loc>
@@ -945,9 +1413,6 @@
     <lastmod>2025-04-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.rohanbatra.in/posts/hybrid-network-ip-architecture/</loc>
-    <lastmod>2025-04-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.rohanbatra.in/tags/ip-addressing/</loc>
     <lastmod>2025-04-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.rohanbatra.in/tags/opnsense/</loc>

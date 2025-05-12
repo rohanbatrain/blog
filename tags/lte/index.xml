@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LTE on Rohan&#39;s Blog</title>
+    <link>https://blog.rohanbatra.in/tags/lte/</link>
+    <description>Recent content in LTE on Rohan&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 12 May 2025 12:18:28 +0530</lastBuildDate>
+    <atom:link href="https://blog.rohanbatra.in/tags/lte/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cellular Technology: Evolution of Mobile Communication</title>
+      <link>https://blog.rohanbatra.in/posts/dcn/cellular-technology/</link>
+      <pubDate>Mon, 12 May 2025 12:18:28 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/posts/dcn/cellular-technology/</guid>
+      <description>&lt;h3 id=&#34;-what-is-cellular-technology&#34;&gt;🏙️ What is Cellular Technology?&lt;/h3&gt;&#xA;&lt;p&gt;Cellular technology divides geographic areas into &lt;strong&gt;cells&lt;/strong&gt;, each served by a base station. Devices switch cells seamlessly as they move, enabling wide-area mobile communication.&lt;/p&gt;&#xA;&lt;h4 id=&#34;-generational-evolution&#34;&gt;🧩 Generational Evolution&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;1G (Analog):&lt;/strong&gt; Voice-only&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;2G (GSM):&lt;/strong&gt; Digital voice + SMS&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;3G (UMTS/CDMA):&lt;/strong&gt; Data + voice&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;4G (LTE):&lt;/strong&gt; High-speed IP-based&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;5G:&lt;/strong&gt; Low-latency, high-throughput, ultra-dense connectivity&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;-key-concepts&#34;&gt;📡 Key Concepts&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Frequency Reuse:&lt;/strong&gt; Each cell uses a unique frequency to avoid interference.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Handoff:&lt;/strong&gt; Seamless transition between cells.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Base Stations:&lt;/strong&gt; Anchor points of communication.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Mobile Switching Centers:&lt;/strong&gt; Manage routing and resource allocation.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;-deep-insight&#34;&gt;🧠 Deep Insight&lt;/h3&gt;&#xA;&lt;p&gt;Cellular technology revolutionized the idea of &lt;strong&gt;place&lt;/strong&gt; in communication. It made mobility a default, not a feature — reflecting a world where boundaries blur, and &lt;strong&gt;constant connection becomes a baseline&lt;/strong&gt; expectation.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

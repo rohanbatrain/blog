@@ -10,9 +10,9 @@
     <atom:link href="https://blog.rohanbatra.in/tags/hub/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Network Devices – Hub</title>
-      <link>https://blog.rohanbatra.in/posts/digital-communication-and-networks/2025-05-03-network-devices--hub/</link>
+      <link>https://blog.rohanbatra.in/posts/dcn/2025-05-03-network-devices--hub/</link>
       <pubDate>Sat, 03 May 2025 13:37:21 +0530</pubDate>
-      <guid>https://blog.rohanbatra.in/posts/digital-communication-and-networks/2025-05-03-network-devices--hub/</guid>
+      <guid>https://blog.rohanbatra.in/posts/dcn/2025-05-03-network-devices--hub/</guid>
       <description>&lt;h1 id=&#34;-network-device-hub&#34;&gt;🔌 Network Device: Hub&lt;/h1&gt;&#xA;&lt;p&gt;A &lt;strong&gt;Hub&lt;/strong&gt; is a basic networking device that operates at &lt;strong&gt;Layer 1 (Physical Layer)&lt;/strong&gt; of the OSI model. It is used to connect multiple devices in a &lt;strong&gt;LAN&lt;/strong&gt; (Local Area Network) by broadcasting data to all connected devices.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-what-is-a-hub&#34;&gt;🔹 What is a Hub?&lt;/h2&gt;&#xA;&lt;p&gt;A &lt;strong&gt;Hub&lt;/strong&gt; is a simple, non-intelligent device that connects multiple computers or devices within a LAN. Unlike a switch or bridge, a hub does not filter or direct traffic based on MAC or IP addresses. It &lt;strong&gt;broadcasts incoming data to all ports&lt;/strong&gt;, regardless of the destination, which can lead to inefficiencies in larger networks.&lt;/p&gt;</description>
     </item>
   </channel>

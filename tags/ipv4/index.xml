@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IPv4 on Rohan&#39;s Blog</title>
+    <link>https://blog.rohanbatra.in/tags/ipv4/</link>
+    <description>Recent content in IPv4 on Rohan&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 12 May 2025 18:02:51 +0530</lastBuildDate>
+    <atom:link href="https://blog.rohanbatra.in/tags/ipv4/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Internet Protocol (IP)</title>
+      <link>https://blog.rohanbatra.in/posts/dcn/internet-protocol-ip/</link>
+      <pubDate>Mon, 12 May 2025 18:02:51 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/posts/dcn/internet-protocol-ip/</guid>
+      <description>&lt;h3 id=&#34;-internet-protocol-ip&#34;&gt;🚀 Internet Protocol (IP)&lt;/h3&gt;&#xA;&lt;p&gt;The &lt;strong&gt;Internet Protocol (IP)&lt;/strong&gt; is a key protocol in the &lt;strong&gt;network layer&lt;/strong&gt; responsible for addressing and routing data packets between devices across interconnected networks. There are two major versions of IP in use today: &lt;strong&gt;IPv4&lt;/strong&gt; and &lt;strong&gt;IPv6&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;h4 id=&#34;1-ipv4-internet-protocol-version-4&#34;&gt;1. &lt;strong&gt;IPv4 (Internet Protocol version 4)&lt;/strong&gt;&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;IPv4&lt;/strong&gt; uses 32-bit addresses, providing a total of &lt;strong&gt;approximately 4.3 billion unique addresses&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;IPv4 Address Format&lt;/strong&gt;: IPv4 addresses are written in &lt;strong&gt;dotted decimal notation&lt;/strong&gt;, consisting of four 8-bit octets (e.g., &lt;code&gt;192.168.1.1&lt;/code&gt;).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Network Address Translation (NAT)</title>
+      <link>https://blog.rohanbatra.in/posts/dcn/network-address-translation/</link>
+      <pubDate>Mon, 12 May 2025 18:01:40 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/posts/dcn/network-address-translation/</guid>
+      <description>&lt;h3 id=&#34;-network-address-translation-nat&#34;&gt;🚀 Network Address Translation (NAT)&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Network Address Translation (NAT)&lt;/strong&gt; is a technique used in &lt;strong&gt;IPv4 networks&lt;/strong&gt; to manage the shortage of &lt;strong&gt;public IP addresses&lt;/strong&gt; and provide &lt;strong&gt;security&lt;/strong&gt; by hiding internal network structures. NAT is typically implemented on &lt;strong&gt;routers&lt;/strong&gt; or &lt;strong&gt;firewalls&lt;/strong&gt; and allows a single public IP address to represent multiple devices in a private network.&lt;/p&gt;&#xA;&lt;h4 id=&#34;types-of-nat&#34;&gt;Types of NAT:&lt;/h4&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Static NAT&lt;/strong&gt;: Maps a private IP address to a specific public IP address. Each internal device has a fixed corresponding public IP.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Dynamic NAT&lt;/strong&gt;: Maps a private IP address to a pool of public IP addresses. When an internal device initiates a connection, the router selects an available public IP from the pool.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Port Address Translation (PAT)&lt;/strong&gt;: Also known as &lt;strong&gt;Overloading&lt;/strong&gt;, it maps multiple private IP addresses to a single public IP address using different &lt;strong&gt;port numbers&lt;/strong&gt; to differentiate between the connections.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;-how-nat-works&#34;&gt;🧠 How NAT Works&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Translation Process&lt;/strong&gt;: When a device in a private network sends data to the internet, the &lt;strong&gt;NAT device&lt;/strong&gt; modifies the source IP address in the packet header from the private IP to the public IP. The device keeps track of the connection in a &lt;strong&gt;translation table&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

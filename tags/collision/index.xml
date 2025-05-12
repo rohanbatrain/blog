@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Collision on Rohan&#39;s Blog</title>
+    <link>https://blog.rohanbatra.in/tags/collision/</link>
+    <description>Recent content in Collision on Rohan&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 12 May 2025 17:57:48 +0530</lastBuildDate>
+    <atom:link href="https://blog.rohanbatra.in/tags/collision/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hidden Node and Exposed Node Problems</title>
+      <link>https://blog.rohanbatra.in/posts/dcn/hidden-exposed-nodes/</link>
+      <pubDate>Mon, 12 May 2025 17:57:48 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/posts/dcn/hidden-exposed-nodes/</guid>
+      <description>&lt;h3 id=&#34;-hidden-node-problem&#34;&gt;🔒 Hidden Node Problem&lt;/h3&gt;&#xA;&lt;p&gt;The &lt;strong&gt;Hidden Node Problem&lt;/strong&gt; occurs in &lt;strong&gt;wireless networks&lt;/strong&gt; when two devices, A and C, can communicate with a central device B, but A and C cannot hear each other&amp;rsquo;s transmissions.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Scenario:&lt;/strong&gt; A and C transmit data to B simultaneously, causing a &lt;strong&gt;collision&lt;/strong&gt; at B. Since A and C cannot detect each other, this results in &lt;strong&gt;hidden collisions&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;impact&#34;&gt;Impact:&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Reduced &lt;strong&gt;throughput&lt;/strong&gt; and &lt;strong&gt;increased retransmissions&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Inefficiency&lt;/strong&gt; in the network due to wasted bandwidth and collisions.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;solution-request-to-send--clear-to-send-rtscts&#34;&gt;Solution: &lt;strong&gt;Request to Send / Clear to Send (RTS/CTS)&lt;/strong&gt;&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;RTS/CTS is used to &lt;strong&gt;reserve&lt;/strong&gt; the medium before data transmission. Device A sends a &lt;strong&gt;Request to Send (RTS)&lt;/strong&gt; to device B, and B responds with a &lt;strong&gt;Clear to Send (CTS)&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;If another device (like C) hears the CTS, it knows the channel is reserved and refrains from transmitting.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;-exposed-node-problem&#34;&gt;🌐 Exposed Node Problem&lt;/h3&gt;&#xA;&lt;p&gt;The &lt;strong&gt;Exposed Node Problem&lt;/strong&gt; happens when a device, A, &lt;strong&gt;hears&lt;/strong&gt; the transmission of device B but is &lt;strong&gt;not in the range&lt;/strong&gt; of the receiver (C). Device A may unnecessarily &lt;strong&gt;hold off&lt;/strong&gt; from transmitting, thinking it will cause interference, even though it won&amp;rsquo;t.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

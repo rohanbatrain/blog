@@ -6,8 +6,15 @@
     <description>Recent content in IP Addressing on Rohan&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 28 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 May 2025 18:19:06 +0530</lastBuildDate>
     <atom:link href="https://blog.rohanbatra.in/tags/ip-addressing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>IP Addressing Techniques</title>
+      <link>https://blog.rohanbatra.in/posts/dcn/ip-addressing-techniques/</link>
+      <pubDate>Mon, 12 May 2025 18:19:06 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/posts/dcn/ip-addressing-techniques/</guid>
+      <description>&lt;h3 id=&#34;-ip-addressing-techniques&#34;&gt;🚀 IP Addressing Techniques&lt;/h3&gt;&#xA;&lt;p&gt;IP addressing techniques are essential for efficiently allocating and managing network addresses. These techniques help network administrators organize address spaces, divide networks, and enable the smooth routing of data packets.&lt;/p&gt;&#xA;&lt;h4 id=&#34;1-classful-addressing&#34;&gt;1. &lt;strong&gt;Classful Addressing&lt;/strong&gt;&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Classful Addressing&lt;/strong&gt; divides the IPv4 address space into five distinct classes: &lt;strong&gt;A&lt;/strong&gt;, &lt;strong&gt;B&lt;/strong&gt;, &lt;strong&gt;C&lt;/strong&gt;, &lt;strong&gt;D&lt;/strong&gt;, and &lt;strong&gt;E&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Class A&lt;/strong&gt;: &lt;code&gt;0.0.0.0&lt;/code&gt; to &lt;code&gt;127.255.255.255&lt;/code&gt; – Suitable for large networks with many hosts.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Class B&lt;/strong&gt;: &lt;code&gt;128.0.0.0&lt;/code&gt; to &lt;code&gt;191.255.255.255&lt;/code&gt; – Medium-sized networks.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Class C&lt;/strong&gt;: &lt;code&gt;192.0.0.0&lt;/code&gt; to &lt;code&gt;223.255.255.255&lt;/code&gt; – Small networks.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Class D&lt;/strong&gt;: &lt;code&gt;224.0.0.0&lt;/code&gt; to &lt;code&gt;239.255.255.255&lt;/code&gt; – Used for &lt;strong&gt;multicast&lt;/strong&gt; communication.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Class E&lt;/strong&gt;: &lt;code&gt;240.0.0.0&lt;/code&gt; to &lt;code&gt;255.255.255.255&lt;/code&gt; – Reserved for &lt;strong&gt;future use&lt;/strong&gt; and experimental purposes.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Example&lt;/strong&gt;:&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Full Network Addressing Architecture for Hybrid Infrastructure</title>
       <link>https://blog.rohanbatra.in/posts/hybrid-network-ip-architecture/</link>

@@ -6,13 +6,860 @@
     <description>Recent content in Tags on Rohan&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 11 May 2025 20:56:17 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 12 May 2025 18:19:06 +0530</lastBuildDate>
     <atom:link href="https://blog.rohanbatra.in/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CIDR</title>
+      <link>https://blog.rohanbatra.in/tags/cidr/</link>
+      <pubDate>Mon, 12 May 2025 18:19:06 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/cidr/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>IP Addressing</title>
+      <link>https://blog.rohanbatra.in/tags/ip-addressing/</link>
+      <pubDate>Mon, 12 May 2025 18:19:06 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/ip-addressing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>IP Techniques</title>
+      <link>https://blog.rohanbatra.in/tags/ip-techniques/</link>
+      <pubDate>Mon, 12 May 2025 18:19:06 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/ip-techniques/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Subnetting</title>
+      <link>https://blog.rohanbatra.in/tags/subnetting/</link>
+      <pubDate>Mon, 12 May 2025 18:19:06 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/subnetting/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Supernetting</title>
+      <link>https://blog.rohanbatra.in/tags/supernetting/</link>
+      <pubDate>Mon, 12 May 2025 18:19:06 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/supernetting/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Character Encoding</title>
+      <link>https://blog.rohanbatra.in/tags/character-encoding/</link>
+      <pubDate>Mon, 12 May 2025 18:18:07 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/character-encoding/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CRC</title>
+      <link>https://blog.rohanbatra.in/tags/crc/</link>
+      <pubDate>Mon, 12 May 2025 18:18:07 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/crc/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Data Link Layer</title>
+      <link>https://blog.rohanbatra.in/tags/data-link-layer/</link>
+      <pubDate>Mon, 12 May 2025 18:18:07 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/data-link-layer/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Error Detection</title>
+      <link>https://blog.rohanbatra.in/tags/error-detection/</link>
+      <pubDate>Mon, 12 May 2025 18:18:07 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/error-detection/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>VRC</title>
+      <link>https://blog.rohanbatra.in/tags/vrc/</link>
+      <pubDate>Mon, 12 May 2025 18:18:07 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/vrc/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Network Analysis</title>
+      <link>https://blog.rohanbatra.in/tags/network-analysis/</link>
+      <pubDate>Mon, 12 May 2025 18:12:34 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/network-analysis/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Network Scanning</title>
+      <link>https://blog.rohanbatra.in/tags/network-scanning/</link>
+      <pubDate>Mon, 12 May 2025 18:12:34 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/network-scanning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Network Security</title>
+      <link>https://blog.rohanbatra.in/tags/network-security/</link>
+      <pubDate>Mon, 12 May 2025 18:12:34 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/network-security/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Nmap</title>
+      <link>https://blog.rohanbatra.in/tags/nmap/</link>
+      <pubDate>Mon, 12 May 2025 18:12:34 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/nmap/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Penetration Testing</title>
+      <link>https://blog.rohanbatra.in/tags/penetration-testing/</link>
+      <pubDate>Mon, 12 May 2025 18:12:34 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/penetration-testing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Congestion Control</title>
+      <link>https://blog.rohanbatra.in/tags/congestion-control/</link>
+      <pubDate>Mon, 12 May 2025 18:12:01 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/congestion-control/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fast Networks</title>
+      <link>https://blog.rohanbatra.in/tags/fast-networks/</link>
+      <pubDate>Mon, 12 May 2025 18:12:01 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/fast-networks/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Network Performance</title>
+      <link>https://blog.rohanbatra.in/tags/network-performance/</link>
+      <pubDate>Mon, 12 May 2025 18:12:01 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/network-performance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>TCP</title>
+      <link>https://blog.rohanbatra.in/tags/tcp/</link>
+      <pubDate>Mon, 12 May 2025 18:12:01 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/tcp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>VPN</title>
+      <link>https://blog.rohanbatra.in/tags/vpn/</link>
+      <pubDate>Mon, 12 May 2025 18:12:01 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/vpn/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Connection Management</title>
+      <link>https://blog.rohanbatra.in/tags/connection-management/</link>
+      <pubDate>Mon, 12 May 2025 18:11:20 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/connection-management/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sliding Window</title>
+      <link>https://blog.rohanbatra.in/tags/sliding-window/</link>
+      <pubDate>Mon, 12 May 2025 18:11:20 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/sliding-window/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Transport Layer</title>
+      <link>https://blog.rohanbatra.in/tags/transport-layer/</link>
+      <pubDate>Mon, 12 May 2025 18:11:20 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/transport-layer/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Real-Time Transport</title>
+      <link>https://blog.rohanbatra.in/tags/real-time-transport/</link>
+      <pubDate>Mon, 12 May 2025 18:10:41 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/real-time-transport/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Remote Procedure Call</title>
+      <link>https://blog.rohanbatra.in/tags/remote-procedure-call/</link>
+      <pubDate>Mon, 12 May 2025 18:10:41 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/remote-procedure-call/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Transport Protocols</title>
+      <link>https://blog.rohanbatra.in/tags/transport-protocols/</link>
+      <pubDate>Mon, 12 May 2025 18:10:41 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/transport-protocols/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>UDP</title>
+      <link>https://blog.rohanbatra.in/tags/udp/</link>
+      <pubDate>Mon, 12 May 2025 18:10:41 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/udp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Port Address</title>
+      <link>https://blog.rohanbatra.in/tags/port-address/</link>
+      <pubDate>Mon, 12 May 2025 18:08:57 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/port-address/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Socket Address</title>
+      <link>https://blog.rohanbatra.in/tags/socket-address/</link>
+      <pubDate>Mon, 12 May 2025 18:08:57 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/socket-address/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Packet Sniffer</title>
+      <link>https://blog.rohanbatra.in/tags/packet-sniffer/</link>
+      <pubDate>Mon, 12 May 2025 18:08:09 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/packet-sniffer/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Protocol Analysis</title>
+      <link>https://blog.rohanbatra.in/tags/protocol-analysis/</link>
+      <pubDate>Mon, 12 May 2025 18:08:09 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/protocol-analysis/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Wireshark</title>
+      <link>https://blog.rohanbatra.in/tags/wireshark/</link>
+      <pubDate>Mon, 12 May 2025 18:08:09 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/wireshark/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bandwidth</title>
+      <link>https://blog.rohanbatra.in/tags/bandwidth/</link>
+      <pubDate>Mon, 12 May 2025 18:07:38 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/bandwidth/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Delay</title>
+      <link>https://blog.rohanbatra.in/tags/delay/</link>
+      <pubDate>Mon, 12 May 2025 18:07:38 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/delay/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Jitter</title>
+      <link>https://blog.rohanbatra.in/tags/jitter/</link>
+      <pubDate>Mon, 12 May 2025 18:07:38 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/jitter/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Packet Loss</title>
+      <link>https://blog.rohanbatra.in/tags/packet-loss/</link>
+      <pubDate>Mon, 12 May 2025 18:07:38 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/packet-loss/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>QoS</title>
+      <link>https://blog.rohanbatra.in/tags/qos/</link>
+      <pubDate>Mon, 12 May 2025 18:07:38 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/qos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Encapsulation</title>
+      <link>https://blog.rohanbatra.in/tags/encapsulation/</link>
+      <pubDate>Mon, 12 May 2025 18:06:38 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/encapsulation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>IP</title>
+      <link>https://blog.rohanbatra.in/tags/ip/</link>
+      <pubDate>Mon, 12 May 2025 18:06:38 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/ip/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Network Layer</title>
+      <link>https://blog.rohanbatra.in/tags/network-layer/</link>
+      <pubDate>Mon, 12 May 2025 18:06:38 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/network-layer/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tunneling</title>
+      <link>https://blog.rohanbatra.in/tags/tunneling/</link>
+      <pubDate>Mon, 12 May 2025 18:06:38 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/tunneling/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>BGP</title>
+      <link>https://blog.rohanbatra.in/tags/bgp/</link>
+      <pubDate>Mon, 12 May 2025 18:06:06 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/bgp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>EGP</title>
+      <link>https://blog.rohanbatra.in/tags/egp/</link>
+      <pubDate>Mon, 12 May 2025 18:06:06 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/egp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>IGP</title>
+      <link>https://blog.rohanbatra.in/tags/igp/</link>
+      <pubDate>Mon, 12 May 2025 18:06:06 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/igp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OSPF</title>
+      <link>https://blog.rohanbatra.in/tags/ospf/</link>
+      <pubDate>Mon, 12 May 2025 18:06:06 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/ospf/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>RIP</title>
+      <link>https://blog.rohanbatra.in/tags/rip/</link>
+      <pubDate>Mon, 12 May 2025 18:06:06 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/rip/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Routing</title>
+      <link>https://blog.rohanbatra.in/tags/routing/</link>
+      <pubDate>Mon, 12 May 2025 18:06:06 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/routing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bellman-Ford</title>
+      <link>https://blog.rohanbatra.in/tags/bellman-ford/</link>
+      <pubDate>Mon, 12 May 2025 18:04:08 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/bellman-ford/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dijkstra</title>
+      <link>https://blog.rohanbatra.in/tags/dijkstra/</link>
+      <pubDate>Mon, 12 May 2025 18:04:08 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/dijkstra/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Distance Vector</title>
+      <link>https://blog.rohanbatra.in/tags/distance-vector/</link>
+      <pubDate>Mon, 12 May 2025 18:04:08 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/distance-vector/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Link State</title>
+      <link>https://blog.rohanbatra.in/tags/link-state/</link>
+      <pubDate>Mon, 12 May 2025 18:04:08 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/link-state/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Addressing</title>
+      <link>https://blog.rohanbatra.in/tags/addressing/</link>
+      <pubDate>Mon, 12 May 2025 18:02:51 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/addressing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Internet Protocol</title>
+      <link>https://blog.rohanbatra.in/tags/internet-protocol/</link>
+      <pubDate>Mon, 12 May 2025 18:02:51 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/internet-protocol/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>IPv4</title>
+      <link>https://blog.rohanbatra.in/tags/ipv4/</link>
+      <pubDate>Mon, 12 May 2025 18:02:51 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/ipv4/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>IPv6</title>
+      <link>https://blog.rohanbatra.in/tags/ipv6/</link>
+      <pubDate>Mon, 12 May 2025 18:02:51 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/ipv6/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Address Translation</title>
+      <link>https://blog.rohanbatra.in/tags/address-translation/</link>
+      <pubDate>Mon, 12 May 2025 18:01:40 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/address-translation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>NAT</title>
+      <link>https://blog.rohanbatra.in/tags/nat/</link>
+      <pubDate>Mon, 12 May 2025 18:01:40 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/nat/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Network Design</title>
+      <link>https://blog.rohanbatra.in/tags/network-design/</link>
+      <pubDate>Mon, 12 May 2025 18:01:03 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/network-design/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Protocols</title>
+      <link>https://blog.rohanbatra.in/tags/protocols/</link>
+      <pubDate>Mon, 12 May 2025 18:01:03 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/protocols/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>10-Gigabit Ethernet</title>
+      <link>https://blog.rohanbatra.in/tags/10-gigabit-ethernet/</link>
+      <pubDate>Mon, 12 May 2025 18:00:25 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/10-gigabit-ethernet/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ethernet</title>
+      <link>https://blog.rohanbatra.in/tags/ethernet/</link>
+      <pubDate>Mon, 12 May 2025 18:00:25 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/ethernet/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>High-Speed Networking</title>
+      <link>https://blog.rohanbatra.in/tags/high-speed-networking/</link>
+      <pubDate>Mon, 12 May 2025 18:00:25 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/high-speed-networking/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>IEEE 802.11</title>
+      <link>https://blog.rohanbatra.in/tags/ieee-802.11/</link>
+      <pubDate>Mon, 12 May 2025 17:59:51 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/ieee-802.11/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>IEEE 802.3</title>
+      <link>https://blog.rohanbatra.in/tags/ieee-802.3/</link>
+      <pubDate>Mon, 12 May 2025 17:59:51 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/ieee-802.3/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Network Standards</title>
+      <link>https://blog.rohanbatra.in/tags/network-standards/</link>
+      <pubDate>Mon, 12 May 2025 17:59:51 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/network-standards/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Wi-Fi</title>
+      <link>https://blog.rohanbatra.in/tags/wi-fi/</link>
+      <pubDate>Mon, 12 May 2025 17:59:51 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/wi-fi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Network Topologies</title>
+      <link>https://blog.rohanbatra.in/tags/network-topologies/</link>
+      <pubDate>Mon, 12 May 2025 17:59:19 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/network-topologies/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Performance</title>
+      <link>https://blog.rohanbatra.in/tags/performance/</link>
+      <pubDate>Mon, 12 May 2025 17:59:19 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/performance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Shared Ethernet</title>
+      <link>https://blog.rohanbatra.in/tags/shared-ethernet/</link>
+      <pubDate>Mon, 12 May 2025 17:59:19 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/shared-ethernet/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Switched Ethernet</title>
+      <link>https://blog.rohanbatra.in/tags/switched-ethernet/</link>
+      <pubDate>Mon, 12 May 2025 17:59:19 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/switched-ethernet/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Channel Allocation</title>
+      <link>https://blog.rohanbatra.in/tags/channel-allocation/</link>
+      <pubDate>Mon, 12 May 2025 17:58:40 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/channel-allocation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MAC Protocols</title>
+      <link>https://blog.rohanbatra.in/tags/mac-protocols/</link>
+      <pubDate>Mon, 12 May 2025 17:58:40 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/mac-protocols/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Network Efficiency</title>
+      <link>https://blog.rohanbatra.in/tags/network-efficiency/</link>
+      <pubDate>Mon, 12 May 2025 17:58:40 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/network-efficiency/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Performance Analysis</title>
+      <link>https://blog.rohanbatra.in/tags/performance-analysis/</link>
+      <pubDate>Mon, 12 May 2025 17:58:40 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/performance-analysis/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Collision</title>
+      <link>https://blog.rohanbatra.in/tags/collision/</link>
+      <pubDate>Mon, 12 May 2025 17:57:48 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/collision/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Exposed Node</title>
+      <link>https://blog.rohanbatra.in/tags/exposed-node/</link>
+      <pubDate>Mon, 12 May 2025 17:57:48 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/exposed-node/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hidden Node</title>
+      <link>https://blog.rohanbatra.in/tags/hidden-node/</link>
+      <pubDate>Mon, 12 May 2025 17:57:48 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/hidden-node/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Wireless Networks</title>
+      <link>https://blog.rohanbatra.in/tags/wireless-networks/</link>
+      <pubDate>Mon, 12 May 2025 17:57:48 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/wireless-networks/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CSMA</title>
+      <link>https://blog.rohanbatra.in/tags/csma/</link>
+      <pubDate>Mon, 12 May 2025 17:56:58 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/csma/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>FDMA</title>
+      <link>https://blog.rohanbatra.in/tags/fdma/</link>
+      <pubDate>Mon, 12 May 2025 17:56:58 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/fdma/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MAC Layer</title>
+      <link>https://blog.rohanbatra.in/tags/mac-layer/</link>
+      <pubDate>Mon, 12 May 2025 17:56:58 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/mac-layer/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Multiple Access</title>
+      <link>https://blog.rohanbatra.in/tags/multiple-access/</link>
+      <pubDate>Mon, 12 May 2025 17:56:58 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/multiple-access/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>TDMA</title>
+      <link>https://blog.rohanbatra.in/tags/tdma/</link>
+      <pubDate>Mon, 12 May 2025 17:56:58 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/tdma/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ARQ</title>
+      <link>https://blog.rohanbatra.in/tags/arq/</link>
+      <pubDate>Mon, 12 May 2025 17:55:19 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/arq/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Network Protocols</title>
+      <link>https://blog.rohanbatra.in/tags/network-protocols/</link>
+      <pubDate>Mon, 12 May 2025 17:55:19 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/network-protocols/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>HDLC</title>
+      <link>https://blog.rohanbatra.in/tags/hdlc/</link>
+      <pubDate>Mon, 12 May 2025 17:54:37 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/hdlc/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Networking</title>
+      <link>https://blog.rohanbatra.in/tags/networking/</link>
+      <pubDate>Mon, 12 May 2025 17:54:37 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/networking/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>PPP</title>
+      <link>https://blog.rohanbatra.in/tags/ppp/</link>
+      <pubDate>Mon, 12 May 2025 17:54:37 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/ppp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Framing</title>
+      <link>https://blog.rohanbatra.in/tags/framing/</link>
+      <pubDate>Mon, 12 May 2025 12:21:00 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/framing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>LLC</title>
+      <link>https://blog.rohanbatra.in/tags/llc/</link>
+      <pubDate>Mon, 12 May 2025 12:21:00 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/llc/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Communication</title>
+      <link>https://blog.rohanbatra.in/tags/communication/</link>
+      <pubDate>Mon, 12 May 2025 12:19:23 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/communication/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Latency</title>
+      <link>https://blog.rohanbatra.in/tags/latency/</link>
+      <pubDate>Mon, 12 May 2025 12:19:23 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/latency/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Metrics</title>
+      <link>https://blog.rohanbatra.in/tags/metrics/</link>
+      <pubDate>Mon, 12 May 2025 12:19:23 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/metrics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>5G</title>
+      <link>https://blog.rohanbatra.in/tags/5g/</link>
+      <pubDate>Mon, 12 May 2025 12:18:28 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/5g/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cellular</title>
+      <link>https://blog.rohanbatra.in/tags/cellular/</link>
+      <pubDate>Mon, 12 May 2025 12:18:28 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/cellular/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GSM</title>
+      <link>https://blog.rohanbatra.in/tags/gsm/</link>
+      <pubDate>Mon, 12 May 2025 12:18:28 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/gsm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>LTE</title>
+      <link>https://blog.rohanbatra.in/tags/lte/</link>
+      <pubDate>Mon, 12 May 2025 12:18:28 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/lte/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mobile</title>
+      <link>https://blog.rohanbatra.in/tags/mobile/</link>
+      <pubDate>Mon, 12 May 2025 12:18:28 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/mobile/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>6G</title>
+      <link>https://blog.rohanbatra.in/tags/6g/</link>
+      <pubDate>Mon, 12 May 2025 12:17:31 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/6g/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>IoT</title>
+      <link>https://blog.rohanbatra.in/tags/iot/</link>
+      <pubDate>Mon, 12 May 2025 12:17:31 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/iot/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Wireless</title>
+      <link>https://blog.rohanbatra.in/tags/wireless/</link>
+      <pubDate>Mon, 12 May 2025 12:17:31 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/wireless/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Broadband</title>
+      <link>https://blog.rohanbatra.in/tags/broadband/</link>
+      <pubDate>Mon, 12 May 2025 12:16:05 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/broadband/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Wimax</title>
+      <link>https://blog.rohanbatra.in/tags/wimax/</link>
+      <pubDate>Mon, 12 May 2025 12:16:05 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/wimax/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Internet</title>
+      <link>https://blog.rohanbatra.in/tags/internet/</link>
+      <pubDate>Mon, 12 May 2025 12:15:21 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/internet/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Switching</title>
+      <link>https://blog.rohanbatra.in/tags/switching/</link>
+      <pubDate>Mon, 12 May 2025 12:15:21 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/switching/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ARP</title>
+      <link>https://blog.rohanbatra.in/tags/arp/</link>
+      <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/arp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Automatic Repeat Request</title>
+      <link>https://blog.rohanbatra.in/tags/automatic-repeat-request/</link>
+      <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/automatic-repeat-request/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Error Correction</title>
+      <link>https://blog.rohanbatra.in/tags/error-correction/</link>
+      <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/error-correction/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Forward Error Correction</title>
+      <link>https://blog.rohanbatra.in/tags/forward-error-correction/</link>
+      <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/forward-error-correction/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hamming Code</title>
+      <link>https://blog.rohanbatra.in/tags/hamming-code/</link>
+      <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/hamming-code/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ICMP</title>
+      <link>https://blog.rohanbatra.in/tags/icmp/</link>
+      <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/icmp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>RARP</title>
+      <link>https://blog.rohanbatra.in/tags/rarp/</link>
+      <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/rarp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Reliable Transmission</title>
+      <link>https://blog.rohanbatra.in/tags/reliable-transmission/</link>
+      <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/reliable-transmission/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Arch Linux</title>
+      <link>https://blog.rohanbatra.in/tags/arch-linux/</link>
+      <pubDate>Mon, 12 May 2025 01:13:12 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/arch-linux/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Flutter</title>
+      <link>https://blog.rohanbatra.in/tags/flutter/</link>
+      <pubDate>Mon, 12 May 2025 01:13:12 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/flutter/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mobile Development</title>
+      <link>https://blog.rohanbatra.in/tags/mobile-development/</link>
+      <pubDate>Mon, 12 May 2025 01:13:12 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/mobile-development/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Setup</title>
+      <link>https://blog.rohanbatra.in/tags/setup/</link>
+      <pubDate>Mon, 12 May 2025 01:13:12 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/setup/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Automation</title>
       <link>https://blog.rohanbatra.in/tags/automation/</link>
-      <pubDate>Sun, 11 May 2025 20:56:17 +0530</pubDate>
+      <pubDate>Mon, 12 May 2025 00:16:46 +0530</pubDate>
       <guid>https://blog.rohanbatra.in/tags/automation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ci-Cd</title>
+      <link>https://blog.rohanbatra.in/tags/ci-cd/</link>
+      <pubDate>Mon, 12 May 2025 00:16:46 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/ci-cd/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Devops</title>
+      <link>https://blog.rohanbatra.in/tags/devops/</link>
+      <pubDate>Mon, 12 May 2025 00:16:46 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/devops/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Github-Actions</title>
+      <link>https://blog.rohanbatra.in/tags/github-actions/</link>
+      <pubDate>Mon, 12 May 2025 00:16:46 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/github-actions/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Secrets</title>
+      <link>https://blog.rohanbatra.in/tags/secrets/</link>
+      <pubDate>Mon, 12 May 2025 00:16:46 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/tags/secrets/</guid>
       <description></description>
     </item>
     <item>
@@ -646,13 +1493,6 @@
       <description></description>
     </item>
     <item>
-      <title>Encapsulation</title>
-      <link>https://blog.rohanbatra.in/tags/encapsulation/</link>
-      <pubDate>Thu, 08 May 2025 18:38:47 +0530</pubDate>
-      <guid>https://blog.rohanbatra.in/tags/encapsulation/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>History</title>
       <link>https://blog.rohanbatra.in/tags/history/</link>
       <pubDate>Thu, 08 May 2025 18:35:36 +0530</pubDate>
@@ -681,13 +1521,6 @@
       <description></description>
     </item>
     <item>
-      <title>Ethernet</title>
-      <link>https://blog.rohanbatra.in/tags/ethernet/</link>
-      <pubDate>Mon, 05 May 2025 13:41:57 +0530</pubDate>
-      <guid>https://blog.rohanbatra.in/tags/ethernet/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Cable</title>
       <link>https://blog.rohanbatra.in/tags/cable/</link>
       <pubDate>Mon, 05 May 2025 13:35:25 +0530</pubDate>
@@ -699,13 +1532,6 @@
       <link>https://blog.rohanbatra.in/tags/fiber-optics/</link>
       <pubDate>Mon, 05 May 2025 13:35:25 +0530</pubDate>
       <guid>https://blog.rohanbatra.in/tags/fiber-optics/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Networking</title>
-      <link>https://blog.rohanbatra.in/tags/networking/</link>
-      <pubDate>Mon, 05 May 2025 13:35:25 +0530</pubDate>
-      <guid>https://blog.rohanbatra.in/tags/networking/</guid>
       <description></description>
     </item>
     <item>
@@ -751,13 +1577,6 @@
       <description></description>
     </item>
     <item>
-      <title>Network-Layer</title>
-      <link>https://blog.rohanbatra.in/tags/network-layer/</link>
-      <pubDate>Mon, 05 May 2025 13:24:48 +0530</pubDate>
-      <guid>https://blog.rohanbatra.in/tags/network-layer/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Unit1</title>
       <link>https://blog.rohanbatra.in/tags/unit1/</link>
       <pubDate>Mon, 05 May 2025 13:24:48 +0530</pubDate>
@@ -772,13 +1591,6 @@
       <description></description>
     </item>
     <item>
-      <title>Network Design</title>
-      <link>https://blog.rohanbatra.in/tags/network-design/</link>
-      <pubDate>Mon, 05 May 2025 13:20:47 +0530</pubDate>
-      <guid>https://blog.rohanbatra.in/tags/network-design/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Topology</title>
       <link>https://blog.rohanbatra.in/tags/topology/</link>
       <pubDate>Mon, 05 May 2025 13:20:47 +0530</pubDate>
@@ -790,13 +1602,6 @@
       <link>https://blog.rohanbatra.in/tags/bluetooth/</link>
       <pubDate>Mon, 05 May 2025 13:19:06 +0530</pubDate>
       <guid>https://blog.rohanbatra.in/tags/bluetooth/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>IoT</title>
-      <link>https://blog.rohanbatra.in/tags/iot/</link>
-      <pubDate>Mon, 05 May 2025 13:19:06 +0530</pubDate>
-      <guid>https://blog.rohanbatra.in/tags/iot/</guid>
       <description></description>
     </item>
     <item>
@@ -877,13 +1682,6 @@
       <description></description>
     </item>
     <item>
-      <title>Nat</title>
-      <link>https://blog.rohanbatra.in/tags/nat/</link>
-      <pubDate>Sun, 04 May 2025 01:15:21 +0530</pubDate>
-      <guid>https://blog.rohanbatra.in/tags/nat/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Proxmox</title>
       <link>https://blog.rohanbatra.in/tags/proxmox/</link>
       <pubDate>Sun, 04 May 2025 01:15:21 +0530</pubDate>
@@ -909,13 +1707,6 @@
       <link>https://blog.rohanbatra.in/tags/vm/</link>
       <pubDate>Sun, 04 May 2025 01:15:21 +0530</pubDate>
       <guid>https://blog.rohanbatra.in/tags/vm/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Arch Linux</title>
-      <link>https://blog.rohanbatra.in/tags/arch-linux/</link>
-      <pubDate>Sun, 04 May 2025 00:43:21 +0530</pubDate>
-      <guid>https://blog.rohanbatra.in/tags/arch-linux/</guid>
       <description></description>
     </item>
     <item>
@@ -1017,13 +1808,6 @@
       <description></description>
     </item>
     <item>
-      <title>Protocols</title>
-      <link>https://blog.rohanbatra.in/tags/protocols/</link>
-      <pubDate>Sat, 03 May 2025 13:06:21 +0530</pubDate>
-      <guid>https://blog.rohanbatra.in/tags/protocols/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Tcpip</title>
       <link>https://blog.rohanbatra.in/tags/tcpip/</link>
       <pubDate>Sat, 03 May 2025 13:06:21 +0530</pubDate>
@@ -1063,13 +1847,6 @@
       <link>https://blog.rohanbatra.in/tags/data-protection/</link>
       <pubDate>Sat, 03 May 2025 00:07:34 +0530</pubDate>
       <guid>https://blog.rohanbatra.in/tags/data-protection/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Devops</title>
-      <link>https://blog.rohanbatra.in/tags/devops/</link>
-      <pubDate>Sat, 03 May 2025 00:07:34 +0530</pubDate>
-      <guid>https://blog.rohanbatra.in/tags/devops/</guid>
       <description></description>
     </item>
     <item>
@@ -1231,13 +2008,6 @@
       <link>https://blog.rohanbatra.in/tags/docker-networking/</link>
       <pubDate>Mon, 28 Apr 2025 13:31:43 +0530</pubDate>
       <guid>https://blog.rohanbatra.in/tags/docker-networking/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>IP Addressing</title>
-      <link>https://blog.rohanbatra.in/tags/ip-addressing/</link>
-      <pubDate>Mon, 28 Apr 2025 13:31:43 +0530</pubDate>
-      <guid>https://blog.rohanbatra.in/tags/ip-addressing/</guid>
       <description></description>
     </item>
     <item>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Network Protocols on Rohan&#39;s Blog</title>
+    <link>https://blog.rohanbatra.in/tags/network-protocols/</link>
+    <description>Recent content in Network Protocols on Rohan&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 12 May 2025 17:55:19 +0530</lastBuildDate>
+    <atom:link href="https://blog.rohanbatra.in/tags/network-protocols/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Performance Analysis of ARQ Protocols</title>
+      <link>https://blog.rohanbatra.in/posts/dcn/arq-performance-analysis/</link>
+      <pubDate>Mon, 12 May 2025 17:55:19 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/posts/dcn/arq-performance-analysis/</guid>
+      <description>&lt;h3 id=&#34;-performance-of-arq-protocols&#34;&gt;📊 Performance of ARQ Protocols&lt;/h3&gt;&#xA;&lt;p&gt;ARQ protocols are central to ensuring &lt;strong&gt;reliable data transmission&lt;/strong&gt;, but their performance can vary based on factors like &lt;strong&gt;channel quality&lt;/strong&gt;, &lt;strong&gt;window size&lt;/strong&gt;, and &lt;strong&gt;protocol type&lt;/strong&gt;. Let’s dive into the performance evaluation of &lt;strong&gt;Stop-and-Wait&lt;/strong&gt;, &lt;strong&gt;Go-back-N&lt;/strong&gt;, and &lt;strong&gt;Selective Repeat&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;-stop-and-wait-arq&#34;&gt;📈 Stop-and-Wait ARQ&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Efficiency:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;In &lt;strong&gt;Stop-and-Wait ARQ&lt;/strong&gt;, the sender must wait for an acknowledgment after sending a frame, which leads to &lt;strong&gt;poor utilization&lt;/strong&gt; of available bandwidth, especially in high-latency networks.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Throughput:&lt;/strong&gt;&#xA;[&#xA;\text{Throughput} = \frac{\text{Frame Size}}{\text{Transmission Time} + \text{Round-Trip Time (RTT)}}&#xA;]&#xA;Where &lt;strong&gt;RTT&lt;/strong&gt; represents the time for a packet to go to the receiver and back.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

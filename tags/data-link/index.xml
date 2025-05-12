@@ -10,16 +10,16 @@
     <atom:link href="https://blog.rohanbatra.in/tags/data-link/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Network Devices – Bridge</title>
-      <link>https://blog.rohanbatra.in/posts/digital-communication-and-networks/2025-05-03-network-devices--bridges/</link>
+      <link>https://blog.rohanbatra.in/posts/dcn/2025-05-03-network-devices--bridges/</link>
       <pubDate>Sat, 03 May 2025 13:33:21 +0530</pubDate>
-      <guid>https://blog.rohanbatra.in/posts/digital-communication-and-networks/2025-05-03-network-devices--bridges/</guid>
+      <guid>https://blog.rohanbatra.in/posts/dcn/2025-05-03-network-devices--bridges/</guid>
       <description>&lt;h1 id=&#34;-network-device-bridge&#34;&gt;🔌 Network Device: Bridge&lt;/h1&gt;&#xA;&lt;p&gt;A &lt;strong&gt;Bridge&lt;/strong&gt; is a networking device that operates at &lt;strong&gt;Layer 2 (Data Link Layer)&lt;/strong&gt; of the OSI model. It is used to &lt;strong&gt;connect two or more network segments&lt;/strong&gt; within a local area network (LAN), helping to filter traffic and reduce collisions.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-what-is-a-bridge&#34;&gt;🔹 What is a Bridge?&lt;/h2&gt;&#xA;&lt;p&gt;A &lt;strong&gt;Bridge&lt;/strong&gt; is a device used to divide large networks into smaller segments. It helps in controlling traffic between segments, increasing the efficiency of network communications. Unlike a hub or a switch, which broadcasts data to all devices, a bridge forwards data only to the segment where the destination device is located, improving network performance.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Network Devices – Switch</title>
-      <link>https://blog.rohanbatra.in/posts/digital-communication-and-networks/2025-05-03-network-devices--switch/</link>
+      <link>https://blog.rohanbatra.in/posts/dcn/2025-05-03-network-devices--switch/</link>
       <pubDate>Sat, 03 May 2025 13:18:21 +0530</pubDate>
-      <guid>https://blog.rohanbatra.in/posts/digital-communication-and-networks/2025-05-03-network-devices--switch/</guid>
+      <guid>https://blog.rohanbatra.in/posts/dcn/2025-05-03-network-devices--switch/</guid>
       <description>&lt;h1 id=&#34;-network-device-switch&#34;&gt;🔌 Network Device: Switch&lt;/h1&gt;&#xA;&lt;p&gt;A &lt;strong&gt;Switch&lt;/strong&gt; is a networking device that operates primarily at &lt;strong&gt;Layer 2 (Data Link Layer)&lt;/strong&gt; of the OSI model, though some switches can also function at &lt;strong&gt;Layer 3 (Network Layer)&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-what-is-a-switch&#34;&gt;🔹 What is a Switch?&lt;/h2&gt;&#xA;&lt;p&gt;A &lt;strong&gt;Switch&lt;/strong&gt; is an intelligent device used in LANs to connect multiple devices (like computers, printers, and servers). It uses &lt;strong&gt;MAC addresses&lt;/strong&gt; to forward data only to the intended recipient, making communication more efficient compared to hubs.&lt;/p&gt;</description>
     </item>
   </channel>

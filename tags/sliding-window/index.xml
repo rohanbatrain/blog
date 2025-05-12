@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sliding Window on Rohan&#39;s Blog</title>
+    <link>https://blog.rohanbatra.in/tags/sliding-window/</link>
+    <description>Recent content in Sliding Window on Rohan&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 12 May 2025 18:11:20 +0530</lastBuildDate>
+    <atom:link href="https://blog.rohanbatra.in/tags/sliding-window/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TCP: Service Model, Protocol, and Connection Management</title>
+      <link>https://blog.rohanbatra.in/posts/dcn/tcp-service-model/</link>
+      <pubDate>Mon, 12 May 2025 18:11:20 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/posts/dcn/tcp-service-model/</guid>
+      <description>&lt;h3 id=&#34;-introduction-to-tcp&#34;&gt;🌐 Introduction to TCP&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Transmission Control Protocol (TCP)&lt;/strong&gt; is a &lt;strong&gt;connection-oriented protocol&lt;/strong&gt; that provides reliable, ordered, and error-free delivery of data between applications. It ensures &lt;strong&gt;data integrity&lt;/strong&gt;, &lt;strong&gt;error recovery&lt;/strong&gt;, and &lt;strong&gt;flow control&lt;/strong&gt; during data transmission.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;-tcp-service-model&#34;&gt;🔄 TCP Service Model&lt;/h3&gt;&#xA;&lt;p&gt;TCP provides the following services:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Reliable Data Transfer&lt;/strong&gt;: Guarantees the delivery of data in the correct order.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Flow Control&lt;/strong&gt;: Prevents network congestion by adjusting the rate of data transmission.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Error Detection and Recovery&lt;/strong&gt;: Uses checksums to detect errors and requires retransmissions in case of loss.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Connection Establishment&lt;/strong&gt;: Three-way handshake to establish a reliable connection.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Connection Release&lt;/strong&gt;: A formal process to terminate a connection.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;-tcp-segment-header&#34;&gt;🏷 TCP Segment Header&lt;/h3&gt;&#xA;&lt;p&gt;The &lt;strong&gt;TCP segment header&lt;/strong&gt; includes:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

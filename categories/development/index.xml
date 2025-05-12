@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Development on Rohan&#39;s Blog</title>
+    <link>https://blog.rohanbatra.in/categories/development/</link>
+    <description>Recent content in Development on Rohan&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 12 May 2025 01:13:12 +0530</lastBuildDate>
+    <atom:link href="https://blog.rohanbatra.in/categories/development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Set Up Flutter on Arch Linux</title>
+      <link>https://blog.rohanbatra.in/posts/howto/flutter-setup-on-arch-linux/</link>
+      <pubDate>Mon, 12 May 2025 01:13:12 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/posts/howto/flutter-setup-on-arch-linux/</guid>
+      <description>&lt;h1 id=&#34;how-to-set-up-flutter-on-arch-linux&#34;&gt;How to Set Up Flutter on Arch Linux&lt;/h1&gt;&#xA;&lt;p&gt;Setting up Flutter on Arch Linux is straightforward, especially if you&amp;rsquo;re comfortable with the command line. Here&amp;rsquo;s a step-by-step guide to get your development environment up and running with Flutter on Arch.&lt;/p&gt;&#xA;&lt;h2 id=&#34;-prerequisites&#34;&gt;🧰 Prerequisites&lt;/h2&gt;&#xA;&lt;p&gt;Before you start, ensure you have the following:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;A working Arch Linux system (or any Arch-based distro like Manjaro)&lt;/li&gt;&#xA;&lt;li&gt;&lt;code&gt;yay&lt;/code&gt; or any other AUR helper installed&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-step-1-install-dependencies&#34;&gt;📦 Step 1: Install Dependencies&lt;/h2&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;sudo pacman -S --needed base-devel git unzip curl xz&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;These are essential build tools and utilities Flutter depends on.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

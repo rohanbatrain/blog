@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wireless on Rohan&#39;s Blog</title>
+    <link>https://blog.rohanbatra.in/tags/wireless/</link>
+    <description>Recent content in Wireless on Rohan&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 12 May 2025 12:17:31 +0530</lastBuildDate>
+    <atom:link href="https://blog.rohanbatra.in/tags/wireless/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>5G and Beyond: The Future of Wireless Evolution</title>
+      <link>https://blog.rohanbatra.in/posts/dcn/5g-and-beyond/</link>
+      <pubDate>Mon, 12 May 2025 12:17:31 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/posts/dcn/5g-and-beyond/</guid>
+      <description>&lt;h3 id=&#34;-what-is-5g&#34;&gt;⚡ What is 5G?&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;5G&lt;/strong&gt; is the fifth generation of mobile network technology, engineered to deliver &lt;strong&gt;ultra-fast&lt;/strong&gt;, &lt;strong&gt;low-latency&lt;/strong&gt;, and &lt;strong&gt;massive device connectivity&lt;/strong&gt;. It marks a transformative leap from consumer internet to enabling &lt;strong&gt;critical infrastructure&lt;/strong&gt; like autonomous systems and smart cities.&lt;/p&gt;&#xA;&lt;h4 id=&#34;-key-characteristics&#34;&gt;🧩 Key Characteristics&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Speed:&lt;/strong&gt; Up to 10 Gbps.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Latency:&lt;/strong&gt; &amp;lt;1 ms.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Bands:&lt;/strong&gt; mmWave, mid-band, low-band.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Massive device connectivity:&lt;/strong&gt; Supports millions of devices/km² (IoT).&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Network slicing:&lt;/strong&gt; Custom virtual networks for different needs.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;-what-lies-beyond&#34;&gt;🔭 What Lies Beyond?&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;6G (expected 2030+):&lt;/strong&gt; Aims for AI-native networks, &lt;strong&gt;terahertz bands&lt;/strong&gt;, and &lt;strong&gt;brain-computer interfaces&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Focus on sensing + communication fusion:&lt;/strong&gt; Smart environments that &amp;ldquo;feel&amp;rdquo; and adapt.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Quantum networking&lt;/strong&gt; and &lt;strong&gt;space-based coverage&lt;/strong&gt; (LEO satellites).&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;-deep-insight&#34;&gt;🧠 Deep Insight&lt;/h3&gt;&#xA;&lt;p&gt;5G is not just a network — it&amp;rsquo;s a &lt;strong&gt;platform of convergence&lt;/strong&gt;. It integrates compute, communication, and control in real time. Beyond 5G, we’re stepping into &lt;strong&gt;context-aware communication&lt;/strong&gt; where the boundary between the digital and physical erodes.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>WiMAX: Wireless Broadband for the Last Mile</title>
+      <link>https://blog.rohanbatra.in/posts/dcn/wimax/</link>
+      <pubDate>Mon, 12 May 2025 12:16:05 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/posts/dcn/wimax/</guid>
+      <description>&lt;h3 id=&#34;-what-is-wimax&#34;&gt;📡 What is WiMAX?&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;WiMAX&lt;/strong&gt; (Worldwide Interoperability for Microwave Access) is a wireless communication standard designed to provide high-speed broadband access over long distances, especially in rural or underserved areas.&lt;/p&gt;&#xA;&lt;h4 id=&#34;-key-characteristics&#34;&gt;🧩 Key Characteristics&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Standard:&lt;/strong&gt; IEEE 802.16&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Range:&lt;/strong&gt; Up to 50 km (ideal conditions)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Speed:&lt;/strong&gt; Up to 70 Mbps (realistically 1–10 Mbps)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Applications:&lt;/strong&gt; Fixed and mobile broadband, last-mile connectivity, backhaul for cellular towers.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;-deep-insight&#34;&gt;🧠 Deep Insight&lt;/h3&gt;&#xA;&lt;p&gt;WiMAX was an ambitious attempt to &lt;strong&gt;democratize internet access&lt;/strong&gt; beyond urban borders. It symbolizes the push for &lt;strong&gt;inclusivity in connectivity&lt;/strong&gt;, aiming to bridge the digital divide. Though eventually overshadowed by LTE, its philosophy lives on in rural broadband and IoT frameworks.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

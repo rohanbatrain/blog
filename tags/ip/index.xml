@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IP on Rohan&#39;s Blog</title>
+    <link>https://blog.rohanbatra.in/tags/ip/</link>
+    <description>Recent content in IP on Rohan&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 12 May 2025 18:06:38 +0530</lastBuildDate>
+    <atom:link href="https://blog.rohanbatra.in/tags/ip/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Encapsulation and Tunneling</title>
+      <link>https://blog.rohanbatra.in/posts/dcn/encapsulation-tunneling/</link>
+      <pubDate>Mon, 12 May 2025 18:06:38 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/posts/dcn/encapsulation-tunneling/</guid>
+      <description>&lt;h3 id=&#34;-encapsulation&#34;&gt;📦 Encapsulation&lt;/h3&gt;&#xA;&lt;p&gt;Encapsulation is the process of &lt;strong&gt;wrapping data&lt;/strong&gt; with the necessary protocol information at each layer of the OSI or TCP/IP model.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Each layer adds a &lt;strong&gt;header&lt;/strong&gt; (and sometimes a footer) to the data from the upper layer.&lt;/li&gt;&#xA;&lt;li&gt;Enables modular communication: the lower layers do not need to understand the data they are transporting.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;-example-sending-a-web-page-over-tcpip&#34;&gt;🔄 Example (Sending a Web Page over TCP/IP):&lt;/h4&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Application Layer: HTTP Data&lt;/li&gt;&#xA;&lt;li&gt;Transport Layer: Adds TCP Header → TCP Segment&lt;/li&gt;&#xA;&lt;li&gt;Network Layer: Adds IP Header → IP Packet&lt;/li&gt;&#xA;&lt;li&gt;Data Link Layer: Adds MAC Header/Footer → Frame&lt;/li&gt;&#xA;&lt;li&gt;Physical Layer: Converts to Bits for transmission&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;-tunneling&#34;&gt;🕳 Tunneling&lt;/h3&gt;&#xA;&lt;p&gt;Tunneling is a method of &lt;strong&gt;encapsulating packets within another protocol&lt;/strong&gt; to route over a network where the original protocol might not be supported.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Internet Protocol (IP)</title>
+      <link>https://blog.rohanbatra.in/posts/dcn/internet-protocol-ip/</link>
+      <pubDate>Mon, 12 May 2025 18:02:51 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/posts/dcn/internet-protocol-ip/</guid>
+      <description>&lt;h3 id=&#34;-internet-protocol-ip&#34;&gt;🚀 Internet Protocol (IP)&lt;/h3&gt;&#xA;&lt;p&gt;The &lt;strong&gt;Internet Protocol (IP)&lt;/strong&gt; is a key protocol in the &lt;strong&gt;network layer&lt;/strong&gt; responsible for addressing and routing data packets between devices across interconnected networks. There are two major versions of IP in use today: &lt;strong&gt;IPv4&lt;/strong&gt; and &lt;strong&gt;IPv6&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;h4 id=&#34;1-ipv4-internet-protocol-version-4&#34;&gt;1. &lt;strong&gt;IPv4 (Internet Protocol version 4)&lt;/strong&gt;&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;IPv4&lt;/strong&gt; uses 32-bit addresses, providing a total of &lt;strong&gt;approximately 4.3 billion unique addresses&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;IPv4 Address Format&lt;/strong&gt;: IPv4 addresses are written in &lt;strong&gt;dotted decimal notation&lt;/strong&gt;, consisting of four 8-bit octets (e.g., &lt;code&gt;192.168.1.1&lt;/code&gt;).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Network-Layer Protocols</title>
+      <link>https://blog.rohanbatra.in/posts/dcn/network-layer-protocols/</link>
+      <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.rohanbatra.in/posts/dcn/network-layer-protocols/</guid>
+      <description>&lt;h3 id=&#34;-network-layer-protocols&#34;&gt;🌐 Network-Layer Protocols&lt;/h3&gt;&#xA;&lt;p&gt;The &lt;strong&gt;network layer&lt;/strong&gt; supports logical addressing, routing, and forwarding of packets. Several key protocols operate at this layer, each serving a unique function in enabling communication across networks.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;-1-internet-protocol-ip&#34;&gt;📦 1. Internet Protocol (IP)&lt;/h3&gt;&#xA;&lt;p&gt;The &lt;strong&gt;IP&lt;/strong&gt; protocol is the &lt;strong&gt;primary protocol&lt;/strong&gt; in the network layer, providing best-effort delivery of packets from source to destination.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;IP Versions&lt;/strong&gt;:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;IPv4&lt;/strong&gt;: 32-bit address; widely used.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;IPv6&lt;/strong&gt;: 128-bit address; designed to overcome IPv4 exhaustion.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Connectionless&lt;/strong&gt; and &lt;strong&gt;unreliable&lt;/strong&gt; by nature.&lt;/li&gt;&#xA;&lt;li&gt;Handles &lt;strong&gt;fragmentation and reassembly&lt;/strong&gt; of packets.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Example&lt;/strong&gt;: IP delivers a packet from &lt;code&gt;192.168.1.1&lt;/code&gt; to &lt;code&gt;8.8.8.8&lt;/code&gt;, regardless of the path it takes.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

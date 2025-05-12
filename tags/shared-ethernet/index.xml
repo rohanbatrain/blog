@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shared Ethernet on Rohan&#39;s Blog</title>
+    <link>https://blog.rohanbatra.in/tags/shared-ethernet/</link>
+    <description>Recent content in Shared Ethernet on Rohan&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 12 May 2025 17:59:19 +0530</lastBuildDate>
+    <atom:link href="https://blog.rohanbatra.in/tags/shared-ethernet/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Shared and Switched Ethernet</title>
+      <link>https://blog.rohanbatra.in/posts/dcn/ethernet-shared-switched/</link>
+      <pubDate>Mon, 12 May 2025 17:59:19 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/posts/dcn/ethernet-shared-switched/</guid>
+      <description>&lt;h3 id=&#34;-shared-ethernet&#34;&gt;🌐 Shared Ethernet&lt;/h3&gt;&#xA;&lt;p&gt;In &lt;strong&gt;Shared Ethernet&lt;/strong&gt;, all devices are connected to a &lt;strong&gt;single broadcast medium&lt;/strong&gt;. This architecture typically uses &lt;strong&gt;Hubs&lt;/strong&gt;, which transmit signals to all connected devices.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Channel Sharing:&lt;/strong&gt; Multiple devices share the same &lt;strong&gt;physical medium&lt;/strong&gt;. If two devices attempt to transmit at the same time, &lt;strong&gt;collisions&lt;/strong&gt; occur, causing network inefficiencies.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Collision Domain:&lt;/strong&gt; All devices within the &lt;strong&gt;hub&lt;/strong&gt; are in the same &lt;strong&gt;collision domain&lt;/strong&gt;, meaning they share the same &lt;strong&gt;bandwidth&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;performance-considerations&#34;&gt;Performance Considerations:&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Bandwidth Efficiency:&lt;/strong&gt; &lt;strong&gt;Low&lt;/strong&gt; due to &lt;strong&gt;collision overhead&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Scalability Issues:&lt;/strong&gt; As more devices are added, &lt;strong&gt;collision rates increase&lt;/strong&gt;, further reducing throughput.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;key-protocol-csmacd&#34;&gt;Key Protocol: &lt;strong&gt;CSMA/CD&lt;/strong&gt;&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Devices use &lt;strong&gt;Carrier Sense Multiple Access with Collision Detection (CSMA/CD)&lt;/strong&gt; to avoid collisions. If a collision is detected, all devices involved &lt;strong&gt;retransmit&lt;/strong&gt; their data after a random backoff period.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;-switched-ethernet&#34;&gt;⚡ Switched Ethernet&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Switched Ethernet&lt;/strong&gt; uses &lt;strong&gt;Ethernet switches&lt;/strong&gt; instead of hubs, allowing devices to communicate without the risk of collisions.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

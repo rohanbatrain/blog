@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bandwidth on Rohan&#39;s Blog</title>
+    <link>https://blog.rohanbatra.in/tags/bandwidth/</link>
+    <description>Recent content in Bandwidth on Rohan&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 12 May 2025 18:07:38 +0530</lastBuildDate>
+    <atom:link href="https://blog.rohanbatra.in/tags/bandwidth/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Quality of Service (QoS) in Networking</title>
+      <link>https://blog.rohanbatra.in/posts/dcn/quality-of-service/</link>
+      <pubDate>Mon, 12 May 2025 18:07:38 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/posts/dcn/quality-of-service/</guid>
+      <description>&lt;h3 id=&#34;-what-is-quality-of-service-qos&#34;&gt;🌟 What is Quality of Service (QoS)?&lt;/h3&gt;&#xA;&lt;p&gt;QoS refers to a network’s ability to &lt;strong&gt;provide predictable service quality&lt;/strong&gt; — essential for real-time and critical applications (VoIP, video streaming, online gaming).&lt;/p&gt;&#xA;&lt;p&gt;It focuses on &lt;strong&gt;managing network resources&lt;/strong&gt; to meet performance requirements.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;-key-qos-metrics&#34;&gt;📏 Key QoS Metrics&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Bandwidth&lt;/strong&gt; – Data transfer capacity of the network.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Delay (Latency)&lt;/strong&gt; – Time for a packet to reach the destination.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Jitter&lt;/strong&gt; – Variation in delay; critical for media quality.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Packet Loss&lt;/strong&gt; – Percentage of packets that fail to reach destination.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;-mechanisms-to-ensure-qos&#34;&gt;🛠 Mechanisms to Ensure QoS&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Traffic Classification and Prioritization&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Communication Channels and Performance Metrics</title>
+      <link>https://blog.rohanbatra.in/posts/dcn/comm-channels-performance/</link>
+      <pubDate>Mon, 12 May 2025 12:19:23 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/posts/dcn/comm-channels-performance/</guid>
+      <description>&lt;h3 id=&#34;-what-are-communication-channels&#34;&gt;📡 What Are Communication Channels?&lt;/h3&gt;&#xA;&lt;p&gt;A &lt;strong&gt;communication channel&lt;/strong&gt; is the medium used to transmit data between devices. It can be physical (wired) or wireless (radio, microwave, optical).&lt;/p&gt;&#xA;&lt;h4 id=&#34;-types-of-channels&#34;&gt;🧩 Types of Channels&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Wired:&lt;/strong&gt; Coaxial, Twisted Pair, Optical Fiber&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Wireless:&lt;/strong&gt; Radio Waves, Infrared, Microwave, Satellite&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Duplex Modes:&lt;/strong&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Simplex: One-way (TV)&lt;/li&gt;&#xA;&lt;li&gt;Half-duplex: Alternating (walkie-talkie)&lt;/li&gt;&#xA;&lt;li&gt;Full-duplex: Simultaneous (phone)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;-key-performance-metrics&#34;&gt;🧪 Key Performance Metrics&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Bandwidth&lt;/strong&gt; – Max data rate (bps) the channel can handle.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Latency&lt;/strong&gt; – Time for data to reach destination.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Throughput&lt;/strong&gt; – Actual rate achieved.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Jitter&lt;/strong&gt; – Variability in latency.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Error Rate&lt;/strong&gt; – Ratio of corrupted bits.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;SNR (Signal-to-Noise Ratio)&lt;/strong&gt; – Quality of transmission.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h3 id=&#34;-deep-insight&#34;&gt;🧠 Deep Insight&lt;/h3&gt;&#xA;&lt;p&gt;Every communication channel is a &lt;strong&gt;conversation between chaos and clarity&lt;/strong&gt; — a struggle to preserve signal in a sea of noise. Performance metrics quantify how faithfully and swiftly &lt;strong&gt;meaning travels&lt;/strong&gt; through this medium.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

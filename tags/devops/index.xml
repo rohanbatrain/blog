@@ -6,8 +6,15 @@
     <description>Recent content in Devops on Rohan&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 03 May 2025 00:07:34 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 12 May 2025 00:16:46 +0530</lastBuildDate>
     <atom:link href="https://blog.rohanbatra.in/tags/devops/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Clone a Private Repo Using GitHub Secrets in GitHub Actions</title>
+      <link>https://blog.rohanbatra.in/posts/howto/clone-private-repo-using-gh-secrets/</link>
+      <pubDate>Mon, 12 May 2025 00:16:46 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/posts/howto/clone-private-repo-using-gh-secrets/</guid>
+      <description>&lt;h1 id=&#34;clone-a-private-repo-using-github-secrets-in-github-actions&#34;&gt;Clone a Private Repo Using GitHub Secrets in GitHub Actions&lt;/h1&gt;&#xA;&lt;p&gt;Cloning a private repository inside another GitHub Actions workflow is a common use case — whether you&amp;rsquo;re reusing shared scripts, configs, or tools. Here’s how to do it securely using GitHub Secrets.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-step-1-generate-a-personal-access-token-pat&#34;&gt;🔐 Step 1: Generate a Personal Access Token (PAT)&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Go to &lt;strong&gt;GitHub &amp;gt; Settings &amp;gt; Developer Settings &amp;gt; Tokens&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Click &lt;strong&gt;&amp;ldquo;Generate new token&amp;rdquo;&lt;/strong&gt; (classic or fine-grained).&lt;/li&gt;&#xA;&lt;li&gt;Grant the following scopes:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;code&gt;repo&lt;/code&gt; for private repos&lt;/li&gt;&#xA;&lt;li&gt;&lt;code&gt;read:org&lt;/code&gt; if the repo is under an organization&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Copy the token (you won&amp;rsquo;t see it again).&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-step-2-add-the-token-to-secrets&#34;&gt;🔑 Step 2: Add the Token to Secrets&lt;/h2&gt;&#xA;&lt;p&gt;In your destination repo:&lt;/p&gt;</description>
+    </item>
     <item>
       <title>RAID Explained: Understanding Redundant Array of Independent Disks for Modern Infrastructure</title>
       <link>https://blog.rohanbatra.in/posts/raid-explained/</link>

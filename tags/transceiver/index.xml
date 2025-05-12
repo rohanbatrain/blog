@@ -10,9 +10,9 @@
     <atom:link href="https://blog.rohanbatra.in/tags/transceiver/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Network Devices – Transceiver</title>
-      <link>https://blog.rohanbatra.in/posts/digital-communication-and-networks/2025-05-03-network-devices--transceivers/</link>
+      <link>https://blog.rohanbatra.in/posts/dcn/2025-05-03-network-devices--transceivers/</link>
       <pubDate>Sat, 03 May 2025 14:42:21 +0530</pubDate>
-      <guid>https://blog.rohanbatra.in/posts/digital-communication-and-networks/2025-05-03-network-devices--transceivers/</guid>
+      <guid>https://blog.rohanbatra.in/posts/dcn/2025-05-03-network-devices--transceivers/</guid>
       <description>&lt;h1 id=&#34;-network-device-transceiver&#34;&gt;📡 Network Device: Transceiver&lt;/h1&gt;&#xA;&lt;p&gt;A &lt;strong&gt;Transceiver&lt;/strong&gt; (short for &lt;em&gt;Transmitter + Receiver&lt;/em&gt;) is a device used in networking to &lt;strong&gt;transmit and receive&lt;/strong&gt; data signals. It operates at the &lt;strong&gt;Physical Layer (Layer 1)&lt;/strong&gt; of the OSI model and plays a key role in converting electrical signals for network communication.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-what-is-a-transceiver&#34;&gt;🔹 What is a Transceiver?&lt;/h2&gt;&#xA;&lt;p&gt;A &lt;strong&gt;Transceiver&lt;/strong&gt; is a hardware component that enables a device to send and receive signals over a network medium. It acts as an &lt;strong&gt;interface between the network medium&lt;/strong&gt; (like copper, fiber, or wireless) and the networking device (like a NIC or router).&lt;/p&gt;</description>
     </item>
   </channel>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Communication on Rohan&#39;s Blog</title>
+    <link>https://blog.rohanbatra.in/tags/communication/</link>
+    <description>Recent content in Communication on Rohan&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 12 May 2025 12:19:23 +0530</lastBuildDate>
+    <atom:link href="https://blog.rohanbatra.in/tags/communication/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Communication Channels and Performance Metrics</title>
+      <link>https://blog.rohanbatra.in/posts/dcn/comm-channels-performance/</link>
+      <pubDate>Mon, 12 May 2025 12:19:23 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/posts/dcn/comm-channels-performance/</guid>
+      <description>&lt;h3 id=&#34;-what-are-communication-channels&#34;&gt;📡 What Are Communication Channels?&lt;/h3&gt;&#xA;&lt;p&gt;A &lt;strong&gt;communication channel&lt;/strong&gt; is the medium used to transmit data between devices. It can be physical (wired) or wireless (radio, microwave, optical).&lt;/p&gt;&#xA;&lt;h4 id=&#34;-types-of-channels&#34;&gt;🧩 Types of Channels&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Wired:&lt;/strong&gt; Coaxial, Twisted Pair, Optical Fiber&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Wireless:&lt;/strong&gt; Radio Waves, Infrared, Microwave, Satellite&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Duplex Modes:&lt;/strong&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Simplex: One-way (TV)&lt;/li&gt;&#xA;&lt;li&gt;Half-duplex: Alternating (walkie-talkie)&lt;/li&gt;&#xA;&lt;li&gt;Full-duplex: Simultaneous (phone)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;-key-performance-metrics&#34;&gt;🧪 Key Performance Metrics&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Bandwidth&lt;/strong&gt; – Max data rate (bps) the channel can handle.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Latency&lt;/strong&gt; – Time for data to reach destination.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Throughput&lt;/strong&gt; – Actual rate achieved.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Jitter&lt;/strong&gt; – Variability in latency.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Error Rate&lt;/strong&gt; – Ratio of corrupted bits.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;SNR (Signal-to-Noise Ratio)&lt;/strong&gt; – Quality of transmission.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h3 id=&#34;-deep-insight&#34;&gt;🧠 Deep Insight&lt;/h3&gt;&#xA;&lt;p&gt;Every communication channel is a &lt;strong&gt;conversation between chaos and clarity&lt;/strong&gt; — a struggle to preserve signal in a sea of noise. Performance metrics quantify how faithfully and swiftly &lt;strong&gt;meaning travels&lt;/strong&gt; through this medium.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Packet Switching: The Foundation of the Internet</title>
+      <link>https://blog.rohanbatra.in/posts/dcn/packet-switching/</link>
+      <pubDate>Mon, 12 May 2025 12:15:21 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/posts/dcn/packet-switching/</guid>
+      <description>&lt;h3 id=&#34;-what-is-packet-switching&#34;&gt;🧱 What is Packet Switching?&lt;/h3&gt;&#xA;&lt;p&gt;Packet switching breaks data into smaller packets that are sent independently through the network and reassembled at the destination. Each packet can take its own route based on network conditions.&lt;/p&gt;&#xA;&lt;h4 id=&#34;-key-characteristics&#34;&gt;🧩 Key Characteristics&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;No reserved path:&lt;/strong&gt; Dynamic routing based on availability.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Packets may arrive out of order:&lt;/strong&gt; Reordered at the destination.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Efficient bandwidth use:&lt;/strong&gt; Shares channels among many users.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Low latency:&lt;/strong&gt; Especially effective for bursty data (like web traffic).&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;-deep-insight&#34;&gt;🧠 Deep Insight&lt;/h3&gt;&#xA;&lt;p&gt;Packet switching embodies the &lt;strong&gt;chaotic efficiency of decentralized systems&lt;/strong&gt; — a model that rewards adaptability. It mirrors modern societies: no single path, just intelligent fragments finding their way. The network becomes &lt;strong&gt;organic&lt;/strong&gt;, self-balancing, and efficient.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Message Switching: Store-and-Forward Flexibility</title>
+      <link>https://blog.rohanbatra.in/posts/dcn/message-switching/</link>
+      <pubDate>Mon, 12 May 2025 12:14:27 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/posts/dcn/message-switching/</guid>
+      <description>&lt;h3 id=&#34;-what-is-message-switching&#34;&gt;📦 What is Message Switching?&lt;/h3&gt;&#xA;&lt;p&gt;Message switching is a communication technique where the entire message is sent to a switching node, stored temporarily, and then forwarded to the next node. There is &lt;strong&gt;no dedicated path&lt;/strong&gt;, and messages may take different routes depending on availability.&lt;/p&gt;&#xA;&lt;h4 id=&#34;-key-characteristics&#34;&gt;🧩 Key Characteristics&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Store-and-forward:&lt;/strong&gt; Messages are stored at intermediate nodes.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;No reserved path:&lt;/strong&gt; Resources are used only when needed.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Variable delays:&lt;/strong&gt; Entire message must be received before forwarding.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Supports larger messages:&lt;/strong&gt; But may increase latency.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;-deep-insight&#34;&gt;🧠 Deep Insight&lt;/h3&gt;&#xA;&lt;p&gt;Message switching reflects a &lt;strong&gt;buffered society&lt;/strong&gt; — information is saved, evaluated, and then passed on. Like a thoughtful letter carried by multiple couriers, each step pauses and protects the message. It values &lt;strong&gt;reliability over speed&lt;/strong&gt;, and &lt;strong&gt;storage over spontaneity&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Circuit Switching: Dedicated Paths in Communication</title>
+      <link>https://blog.rohanbatra.in/posts/dcn/circuit-switching/</link>
+      <pubDate>Mon, 12 May 2025 12:13:42 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/posts/dcn/circuit-switching/</guid>
+      <description>&lt;h3 id=&#34;-what-is-circuit-switching&#34;&gt;🚧 What is Circuit Switching?&lt;/h3&gt;&#xA;&lt;p&gt;Circuit switching is a method of communication where a dedicated communication path is established between two endpoints &lt;strong&gt;before&lt;/strong&gt; any data is transferred. Once the circuit is established, the entire message travels along this fixed path.&lt;/p&gt;&#xA;&lt;h4 id=&#34;-key-characteristics&#34;&gt;🧩 Key Characteristics&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Dedicated path:&lt;/strong&gt; Set up before data transfer begins.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Consistent delay:&lt;/strong&gt; Fixed route ensures predictable timing.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Wastage of resources:&lt;/strong&gt; Channel remains reserved even during silence.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Example:&lt;/strong&gt; Traditional telephone systems.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;-deep-insight&#34;&gt;🧠 Deep Insight&lt;/h3&gt;&#xA;&lt;p&gt;Circuit switching represents a rigid, commitment-first communication model — much like a reserved meeting room that stays booked even when unused. It symbolizes &lt;strong&gt;trust in predictability&lt;/strong&gt; at the expense of flexibility. In contrast to today’s dynamic data flows, this model reflects older societal constructs of &lt;strong&gt;fixed contracts and stable relationships&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

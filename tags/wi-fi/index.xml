@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wi-Fi on Rohan&#39;s Blog</title>
+    <link>https://blog.rohanbatra.in/tags/wi-fi/</link>
+    <description>Recent content in Wi-Fi on Rohan&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 12 May 2025 17:59:51 +0530</lastBuildDate>
+    <atom:link href="https://blog.rohanbatra.in/tags/wi-fi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>IEEE Standards 802.3 &amp; 802.11</title>
+      <link>https://blog.rohanbatra.in/posts/dcn/ieee-standards-802-3-802-11/</link>
+      <pubDate>Mon, 12 May 2025 17:59:51 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/posts/dcn/ieee-standards-802-3-802-11/</guid>
+      <description>&lt;h3 id=&#34;-ieee-8023-ethernet&#34;&gt;📚 IEEE 802.3 (Ethernet)&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;IEEE 802.3&lt;/strong&gt; is the &lt;strong&gt;standard&lt;/strong&gt; for &lt;strong&gt;Ethernet&lt;/strong&gt; networks, specifying the physical and data link layer for wired communications.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Physical Layer:&lt;/strong&gt; Defines the physical medium and signaling used for Ethernet, including &lt;strong&gt;cabling&lt;/strong&gt;, &lt;strong&gt;connectors&lt;/strong&gt;, and &lt;strong&gt;signal encoding&lt;/strong&gt; methods.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Data Link Layer:&lt;/strong&gt; Defines the &lt;strong&gt;MAC (Medium Access Control)&lt;/strong&gt; sub-layer, responsible for handling how devices access the communication medium and manage data transmission.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;key-features-of-ieee-8023&#34;&gt;Key Features of IEEE 802.3:&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Ethernet Frame Format:&lt;/strong&gt; Includes a &lt;strong&gt;header&lt;/strong&gt;, &lt;strong&gt;data&lt;/strong&gt;, and &lt;strong&gt;trailer&lt;/strong&gt;. The &lt;strong&gt;header&lt;/strong&gt; includes source and destination MAC addresses, and the &lt;strong&gt;trailer&lt;/strong&gt; contains &lt;strong&gt;error-checking information&lt;/strong&gt; (such as CRC).&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Transmission Speed:&lt;/strong&gt; Originally &lt;strong&gt;10 Mbps&lt;/strong&gt; in 802.3, but modern versions support speeds of up to &lt;strong&gt;100 Gbps&lt;/strong&gt; or more (e.g., &lt;strong&gt;10G Ethernet&lt;/strong&gt;).&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Full-Duplex &amp;amp; Half-Duplex:&lt;/strong&gt; Early versions supported &lt;strong&gt;half-duplex&lt;/strong&gt;, where data could only flow in one direction at a time, while modern versions support &lt;strong&gt;full-duplex&lt;/strong&gt;, allowing simultaneous sending and receiving.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;-ieee-80211-wi-fi&#34;&gt;🌐 IEEE 802.11 (Wi-Fi)&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;IEEE 802.11&lt;/strong&gt; is the &lt;strong&gt;standard&lt;/strong&gt; for &lt;strong&gt;wireless local area networks (WLANs)&lt;/strong&gt;, commonly known as &lt;strong&gt;Wi-Fi&lt;/strong&gt;. It defines how devices communicate over radio frequencies.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

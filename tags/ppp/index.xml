@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PPP on Rohan&#39;s Blog</title>
+    <link>https://blog.rohanbatra.in/tags/ppp/</link>
+    <description>Recent content in PPP on Rohan&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 12 May 2025 17:54:37 +0530</lastBuildDate>
+    <atom:link href="https://blog.rohanbatra.in/tags/ppp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HDLC and PPP Protocols</title>
+      <link>https://blog.rohanbatra.in/posts/dcn/hdlc-ppp/</link>
+      <pubDate>Mon, 12 May 2025 17:54:37 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/posts/dcn/hdlc-ppp/</guid>
+      <description>&lt;h3 id=&#34;-hdlc-high-level-data-link-control&#34;&gt;🖧 HDLC (High-Level Data Link Control)&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;HDLC&lt;/strong&gt; is a &lt;strong&gt;bit-oriented&lt;/strong&gt; data link layer protocol used for synchronous data communication.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Framing:&lt;/strong&gt; HDLC frames are used to send data between devices.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Error Control:&lt;/strong&gt; It uses both error detection and error correction techniques, specifically &lt;strong&gt;CRC&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Flow Control:&lt;/strong&gt; Employs &lt;strong&gt;sliding window&lt;/strong&gt; technique for managing the flow of data.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;types-of-hdlc-frames&#34;&gt;Types of HDLC Frames:&lt;/h4&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Information Frames (I-frames):&lt;/strong&gt; Carry user data.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Supervisory Frames (S-frames):&lt;/strong&gt; For error control and flow management.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Unnumbered Frames (U-frames):&lt;/strong&gt; Used for link setup and control.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;HDLC provides a robust framework for managing reliable communication over unreliable channels.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

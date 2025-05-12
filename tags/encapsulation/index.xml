@@ -6,8 +6,15 @@
     <description>Recent content in Encapsulation on Rohan&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 08 May 2025 18:38:47 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 12 May 2025 18:06:38 +0530</lastBuildDate>
     <atom:link href="https://blog.rohanbatra.in/tags/encapsulation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Encapsulation and Tunneling</title>
+      <link>https://blog.rohanbatra.in/posts/dcn/encapsulation-tunneling/</link>
+      <pubDate>Mon, 12 May 2025 18:06:38 +0530</pubDate>
+      <guid>https://blog.rohanbatra.in/posts/dcn/encapsulation-tunneling/</guid>
+      <description>&lt;h3 id=&#34;-encapsulation&#34;&gt;📦 Encapsulation&lt;/h3&gt;&#xA;&lt;p&gt;Encapsulation is the process of &lt;strong&gt;wrapping data&lt;/strong&gt; with the necessary protocol information at each layer of the OSI or TCP/IP model.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Each layer adds a &lt;strong&gt;header&lt;/strong&gt; (and sometimes a footer) to the data from the upper layer.&lt;/li&gt;&#xA;&lt;li&gt;Enables modular communication: the lower layers do not need to understand the data they are transporting.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;-example-sending-a-web-page-over-tcpip&#34;&gt;🔄 Example (Sending a Web Page over TCP/IP):&lt;/h4&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Application Layer: HTTP Data&lt;/li&gt;&#xA;&lt;li&gt;Transport Layer: Adds TCP Header → TCP Segment&lt;/li&gt;&#xA;&lt;li&gt;Network Layer: Adds IP Header → IP Packet&lt;/li&gt;&#xA;&lt;li&gt;Data Link Layer: Adds MAC Header/Footer → Frame&lt;/li&gt;&#xA;&lt;li&gt;Physical Layer: Converts to Bits for transmission&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;-tunneling&#34;&gt;🕳 Tunneling&lt;/h3&gt;&#xA;&lt;p&gt;Tunneling is a method of &lt;strong&gt;encapsulating packets within another protocol&lt;/strong&gt; to route over a network where the original protocol might not be supported.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Encapsulation</title>
       <link>https://blog.rohanbatra.in/posts/oops/encapsulation/</link>

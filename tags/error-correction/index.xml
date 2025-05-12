@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Error Correction on Rohan&#39;s Blog</title>
+    <link>https://blog.rohanbatra.in/tags/error-correction/</link>
+    <description>Recent content in Error Correction on Rohan&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 12 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://blog.rohanbatra.in/tags/error-correction/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Error Correction and Hamming Code</title>
+      <link>https://blog.rohanbatra.in/posts/dcn/error-correction-hamming/</link>
+      <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.rohanbatra.in/posts/dcn/error-correction-hamming/</guid>
+      <description>&lt;h3 id=&#34;-what-is-error-correction&#34;&gt;🛠️ What is Error Correction?&lt;/h3&gt;&#xA;&lt;p&gt;Unlike detection, &lt;strong&gt;error correction&lt;/strong&gt; not only detects but also fixes the error without retransmission.&lt;/p&gt;&#xA;&lt;p&gt;This is crucial in environments where:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Retransmission is costly or impossible&lt;/strong&gt; (e.g., deep space, streaming media).&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Timeliness is critical&lt;/strong&gt; (e.g., real-time voice).&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;-hamming-code-the-foundation-of-fec&#34;&gt;🧮 Hamming Code: The Foundation of FEC&lt;/h3&gt;&#xA;&lt;p&gt;Invented by &lt;strong&gt;Richard Hamming&lt;/strong&gt;, this method introduces &lt;strong&gt;redundant parity bits&lt;/strong&gt; into data to detect and correct &lt;strong&gt;single-bit errors&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;h4 id=&#34;-how-it-works&#34;&gt;👨‍🔬 How It Works:&lt;/h4&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;For &lt;em&gt;k&lt;/em&gt; data bits, it adds &lt;em&gt;r&lt;/em&gt; parity bits such that:&#xA;[&#xA;2^r \geq k + r + 1&#xA;]&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

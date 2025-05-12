@@ -10,30 +10,30 @@
     <atom:link href="https://blog.rohanbatra.in/tags/physical/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Network Devices – Transceiver</title>
-      <link>https://blog.rohanbatra.in/posts/digital-communication-and-networks/2025-05-03-network-devices--transceivers/</link>
+      <link>https://blog.rohanbatra.in/posts/dcn/2025-05-03-network-devices--transceivers/</link>
       <pubDate>Sat, 03 May 2025 14:42:21 +0530</pubDate>
-      <guid>https://blog.rohanbatra.in/posts/digital-communication-and-networks/2025-05-03-network-devices--transceivers/</guid>
+      <guid>https://blog.rohanbatra.in/posts/dcn/2025-05-03-network-devices--transceivers/</guid>
       <description>&lt;h1 id=&#34;-network-device-transceiver&#34;&gt;📡 Network Device: Transceiver&lt;/h1&gt;&#xA;&lt;p&gt;A &lt;strong&gt;Transceiver&lt;/strong&gt; (short for &lt;em&gt;Transmitter + Receiver&lt;/em&gt;) is a device used in networking to &lt;strong&gt;transmit and receive&lt;/strong&gt; data signals. It operates at the &lt;strong&gt;Physical Layer (Layer 1)&lt;/strong&gt; of the OSI model and plays a key role in converting electrical signals for network communication.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-what-is-a-transceiver&#34;&gt;🔹 What is a Transceiver?&lt;/h2&gt;&#xA;&lt;p&gt;A &lt;strong&gt;Transceiver&lt;/strong&gt; is a hardware component that enables a device to send and receive signals over a network medium. It acts as an &lt;strong&gt;interface between the network medium&lt;/strong&gt; (like copper, fiber, or wireless) and the networking device (like a NIC or router).&lt;/p&gt;</description>
     </item>
     <item>
       <title>Network Devices – Modem</title>
-      <link>https://blog.rohanbatra.in/posts/digital-communication-and-networks/2025-05-03-network-devices--modem/</link>
+      <link>https://blog.rohanbatra.in/posts/dcn/2025-05-03-network-devices--modem/</link>
       <pubDate>Sat, 03 May 2025 14:39:21 +0530</pubDate>
-      <guid>https://blog.rohanbatra.in/posts/digital-communication-and-networks/2025-05-03-network-devices--modem/</guid>
+      <guid>https://blog.rohanbatra.in/posts/dcn/2025-05-03-network-devices--modem/</guid>
       <description>&lt;h1 id=&#34;-network-device-modem&#34;&gt;🔌 Network Device: Modem&lt;/h1&gt;&#xA;&lt;p&gt;A &lt;strong&gt;Modem&lt;/strong&gt; (Modulator-Demodulator) is a device that operates at the &lt;strong&gt;Physical Layer&lt;/strong&gt; of the OSI model. It is used to &lt;strong&gt;convert digital data to analog signals&lt;/strong&gt; and vice versa, enabling digital devices to communicate over analog communication channels like telephone lines.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-what-is-a-modem&#34;&gt;🔹 What is a Modem?&lt;/h2&gt;&#xA;&lt;p&gt;A &lt;strong&gt;Modem&lt;/strong&gt; is a device that modulates digital data from a computer into an analog signal for transmission over telephone lines (or similar media) and demodulates analog signals back into digital data at the receiving end. This is crucial for Internet access, particularly in older or rural areas where traditional broadband services (like fiber or cable) are unavailable.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Network Devices – Repeater</title>
-      <link>https://blog.rohanbatra.in/posts/digital-communication-and-networks/2025-05-03-network-devices--repeater/</link>
+      <link>https://blog.rohanbatra.in/posts/dcn/2025-05-03-network-devices--repeater/</link>
       <pubDate>Sat, 03 May 2025 13:50:21 +0530</pubDate>
-      <guid>https://blog.rohanbatra.in/posts/digital-communication-and-networks/2025-05-03-network-devices--repeater/</guid>
+      <guid>https://blog.rohanbatra.in/posts/dcn/2025-05-03-network-devices--repeater/</guid>
       <description>&lt;h1 id=&#34;-network-device-repeater&#34;&gt;🔌 Network Device: Repeater&lt;/h1&gt;&#xA;&lt;p&gt;A &lt;strong&gt;Repeater&lt;/strong&gt; is a simple networking device that operates at &lt;strong&gt;Layer 1 (Physical Layer)&lt;/strong&gt; of the OSI model. It is used to &lt;strong&gt;extend the range&lt;/strong&gt; of a network by amplifying or regenerating signals over long distances.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-what-is-a-repeater&#34;&gt;🔹 What is a Repeater?&lt;/h2&gt;&#xA;&lt;p&gt;A &lt;strong&gt;Repeater&lt;/strong&gt; is a device that receives weak or degraded signals from a network, amplifies or regenerates them, and then retransmits the stronger signal. This is particularly useful in large networks or environments where signal loss occurs due to distance or physical obstacles.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Network Devices – Hub</title>
-      <link>https://blog.rohanbatra.in/posts/digital-communication-and-networks/2025-05-03-network-devices--hub/</link>
+      <link>https://blog.rohanbatra.in/posts/dcn/2025-05-03-network-devices--hub/</link>
       <pubDate>Sat, 03 May 2025 13:37:21 +0530</pubDate>
-      <guid>https://blog.rohanbatra.in/posts/digital-communication-and-networks/2025-05-03-network-devices--hub/</guid>
+      <guid>https://blog.rohanbatra.in/posts/dcn/2025-05-03-network-devices--hub/</guid>
       <description>&lt;h1 id=&#34;-network-device-hub&#34;&gt;🔌 Network Device: Hub&lt;/h1&gt;&#xA;&lt;p&gt;A &lt;strong&gt;Hub&lt;/strong&gt; is a basic networking device that operates at &lt;strong&gt;Layer 1 (Physical Layer)&lt;/strong&gt; of the OSI model. It is used to connect multiple devices in a &lt;strong&gt;LAN&lt;/strong&gt; (Local Area Network) by broadcasting data to all connected devices.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-what-is-a-hub&#34;&gt;🔹 What is a Hub?&lt;/h2&gt;&#xA;&lt;p&gt;A &lt;strong&gt;Hub&lt;/strong&gt; is a simple, non-intelligent device that connects multiple computers or devices within a LAN. Unlike a switch or bridge, a hub does not filter or direct traffic based on MAC or IP addresses. It &lt;strong&gt;broadcasts incoming data to all ports&lt;/strong&gt;, regardless of the destination, which can lead to inefficiencies in larger networks.&lt;/p&gt;</description>
     </item>
   </channel>
