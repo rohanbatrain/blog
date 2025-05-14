@@ -1,36 +1,68 @@
-name: Hugo Static Site Build
+name: Hugo Static Site Build + Markdown Lint
 
 on:
   push:
-    branches:
-      - main  # Trigger on push to main
+    branches: [ main ]
+    paths:
+      - '**/*.md'
+      - '**/*.yaml'
+      - '**/*.yml'
+      - '**' # rebuild Hugo on any change
   pull_request:
-    branches:
-      - main  # Trigger on PRs targeting main
+    branches: [ main ]
+    paths:
+      - '**/*.md'
+      - '**/*.yaml'
+      - '**/*.yml'
+      - '**'
 
 jobs:
-  build:
-    runs-on: ubuntu-22.04
-
+  lint:
+    name: Lint & Autofix Markdown + Frontmatter
+    runs-on: ubuntu-latest
+    if: ${{ github.actor != 'github-actions[bot]' }}
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v3
         with:
-          fetch-depth: 0  # Ensures proper .GitInfo and .Lastmod
+          fetch-depth: 0
 
-      - name: Set up Hugo
-        uses: peaceiris/actions-hugo@v3
+      - uses: actions/setup-node@v4
         with:
-          hugo-version: 'latest'  # Or use a fixed version like '0.119.0'
+          node-version: '18'
+
+      - name: Install linters
+        run: npm install --no-save prettier markdownlint-cli2
+
+      - name: Lint and fix Markdown and frontmatter
+        run: |
+          npx prettier --write "**/*.md"
+          npx markdownlint-cli2 --fix "**/*.md"
+
+      - name: Commit fixes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "chore: lint markdown + frontmatter"
+          branch: ${{ github.head_ref }}
+
+  build:
+    name: Build & Deploy Hugo Site
+    needs: lint
+    runs-on: ubuntu-22.04
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: 'latest'
           extended: true
 
-      - name: Build the Hugo site
-        run: hugo 
+      - run: hugo
 
-      - name: Deploy to GitHub Pages
-        uses: JamesIves/github-pages-deploy-action@v4
+      - uses: JamesIves/github-pages-deploy-action@v4
         with:
-          branch: gh-pages      # The branch the site will be deployed to
-          folder: public        # The folder Hugo outputs the site to
+          branch: gh-pages
+          folder: public
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # GitHub token for authentication
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
