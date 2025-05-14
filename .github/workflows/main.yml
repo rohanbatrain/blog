@@ -4,21 +4,21 @@ on:
   push:
     branches: [ main ]
     paths:
-      - '**/*.md'
-      - '**/*.yaml'
-      - '**/*.yml'
+      - 'content/**/*.md'
+      - 'content/**/*.yaml'
+      - 'content/**/*.yml'
       - '**' # rebuild Hugo on any change
   pull_request:
     branches: [ main ]
     paths:
-      - '**/*.md'
-      - '**/*.yaml'
-      - '**/*.yml'
+      - 'content/**/*.md'
+      - 'content/**/*.yaml'
+      - 'content/**/*.yml'
       - '**'
 
 jobs:
   lint:
-    name: Lint & Autofix Markdown + Frontmatter
+    name: Lint & Autofix Markdown + Frontmatter (content/)
     runs-on: ubuntu-latest
     if: ${{ github.actor != 'github-actions[bot]' }}
     steps:
@@ -33,15 +33,15 @@ jobs:
       - name: Install linters
         run: npm install --no-save prettier markdownlint-cli2
 
-      - name: Lint and fix Markdown and frontmatter
+      - name: Lint and fix Markdown in content/
         run: |
-          npx prettier --write "**/*.md"
-          npx markdownlint-cli2 --fix "**/*.md"
+          npx prettier --write "content/**/*.md"
+          npx markdownlint-cli2 --fix "content/**/*.md"
 
       - name: Commit fixes
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: "chore: lint markdown + frontmatter"
+          commit_message: "chore: lint markdown + frontmatter in content/"
           branch: ${{ github.head_ref }}
 
   build:
