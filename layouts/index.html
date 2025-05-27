@@ -1,0 +1,20 @@
+{{ define "main" }}
+  {{ if .IsHome }}
+    {{ $pinned := where .Site.RegularPages "Params.pinned" true | first 1 }}
+    {{ with $pinned }}
+      <section class="pinned-section" style="margin-top: 1rem;">
+        <h2 style="margin-bottom: 0.75rem;">
+          📌 {{ i18n "mapOfContent" }}
+        </h2>
+        {{ range . }}
+          <article class="post-entry" style="margin-bottom: 1.5rem;">
+            <h3 style="margin-bottom: 0.5rem;">
+              <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+            </h3>
+            <p>{{ .Summary }}</p>
+          </article>
+        {{ end }}
+      </section>
+    {{ end }}
+  {{ end }}
+{{ end }}

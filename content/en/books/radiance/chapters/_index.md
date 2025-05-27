@@ -1,4 +1,0 @@
----
-title: "Chapters"
-book: "radiance"
----
