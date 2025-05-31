@@ -20,3 +20,12 @@
 
 - id: translations
   translation: "अनुवाद"
+
+- id: Categories
+  translation: "श्रेणियाँ"
+
+- id: Tags
+  translation: "टैग्स"
+
+- id: mapOfContent
+  translation: "सामग्री का नक्शा"

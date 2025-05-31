@@ -1,7 +1,6 @@
 baseURL: "https://blog.rohanbatra.in/"
 title: "Rohan's Blog"
 theme: PaperMod
-
 enableRobotsTXT: true
 buildDrafts: true
 buildFuture: false
@@ -23,7 +22,7 @@ params:
   ShowReadingTime: true
   ShowShareButtons: true
   ShowPostNavLinks: true
-  ShowBreadCrumbs: false
+  ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
   ShowWordCount: true
   ShowRssButtonInSectionTermList: true
@@ -38,7 +37,7 @@ params:
   mainSections: ["posts"]
 
   homeInfoParams:
-    Title: "Hi there \U0001F44B"
+    Title: "Hi there 👋"
     Content: "Welcome to my blog"
 
   socialIcons:
@@ -69,6 +68,7 @@ languages:
     languageName: "English"
     weight: 1
     contentDir: "content/en"
+    title: "Rohan Batra's Blog"
     menu:
       main:
         - identifier: categories
@@ -78,7 +78,7 @@ languages:
         - identifier: search
           name: "Search"
           url: /en/search/
-          weight: 10
+          weight: 20
         - identifier: tags
           name: "Tags"
           url: /en/tags/
@@ -96,24 +96,197 @@ languages:
     languageName: "हिंदी"
     weight: 2
     contentDir: "content/hi"
+    title: "रोहन बत्रा का ब्लॉग"
     menu:
       main:
         - identifier: categories
           name: "श्रेणियाँ"
           url: /hi/categories/
           weight: 10
+        - identifier: search
+          name: "खोज"
+          url: /hi/search/
+          weight: 20
         - identifier: tags
           name: "टैग्स"
           url: /hi/tags/
-          weight: 20
+          weight: 30
         - identifier: portfolio
           name: "पोर्टफोलियो"
           url: https://rohanbatra.in/
-          weight: 30
+          weight: 40
         - identifier: github
           name: "ब्लॉग"
           url: https://github.com/rohanbatrain/blog/
+          weight: 50
+
+  de:
+    languageName: "Deutsch"
+    weight: 3
+    contentDir: "content/de"
+    title: "Rohan Batras Blog"
+    menu:
+      main:
+        - identifier: categories
+          name: "Kategorien"
+          url: /de/categories/
+          weight: 10
+        - identifier: search
+          name: "Suche"
+          url: /de/search/
+          weight: 20
+        - identifier: tags
+          name: "Tags"
+          url: /de/tags/
+          weight: 30
+        - identifier: portfolio
+          name: "Portfolio"
+          url: https://rohanbatra.in/
           weight: 40
+        - identifier: github
+          name: "Blog"
+          url: https://github.com/rohanbatrain/blog/
+          weight: 50
+
+  fr:
+    languageName: "Français"
+    weight: 4
+    contentDir: "content/fr"
+    title: "Blog de Rohan Batra"
+    menu:
+      main:
+        - identifier: categories
+          name: "Catégories"
+          url: /fr/categories/
+          weight: 10
+        - identifier: search
+          name: "Recherche"
+          url: /fr/search/
+          weight: 20
+        - identifier: tags
+          name: "Tags"
+          url: /fr/tags/
+          weight: 30
+        - identifier: portfolio
+          name: "Portfolio"
+          url: https://rohanbatra.in/
+          weight: 40
+        - identifier: github
+          name: "Blog"
+          url: https://github.com/rohanbatrain/blog/
+          weight: 50
+
+  it:
+    languageName: "Italiano"
+    weight: 5
+    contentDir: "content/it"
+    title: "Blog di Rohan Batra"
+    menu:
+      main:
+        - identifier: categories
+          name: "Categorie"
+          url: /it/categories/
+          weight: 10
+        - identifier: search
+          name: "Cerca"
+          url: /it/search/
+          weight: 20
+        - identifier: tags
+          name: "Tag"
+          url: /it/tags/
+          weight: 30
+        - identifier: portfolio
+          name: "Portfolio"
+          url: https://rohanbatra.in/
+          weight: 40
+        - identifier: github
+          name: "Blog"
+          url: https://github.com/rohanbatrain/blog/
+          weight: 50
+
+  pt:
+    languageName: "Português"
+    weight: 6
+    contentDir: "content/pt"
+    title: "Blog de Rohan Batra"
+    menu:
+      main:
+        - identifier: categories
+          name: "Categorias"
+          url: /pt/categories/
+          weight: 10
+        - identifier: search
+          name: "Pesquisar"
+          url: /pt/search/
+          weight: 20
+        - identifier: tags
+          name: "Tags"
+          url: /pt/tags/
+          weight: 30
+        - identifier: portfolio
+          name: "Portfolio"
+          url: https://rohanbatra.in/
+          weight: 40
+        - identifier: github
+          name: "Blog"
+          url: https://github.com/rohanbatrain/blog/
+          weight: 50
+
+  es:
+    languageName: "Español"
+    weight: 7
+    contentDir: "content/es"
+    title: "Blog de Rohan Batra"
+    menu:
+      main:
+        - identifier: categories
+          name: "Categorías"
+          url: /es/categories/
+          weight: 10
+        - identifier: search
+          name: "Buscar"
+          url: /es/search/
+          weight: 20
+        - identifier: tags
+          name: "Etiquetas"
+          url: /es/tags/
+          weight: 30
+        - identifier: portfolio
+          name: "Portfolio"
+          url: https://rohanbatra.in/
+          weight: 40
+        - identifier: github
+          name: "Blog"
+          url: https://github.com/rohanbatrain/blog/
+          weight: 50
+
+  th:
+    languageName: "ไทย"
+    weight: 8
+    contentDir: "content/th"
+    title: "บล็อกของโรฮัน บาตรา"
+    menu:
+      main:
+        - identifier: categories
+          name: "หมวดหมู่"
+          url: /th/categories/
+          weight: 10
+        - identifier: search
+          name: "ค้นหา"
+          url: /th/search/
+          weight: 20
+        - identifier: tags
+          name: "แท็ก"
+          url: /th/tags/
+          weight: 30
+        - identifier: portfolio
+          name: "พอร์ตโฟลิโอ"
+          url: https://rohanbatra.in/
+          weight: 40
+        - identifier: github
+          name: "บล็อก"
+          url: https://github.com/rohanbatrain/blog/
+          weight: 50
 
 outputs:
   home: ["html", "rss", "json"]
