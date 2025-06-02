@@ -14,8 +14,8 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # Cache pip dependencies
-      - name: Cache pip dependencies
+      # Cache pip dependencies (restore)
+      - name: Restore pip cache
         uses: actions/cache@v3
         with:
           path: ~/.cache/pip
@@ -23,8 +23,8 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-pip-
 
-      # Cache Ollama model
-      - name: Cache Ollama model
+      # Restore Ollama model cache
+      - name: Restore Ollama model cache
         uses: actions/cache@v3
         with:
           path: ~/.ollama/models
@@ -32,17 +32,15 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-ollama-
 
-      # Cache Hugo
-      - name: Cache Hugo modules and build cache
+      # Restore Hugo cache
+      - name: Restore Hugo cache
         uses: actions/cache@v3
         with:
-          path: |
-            ~/.cache/hugo
+          path: ~/.cache/hugo
           key: ${{ runner.os }}-hugo-${{ hashFiles('config.toml') }}
 
       - name: Install Ollama
-        run: |
-          curl -fsSL https://ollama.com/install.sh | sh
+        run: curl -fsSL https://ollama.com/install.sh | sh
 
       - name: Start Ollama server and pull model
         run: |
@@ -51,15 +49,23 @@ jobs:
           sleep 15
           curl http://localhost:11434 || { echo "Ollama server did not respond!"; exit 1; }
 
-          if [ ! -f ~/.ollama/models/blobs/llama3.2_3b.bin ]; then
-            echo "Model not cached. Pulling llama3.2:3b..."
+          if ! ollama list | grep -q "llama3.2:3b"; then
+            echo "Pulling llama3.2:3b model..."
             ollama pull llama3.2:3b
           else
-            echo "Ollama model already cached. Skipping pull."
+            echo "Ollama model already present."
           fi
         env:
           OLLAMA_HOST: "0.0.0.0"
           OLLAMA_KEEP_ALIVE: 5m
+
+      # Save Ollama model to cache (post-pull)
+      - name: Save Ollama model cache
+        if: always()
+        uses: actions/cache@v3
+        with:
+          path: ~/.ollama/models
+          key: ${{ runner.os }}-ollama-llama3.2-3b
 
       - name: Clone MarkLang
         run: git clone https://github.com/rohanbatrain/MarkLang.git /tmp/marklang
