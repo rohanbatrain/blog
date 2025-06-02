@@ -17,19 +17,10 @@ jobs:
         run: |
           curl -fsSL https://ollama.com/install.sh | sh
 
-      - name: Find a free port
-        id: find-port
-        run: |
-          for port in {1024..65535}; do
-            if ! ss -tuln | grep -q ":$port "; then
-              echo "PORT=$port" >> $GITHUB_ENV
-              break
-            fi
-          done
       
       - name: Start Ollama server
         run: |
-          OLLAMA_HOST=0.0.0.0:$PORT ollama serve &
+          OLLAMA_HOST=0.0.0.0:1024 ollama serve &
           sleep 5
 
 
@@ -66,9 +57,6 @@ jobs:
           fi
           cat changed_files.txt
 
-      - name: Update MarkLang to use new port
-        run: |
-          sed -i "s/localhost:.*\"/localhost:$PORT\"/" /tmp/marklang/main.py
 
       - name: Run MarkLang on changed files
         run: |
