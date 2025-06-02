@@ -7,7 +7,7 @@ on:
     paths:
       - 'content/en/**'
 jobs:
-  setup-ollama:
+  hugo_marklang:
     runs-on: ubuntu-22.04
     steps:
       - name: Checkout repository
