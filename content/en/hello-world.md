@@ -18,3 +18,5 @@ cover:
 Welcome to my blog! This is my very first post.  
 Stay tuned for more updates, thoughts, and explorations.  
 Excited to share the journey ahead!
+
+TEMP TEXT
