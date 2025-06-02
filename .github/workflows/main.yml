@@ -28,7 +28,7 @@ jobs:
           curl http://localhost:11434 || { echo "Ollama server did not respond!"; exit 1; }
           echo "Ollama server is running."
   
-          ollama pull llama3
+          ollama pull llama3.2:3b
           echo "Model llama3 pulled."
         env:
           OLLAMA_HOST: "0.0.0.0"
