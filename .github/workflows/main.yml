@@ -20,36 +20,16 @@ jobs:
         run: |
           curl -fsSL https://ollama.com/install.sh | sh
 
-      - name: Start Ollama Server
-        id: ollama-status
-        run: |
-          if lsof -i :11434; then
-            echo "status=running" >> $GITHUB_OUTPUT
-            echo "Ollama server is already running. Skipping start."
-          else
-            nohup ollama serve > ollama.log 2>&1 &
-            sleep 10  # increase wait time to be safe
-            if lsof -i :11434; then
-              echo "status=running" >> $GITHUB_OUTPUT
-              echo "Ollama server started successfully."
-            else
-              echo "status=failed" >> $GITHUB_OUTPUT
-              echo "Ollama server failed to start"
-              cat ollama.log
-              exit 1
-            fi
-          fi
-
-
+      # Removed "Start Ollama Server" step entirely
 
       - name: Pull llama3.2 model in Ollama
-        if: steps.ollama-status.outputs.status == 'running'
+        # This step will run unconditionally now
         run: ollama pull llama3.2
 
   marklang:
     needs: setup-ollama
     runs-on: ubuntu-22.04
-    if: needs.setup-ollama.outputs.ollama-status == 'running'
+    # Removed the condition that depended on ollama-status since it's no longer set
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
