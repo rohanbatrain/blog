@@ -21,15 +21,20 @@ jobs:
           curl -fsSL https://ollama.com/install.sh | sh
 
       - name: Start Ollama Server
+        id: ollama-status
         run: |
           nohup ollama serve > ollama.log 2>&1 &
-          sleep 5
+          sleep 10  # increase wait time to be safe
           if lsof -i :11434; then
             echo "status=running" >> $GITHUB_OUTPUT
+            echo "Ollama server is running"
           else
             echo "status=failed" >> $GITHUB_OUTPUT
+            echo "Ollama server failed to start"
+            cat ollama.log
+            exit 1
           fi
-        id: ollama-status
+
 
       - name: Pull llama3.2 model in Ollama
         if: steps.ollama-status.outputs.status == 'running'
