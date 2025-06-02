@@ -23,17 +23,23 @@ jobs:
       - name: Start Ollama Server
         id: ollama-status
         run: |
-          nohup ollama serve > ollama.log 2>&1 &
-          sleep 10  # increase wait time to be safe
           if lsof -i :11434; then
             echo "status=running" >> $GITHUB_OUTPUT
-            echo "Ollama server is running"
+            echo "Ollama server is already running. Skipping start."
           else
-            echo "status=failed" >> $GITHUB_OUTPUT
-            echo "Ollama server failed to start"
-            cat ollama.log
-            exit 1
+            nohup ollama serve > ollama.log 2>&1 &
+            sleep 10  # increase wait time to be safe
+            if lsof -i :11434; then
+              echo "status=running" >> $GITHUB_OUTPUT
+              echo "Ollama server started successfully."
+            else
+              echo "status=failed" >> $GITHUB_OUTPUT
+              echo "Ollama server failed to start"
+              cat ollama.log
+              exit 1
+            fi
           fi
+
 
 
       - name: Pull llama3.2 model in Ollama
