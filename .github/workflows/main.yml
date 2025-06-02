@@ -4,13 +4,6 @@ on:
   push:
     branches:
       - main
-    paths:
-      - 'content/en/**'
-  pull_request:
-    branches:
-      - main
-    paths:
-      - 'content/en/**'
 
 jobs:
   marklang:
