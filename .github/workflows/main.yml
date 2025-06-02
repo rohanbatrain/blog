@@ -13,18 +13,14 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-
+  
       - name: Install Ollama
         run: |
           curl -fsSL https://ollama.com/install.sh | sh
-
-           - name: Install Ollama
-            run: |
-              curl -fsSL https://ollama.com/install.sh | sh
-      
-          - name: Start Ollama server and pull model
-            run: |
-              ollama serve &
+  
+      - name: Start Ollama server and pull model
+        run: |
+          ollama serve &
   
           echo "Waiting for Ollama server to be ready..."
           sleep 15 # Adjust this sleep duration if you face connection issues, especially for larger models
