@@ -6,6 +6,7 @@ on:
       - main
     paths:
       - 'content/en/**'
+      
 jobs:
   hugo_marklang:
     runs-on: ubuntu-22.04
@@ -17,25 +18,25 @@ jobs:
         run: |
           curl -fsSL https://ollama.com/install.sh | sh
 
-     - name: Install Ollama
-      run: |
-        curl -fsSL https://ollama.com/install.sh | sh
-
-    - name: Start Ollama server and pull model
-      run: |
-        ollama serve &
-
-        echo "Waiting for Ollama server to be ready..."
-        sleep 15 # Adjust this sleep duration if you face connection issues, especially for larger models
-
-        curl http://localhost:11434 || { echo "Ollama server did not respond!"; exit 1; }
-        echo "Ollama server is running."
-
-        ollama pull llama3
-        echo "Model llama3 pulled."
-      env:
-        OLLAMA_HOST: "0.0.0.0"
-        OLLAMA_KEEP_ALIVE: 5m
+           - name: Install Ollama
+            run: |
+              curl -fsSL https://ollama.com/install.sh | sh
+      
+          - name: Start Ollama server and pull model
+            run: |
+              ollama serve &
+  
+          echo "Waiting for Ollama server to be ready..."
+          sleep 15 # Adjust this sleep duration if you face connection issues, especially for larger models
+  
+          curl http://localhost:11434 || { echo "Ollama server did not respond!"; exit 1; }
+          echo "Ollama server is running."
+  
+          ollama pull llama3
+          echo "Model llama3 pulled."
+        env:
+          OLLAMA_HOST: "0.0.0.0"
+          OLLAMA_KEEP_ALIVE: 5m
 
       - name: Clone MarkLang
         run: |
