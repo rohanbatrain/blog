@@ -1,34 +1,88 @@
-name: Hugo Static Site Build
+name: Hugo Static Site Build with Ollama and MarkLang
 
 on:
   push:
     branches:
       - main
+    paths:
+      - 'content/en/**'
 
 jobs:
-  marklang:
+  setup-ollama:
     runs-on: ubuntu-22.04
+    outputs:
+      ollama-status: ${{ steps.ollama-status.outputs.status }}
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: List changed files under /content/en
+      - name: Install Ollama
+        run: |
+          curl -fsSL https://ollama.com/install.sh | sh
+
+      - name: Start Ollama Server
+        run: |
+          nohup ollama serve > ollama.log 2>&1 &
+          sleep 5
+          if lsof -i :11434; then
+            echo "status=running" >> $GITHUB_OUTPUT
+          else
+            echo "status=failed" >> $GITHUB_OUTPUT
+          fi
+        id: ollama-status
+
+      - name: Pull llama3.2 model in Ollama
+        if: steps.ollama-status.outputs.status == 'running'
+        run: ollama pull llama3.2
+
+  marklang:
+    needs: setup-ollama
+    runs-on: ubuntu-22.04
+    if: needs.setup-ollama.outputs.ollama-status == 'running'
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Clone MarkLang
+        run: |
+          git clone https://github.com/rohanbatrain/MarkLang.git /tmp/marklang
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install MarkLang dependencies
+        run: pip install -r /tmp/marklang/requirements.txt
+
+      - name: List changed files under content/en
         id: changed-files
         run: |
-          echo "Changed files in /content/en:"
           git fetch origin ${{ github.event.before }}
           git diff --name-only ${{ github.event.before }} ${{ github.sha }} -- 'content/en/**' > changed_files.txt
+          if [ ! -s changed_files.txt ]; then
+            echo "No changes detected in content/en/. Skipping translation."
+            exit 0
+          fi
           cat changed_files.txt
 
-  build:
-    needs: marklang  # Wait for marklang job to finish
-    runs-on: ubuntu-22.04
+      - name: Run MarkLang on changed files
+        run: |
+          while IFS= read -r file; do
+            if [[ -f "$file" ]]; then
+              echo "Translating $file"
+              python /tmp/marklang/main.py "$file" hi
+            fi
+          done < changed_files.txt
 
+  build:
+    needs: marklang
+    runs-on: ubuntu-22.04
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0  # Ensures proper .GitInfo and .Lastmod
+          fetch-depth: 0
 
       - name: Set up Hugo
         uses: peaceiris/actions-hugo@v3
