@@ -75,3 +75,21 @@ jobs:
           git add content/
           git commit -m "Translate updated content files with MarkLang" || echo "No changes to commit"
           git push origin main
+
+
+      - name: Set up Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: 'latest'  # Or use a fixed version like '0.119.0'
+          extended: true
+
+      - name: Build the Hugo site
+        run: hugo 
+
+      - name: Deploy to GitHub Pages
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          branch: gh-pages      # The branch the site will be deployed to
+          folder: public        # The folder Hugo outputs the site to
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # GitHub token for authentication
