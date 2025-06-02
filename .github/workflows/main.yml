@@ -3,13 +3,32 @@ name: Hugo Static Site Build
 on:
   push:
     branches:
-      - main  # Trigger on push to main
+      - main
+    paths:
+      - 'content/en/**'
   pull_request:
     branches:
-      - main  # Trigger on PRs targeting main
+      - main
+    paths:
+      - 'content/en/**'
 
 jobs:
+  marklang:
+    runs-on: ubuntu-22.04
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: List changed files under /content/en
+        id: changed-files
+        run: |
+          echo "Changed files in /content/en:"
+          git fetch origin ${{ github.event.before }}
+          git diff --name-only ${{ github.event.before }} ${{ github.sha }} -- 'content/en/**' > changed_files.txt
+          cat changed_files.txt
+
   build:
+    needs: marklang  # Wait for marklang job to finish
     runs-on: ubuntu-22.04
 
     steps:
@@ -21,16 +40,16 @@ jobs:
       - name: Set up Hugo
         uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: 'latest'  # Or use a fixed version like '0.119.0'
+          hugo-version: 'latest'
           extended: true
 
       - name: Build the Hugo site
-        run: hugo 
+        run: hugo
 
       - name: Deploy to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          branch: gh-pages      # The branch the site will be deployed to
-          folder: public        # The folder Hugo outputs the site to
+          branch: gh-pages
+          folder: public
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # GitHub token for authentication
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
