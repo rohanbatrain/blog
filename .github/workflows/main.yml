@@ -27,12 +27,12 @@ jobs:
       - name: Pull llama3.2 model in Ollama
         run: ollama pull llama3.2
 
-  marklang:
-    needs: setup-ollama
-    runs-on: ubuntu-22.04
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+  # marklang:
+  #   needs: setup-ollama
+  #   runs-on: ubuntu-22.04
+  #   steps:
+  #     - name: Checkout repository
+  #       uses: actions/checkout@v4
 
       - name: Clone MarkLang
         run: |
