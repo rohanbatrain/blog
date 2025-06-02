@@ -23,7 +23,7 @@ jobs:
       # Removed "Start Ollama Server" step entirely
       - name: Start Ollama Server in background
         run: |
-          nohup ollama daemon & 
+          nohup ollama serve & 
           sleep 5
 
       - name: Pull llama3.2 model in Ollama
