@@ -6,37 +6,63 @@ on:
       - main
     paths:
       - 'content/en/**'
-      
+
 jobs:
   hugo_marklang:
     runs-on: ubuntu-22.04
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-  
+
+      # Cache pip dependencies
+      - name: Cache pip dependencies
+        uses: actions/cache@v3
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('/tmp/marklang/requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+
+      # Cache Ollama model
+      - name: Cache Ollama model
+        uses: actions/cache@v3
+        with:
+          path: ~/.ollama/models
+          key: ${{ runner.os }}-ollama-llama3.2-3b
+          restore-keys: |
+            ${{ runner.os }}-ollama-
+
+      # Cache Hugo
+      - name: Cache Hugo modules and build cache
+        uses: actions/cache@v3
+        with:
+          path: |
+            ~/.cache/hugo
+          key: ${{ runner.os }}-hugo-${{ hashFiles('config.toml') }}
+
       - name: Install Ollama
         run: |
           curl -fsSL https://ollama.com/install.sh | sh
-  
+
       - name: Start Ollama server and pull model
         run: |
           ollama serve &
-  
           echo "Waiting for Ollama server to be ready..."
-          sleep 15 # Adjust this sleep duration if you face connection issues, especially for larger models
-  
+          sleep 15
           curl http://localhost:11434 || { echo "Ollama server did not respond!"; exit 1; }
-          echo "Ollama server is running."
-  
-          ollama pull llama3.2:3b
-          echo "Model llama3 pulled."
+
+          if [ ! -f ~/.ollama/models/blobs/llama3.2_3b.bin ]; then
+            echo "Model not cached. Pulling llama3.2:3b..."
+            ollama pull llama3.2:3b
+          else
+            echo "Ollama model already cached. Skipping pull."
+          fi
         env:
           OLLAMA_HOST: "0.0.0.0"
           OLLAMA_KEEP_ALIVE: 5m
 
       - name: Clone MarkLang
-        run: |
-          git clone https://github.com/rohanbatrain/MarkLang.git /tmp/marklang
+        run: git clone https://github.com/rohanbatrain/MarkLang.git /tmp/marklang
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -56,7 +82,7 @@ jobs:
             exit 0
           fi
           cat changed_files.txt
-          
+
       - name: Run MarkLang on changed files for all languages
         run: |
           LANGUAGES=("de" "fr" "it" "pt" "es" "th")
@@ -79,20 +105,19 @@ jobs:
           git commit -m "Translate updated content files with MarkLang" || echo "No changes to commit"
           git push origin main
 
-
       - name: Set up Hugo
         uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: 'latest'  # Or use a fixed version like '0.119.0'
+          hugo-version: 'latest'
           extended: true
 
       - name: Build the Hugo site
-        run: hugo 
+        run: hugo
 
       - name: Deploy to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          branch: gh-pages      # The branch the site will be deployed to
-          folder: public        # The folder Hugo outputs the site to
+          branch: gh-pages
+          folder: public
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # GitHub token for authentication
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
