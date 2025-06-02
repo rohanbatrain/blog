@@ -36,7 +36,7 @@ jobs:
 
       - name: Clone MarkLang
         run: |
-          git clone https://github.com/rohanbatrain/MarkLang.git -b actions /tmp/marklang
+          git clone https://github.com/rohanbatrain/MarkLang.git /tmp/marklang
 
       - name: Set up Python
         uses: actions/setup-python@v4
