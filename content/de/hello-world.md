@@ -7,7 +7,7 @@ date: 2025-05-27
 
 > Dieser Inhalt wurde automatisch aus dem Englischen in das Deutsche übersetzt und von einem KI-Modell neu geschrieben.
 
-```markdown
+
 # Testing marklang  👋
 
 Willkommen auf meinem Blog! Dies ist meine erste Publikation.  
@@ -17,4 +17,4 @@ Aufgeregt, den Reis beginnen zu lassen!
 # TESTING IN PROD 
 
 Ich hoffe, das funktioniert in der Produktion mit Cache.
-```
+
