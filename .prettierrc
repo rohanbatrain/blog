@@ -1,0 +1,6 @@
+{
+  "proseWrap": "always",
+  "yamlBracketSpacing": true,
+  "singleQuote": true,
+  "trailingComma": "none"
+}
