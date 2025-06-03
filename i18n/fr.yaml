@@ -1,0 +1,28 @@
+- id: mapOfContent
+  translation: 'Table des matières'
+
+- id: prev_page
+  translation: 'Précédent'
+
+- id: next_page
+  translation: 'Suivant'
+
+- id: read_time
+  translation:
+    one: 'Une minute'
+    other: '{{ .Count }} minutes'
+
+- id: edit_post
+  translation: 'Modifier'
+
+- id: toc
+  translation: 'Sommaire'
+
+- id: translations
+  translation: 'Traductions'
+
+- id: Categories
+  translation: 'Catégories'
+
+- id: Tags
+  translation: 'Tags'

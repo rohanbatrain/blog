@@ -1,0 +1,28 @@
+- id: mapOfContent
+  translation: 'แผนผังเนื้อหา'
+
+- id: prev_page
+  translation: 'ก่อนหน้า'
+
+- id: next_page
+  translation: 'ถัดไป'
+
+- id: read_time
+  translation:
+    one: 'หนึ่งนาที'
+    other: '{{ .Count }} นาที'
+
+- id: edit_post
+  translation: 'แก้ไข'
+
+- id: toc
+  translation: 'สารบัญ'
+
+- id: translations
+  translation: 'คำแปล'
+
+- id: Categories
+  translation: 'หมวดหมู่'
+
+- id: Tags
+  translation: 'แท็ก'

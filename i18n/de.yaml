@@ -1,0 +1,28 @@
+- id: mapOfContent
+  translation: 'Inhaltsverzeichnis'
+
+- id: prev_page
+  translation: 'Zurück'
+
+- id: next_page
+  translation: 'Weiter'
+
+- id: read_time
+  translation:
+    one: 'Eine Minute'
+    other: '{{ .Count }} Minuten'
+
+- id: edit_post
+  translation: 'Bearbeiten'
+
+- id: toc
+  translation: 'Inhaltsübersicht'
+
+- id: translations
+  translation: 'Übersetzungen'
+
+- id: Categories
+  translation: 'Kategorien'
+
+- id: Tags
+  translation: 'Tags'

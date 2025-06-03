@@ -1,31 +1,28 @@
 - id: mapOfContent
-  translation: "सामग्री का नक्शा"
+  translation: 'सामग्री का नक्शा'
 
 - id: prev_page
-  translation: "पिछला"
+  translation: 'पिछला'
 
 - id: next_page
-  translation: "अगला"
+  translation: 'अगला'
 
 - id: read_time
   translation:
-    one: "एक मिनट"
-    other: "{{ .Count }} मिनट"
+    one: 'एक मिनट'
+    other: '{{ .Count }} मिनट'
 
 - id: edit_post
-  translation: "सुधारें"
+  translation: 'सुधारें'
 
 - id: toc
-  translation: "विषय - सूची"
+  translation: 'विषय - सूची'
 
 - id: translations
-  translation: "अनुवाद"
+  translation: 'अनुवाद'
 
 - id: Categories
-  translation: "श्रेणियाँ"
+  translation: 'श्रेणियाँ'
 
 - id: Tags
-  translation: "टैग्स"
-
-- id: mapOfContent
-  translation: "सामग्री का नक्शा"
+  translation: 'टैग्स'
