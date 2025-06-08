@@ -1,18 +1,21 @@
 ---
 title: "Olá Mundo"
 description: ""
-summary: "Minha primeira postagem de blog – Olá Mundo!"
+summary: "Minha primeira postagem de blog - Olá Mundo!"
 date: 2025-05-27
+pinned: True
 ---
 
-> Este conteúdo foi automaticamente traduzido do inglês para o português e reescrito por uma IA.
+> Este conteúdo foi automaticamente traduzido do inglês para o português e reescrito por inteligência artificial.
 
-# Testando marcação de linguagem 👋
+```markdown
+# Testando marcmlang 👋
 
 Bem-vindo ao meu blog! Este é o meu primeiro post.  
-Aguardo vocês com ansiedade para mais atualizações, pensamentos e explorações.  
-Estou ansioso para compartilhar a jornada por vir!
+Aguardo por mais atualizações, pensamentos e explorações.  
+Estou ansioso para compartilhar a jornada adiante!
 
-# TESTANDO IN PROD 
+# TESTANDO EM PROD 
 
-Espero que funcione em prod com cache"
+Espero que isso funcione em prod"
+```

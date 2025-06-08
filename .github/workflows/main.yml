@@ -127,3 +127,25 @@ jobs:
           folder: public
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+                        
+      - name: Push built site to rohan_batra/landing under blog/
+        run: |
+          git clone https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/rohanbatrain/rohan_batra.git /tmp/landing-repo
+          cd /tmp/landing-repo
+      
+          git checkout landing || git checkout -b landing
+      
+          mkdir -p blog
+          rm -rf blog/*
+          cp -r $GITHUB_WORKSPACE/public/* blog/
+      
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+      
+          git add blog
+          git commit -m "Update blog/ with latest Hugo build"
+          git push origin landing
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_SECRET }}
+                
+     
