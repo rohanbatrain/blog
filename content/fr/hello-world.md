@@ -8,11 +8,15 @@ pinned: True
 
 > Cette contenu a été automatiquement traduit de l'anglais en français et réécrit par un modèle d'intelligence artificielle.
 
-# Test de marque marklang 👋
+# Test Marklang 
 
-Bienvenue sur mon blog ! Ce est mon premier post.  
-Attendez-vous à plus d'actualités, pensées et découvertes.  
-Excitée de partager le voyage qui s'annonce !
+Bienvenue sur mon blog ! C'est mon premier post.  
+Restez informés de nouvelles mises à jour, pensées et explorations.  
+Je suis impatient de partager le parcours qui s'ouvre !
 
-{{< plotly json="plotly.json" hauteur="450px" largeur="90%" >}}"
-"
+---
+
+## Plotly
+
+{{< plotly json="plotly.json" height="450px" width="90%" >}}
+
