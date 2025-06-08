@@ -1,26 +1,22 @@
 ---
 title: "Olá Mundo"
 description: ""
-summary: "Minha primeira postagem de blog - Mundo bem-vindo!"
+summary: "Minha primeira postagem de blog - Olá Mundo!"
 date: 2025-05-27
 pinned: True
 ---
 
->
-Este conteúdo foi automaticamente traduzido do inglês para o português e reescrito pela Inteligência Artificial.
+> Este conteúdo foi automaticamente traduzido do inglês para o português e reescrito pela inteligência artificial.
 
-```markdown
-# Testando marcação 👋
+# Testando marcação markdown 
 
 Bem-vindo ao meu blog! Este é o meu primeiro post.  
-Aguarde mais atualizações, pensamentos e explorações.  
-Estou ansioso para compartilhar a jornada em frente!
+Fique atento a mais atualizações, pensamentos e explorações.  
+Agora é que vamos começar nossa jornada!
 
-# TESTANDO EM PROD
+# TESTANDO NA PRODUÇÃO
 
-Espero que isso funcione com cache
+Espero que isso funcione na produção com caching
 
 {{< plotly json="/json/bar_chart_test.json" height="450px" width="90%" >}}
 
-HEHE"
-```
