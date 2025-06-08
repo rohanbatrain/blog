@@ -1,20 +1,19 @@
 ---
-title: "Hallo Welt"
+title: "Willkommen im digitalen Welt"
 description: ""
-summary: "Mein erstes Blogpost - Hallo Welt!"
+summary: "Mein erstes Blog-Post - Hallo Welt!"
 date: 2025-05-27
+pinned: True
 ---
 
-> Dieser Inhalt wurde automatisch aus dem Englischen in das Deutsche übersetzt und von einem KI-Modell neu geschrieben.
+> Dieses Inhalt wurde automatisch aus dem Englischen ins Deutsche übersetzt und von einem AI-Modell neu geschrieben.
 
+# Testen marklang 
 
-# Testing marklang  👋
+Willkommen zu meinem Blog! Das ist mein erstes Post.  
+Bleiben Sie für weitere Updates, Gedanken und Erkundungen informiert.  
+Ich freue mich darauf, den Weg voranzutreiben!
 
-Willkommen auf meinem Blog! Dies ist meine erste Publikation.  
-Bleibe gespannt für weitere Updates, Gedanken und Erkundungen.  
-Aufgeregt, den Reis beginnen zu lassen!
+# PRODUKTION TESTEN 
 
-# TESTING IN PROD 
-
-Ich hoffe, das funktioniert in der Produktion mit Cache.
-
+Ich hoffe, das funktioniert in prod""

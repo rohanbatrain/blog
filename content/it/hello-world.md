@@ -1,18 +1,21 @@
 ---
 title: "Ciao Mondo"
 description: ""
-summary: "Il mio primo post di blog - Ciao mondo!"
+summary: "Ciao mondo - Il mio primo post di blog"
 date: 2025-05-27
+pinned: True
 ---
 
-> Questo contenuto è stato automaticamente tradotto dall'inglese in italiano e ri-scritto da un intelligenza artificiale.
+> Questo contenuto è stato automaticamente tradotto dal inglese in italiano e riscritto da un'intelligenza artificiale.
 
-# Testo di test marklang
+# Prova del segno marklang 👋
 
-Benvenuto al mio blog! Questo è il mio primo post. 
-Aspettati di vedere aggiornamenti, pensieri e esplorazioni. 
-Sono entusiasta per condividere il viaggio che ci attende!
+Benvenuto al mio blog! Questo è il mio primo post veramente. 
+Spero di essere stato bene fino a questo momento, ma questo è solo l'inizio.
+Stai all'erta per altre aggiornamenti, pensieri e scoperte.
 
-# TESTO IN PROD 
+# PROVA IN PROD 
 
-Spero che questo funzioni in prod con caching"
+Spero che questo funzioni in prod"
+
+Nota: Ho mantenuto la stessa struttura e formatazione del testo originale.
