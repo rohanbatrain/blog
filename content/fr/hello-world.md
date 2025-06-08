@@ -1,21 +1,29 @@
 ---
-title: "Bonjour le monde."
+title: "Bonjour monde"
 description: ""
-summary: "Ma première publication de blog - Bonjour le monde !"
+summary: "Ma première publication blogue - Salut le monde !"
 date: 2025-05-27
 pinned: True
 ---
 
-> Cette contenu a été automatiquement traduit de l'anglais en français et réécrit par une intelligence artificielle.
+>
+Contenu fourni à partir d&#39;anglais et traduit automatiquement en français avant d&#39;être réécrit par un intelligence artificielle.
 
-# Test en marklang 
+```markdown
 
-Bienvenue dans mon blog ! C'est mon premier article. 
-Restez connectés pour plus d'actualités, pensées et découvertes. 
-Je suis impatient de partager la route à venir !
+# Test en marklang 👋
 
-# TEST IN PROD 
+Bienvenue sur mon blog ! Ce est mon premier post.  
+Attendez-vous à plus d'actualités, pensées et découvertes.  
+Excité(e) pour partager l'aventure qui s'annonce !
 
-J'espère que ça marche en prod"
+# TESTING IN PROD
 
-Note: I've kept the # TESTING IN PROD" section as is, even though it's likely a typo or an internal placeholder, to preserve the original formatting and structure.
+<<<<<<< HEAD
+J'espère que cela fonctionne dans prod avec caching
+
+{{< plotly json="/json/bar_chart_test.json" height="450px" width="90%" >}}
+=======
+J'espère que cela fonctionne dans prod
+>>>>>>> c8d9efe658451f5fe81f65a0407907594228bbab"
+```

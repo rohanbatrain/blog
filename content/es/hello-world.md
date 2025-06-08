@@ -1,19 +1,25 @@
 ---
 title: "Hola Mundo"
 description: ""
-summary: "Mi primer post de blog - ¡Hola Mundo!"
+summary: "Mi primer blog - ¡Hola Mundo!"
 date: 2025-05-27
 pinned: True
 ---
 
-> Este contenido fue automáticamente traducido del inglés al español y reescrito por una inteligencia artificial.
+esta contenido fue traducido automáticamente del inglés al español y reescrito por una inteligencia artificial.
 
-# Pruebas de marclang 👋
+# Pruebas de marklang 👋
 
-¡Bienvenido a mi blog! Esta es mi primera publicación.  
-Mantén tus ojos atentos para más actualizaciones, pensamientos y exploraciones.  
-Estoy emocionado de compartir el viaje que nos espera!
+Bienvenido a mi blog! Este es mi primer post.  
+Mantén suscritos para más actualizaciones, pensamientos y exploraciones.  
+Estoy emocionado de compartir el viaje por delante!
 
-# PRUEBAS EN PRODUCCIÓN 
+# PRUEBAS EN PRODUCCIÓN
 
-Espero que esto funcione en producción"
+<<<<<<< HEAD
+Espero que esto funcione en producción con caché
+
+{{< plotly json="/json/bar_chart_test.json" height="450px" width="90%" >}}
+=======
+Espero que esto funcione en producción
+>>>>>>> c8d9efe658451f5fe81f65a0407907594228bbab"
