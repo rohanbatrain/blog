@@ -11,3 +11,5 @@ plotly: true
 Welcome to my blog! This is my very first post.  
 Stay tuned for more updates, thoughts, and explorations.  
 Excited to share the journey ahead!
+
+{{< plotly json="plotly.json" height="450px" width="90%" >}}
