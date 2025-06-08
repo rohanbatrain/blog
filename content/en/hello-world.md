@@ -11,9 +11,3 @@ plotly: true
 Welcome to my blog! This is my very first post.  
 Stay tuned for more updates, thoughts, and explorations.  
 Excited to share the journey ahead!
-
-# TESTING IN PROD
-
-I hope this works in prod with migration
-
-{{< plotly json="/json/bar_chart_test.json" height="450px" width="90%" >}}
