@@ -97,7 +97,7 @@ jobs:
 
       - name: Run MarkLang on changed files for all languages
         run: |
-          LANGUAGES=("de" "fr" "it" "pt" "es" "th")
+          LANGUAGES=("hi" "de" "fr" "it" "pt" "es" "th")
           for lang in "${LANGUAGES[@]}"; do
             echo "Translating files to language: $lang"
             while IFS= read -r file; do
