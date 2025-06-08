@@ -1,25 +1,23 @@
 ---
 title: "Hallo Welt"
 description: ""
-summary: "Mein erster Blogpost – Hallo Welt!"
+summary: "Mein erstes Blogbeitrag – Hallo Welt!"
 date: 2025-05-27
 pinned: True
 ---
 
-> Diese Inhalte wurden automatisch aus dem Englischen ins Deutsche übersetzt und von einem KI-Modell neu geschrieben.
+> Dieser Inhalt wurde automatisch aus dem Englischen ins Deutsche übersetzt und durch einen KI-Textverstärker neu geschrieben.
 
 ```markdown
-# Testen marklang 
+# Testen marklang
 
-Willkommen auf meinem Blog! Dies ist mein erster Beitrag. 
-Bleibt abonnieren, um weitere Updates, Gedanken und Entdeckungen zu erhalten.  
-Ich bin gespannt, die Reise vorzubereiten!
+Willkommen auf meiner Blogseite! Dies ist mein erstes Beitrag.  
+Halte Ausschau nach weiteren Updates, Gedanken und Entdeckungen.  
+Ich bin gespannt darauf, dich auf die Reise mitzunehmen!
 
-# TESTEN IN PROD
+# TESTING IN PROD
 
-Ich hoffe, dass dies in prod mit Caching funktioniert
+Ich hoffe, das funktioniert in prod mit Caching
 
 {{< plotly json="/json/bar_chart_test.json" height="450px" width="90%" >}}
-
-HEHE"
 ```

@@ -1,25 +1,23 @@
 ---
 title: "Ciao Mondo"
 description: ""
-summary: "La mia prima pubblicazione di blog - Ciao Mondo!"
+summary: "Ciao mondo! Il mio primo post di blog è qui!"
 date: 2025-05-27
 pinned: True
 ---
 
-> Questo contenuto è stato automaticamente tradotto dall'inglese in italiano e riscritto da un'intelligenza artificiale.
+> Questo contenuto è stato automaticamente tradotto dall'inglese in italiano e riproposto dalla AI.
 
-# Testing marklang 
+```markdown
+# Prova con marklang 👋
 
-Benvenuto sul mio blog! Questo è il mio primo post.  
-Attendi di più aggiornamenti, pensieri e esplorazioni.  
-Sono entusiasta di condividere la strada in arrivo!
+Benvenuto al mio blog! Questo è il mio primo post.  
+Aspettati altre aggiornamenti, pensieri e esplorazioni.  
+Eccitato a condividere la strada davanti!
 
 # TESTING IN PROD
 
-Spero che funzioni in prod con caching
+Spero che questo funzioni in prod con caching
 
 {{< plotly json="/json/bar_chart_test.json" height="450px" width="90%" >}}
-
-HEHE"
-
-  -potrebbero essere in errore-
+```
