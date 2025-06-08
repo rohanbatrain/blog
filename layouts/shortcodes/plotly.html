@@ -1,0 +1,44 @@
+{{ $json := .Get "json" }}
+{{ $height := .Get "height" | default "400px" }}
+{{ $width := .Get "width" | default "100%" }}
+
+{{ $id := .Get "id" | default "" }}
+{{ if not $id }}
+    {{/* Generate a unique ID if not provided */}}
+    {{ $chars := (slice "a" "b" "c" "d" "e" "f" "g" "h" "i" "j" "k" "l" "m" "n" "o" "p" "q" "r" "s" "t" "u" "v" "w" "x" "y" "z" "0" "1" "2" "3" "4" "5" "6" "7" "8" "9") }}
+    {{ $shuffledChars := $chars | shuffle }}
+    {{ $randomId := printf "plotly-chart-%s" (delimit ($shuffledChars | first 8) "") }}
+    {{ $id = $randomId }}
+{{ end }}
+
+<div id="{{ $id }}" class="plotly-chart" style="height:{{ $height }}; width:{{ $width }};"></div>
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        // Check if Plotly is loaded, if not, wait for it
+        if (typeof Plotly === 'undefined') {
+            // Simple retry mechanism or load dynamically if not already done
+            console.warn("Plotly.js not yet loaded. Retrying...");
+            setTimeout(function() {
+                loadPlotlyChart('{{ $id }}', '{{ $json | absURL }}');
+            }, 100); // Wait 100ms and try again
+        } else {
+            loadPlotlyChart('{{ $id }}', '{{ $json | absURL }}');
+        }
+    });
+
+    function loadPlotlyChart(id, jsonPath) {
+        fetch(jsonPath)
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
+                return response.json();
+            })
+            .then(fig => {
+                Plotly.newPlot(id, fig.data, fig.layout, { responsive: true });
+            })
+            .catch(error => {
+                console.error("Error loading Plotly JSON:", error);
+            });
+    }
+</script>
