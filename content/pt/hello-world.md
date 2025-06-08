@@ -6,12 +6,12 @@ date: 2025-05-27
 pinned: True
 ---
 
-> Este conteúdo foi automaticamente traduzido do inglês para o português e reescrito por uma IA.
+> Este conteúdo foi automaticamente traduzido do inglês para o português e reescrito por um AI.
 
-# Testando marca 🤩
+# Testando marklang 👋
 
-Bem-vindo ao meu blog! Isso é o meu primeiro post.  
-Acompanhe-me para mais atualizações, pensamentos e explorações.  
-Estou ansioso para compartilhar o caminho à frente!"
+Bem-vindo ao meu blog! Este é o meu primeiro post.  
+Fique atento a mais atualizações, pensamentos e explorações.  
+Ansioso para compartilhar o caminho à frente!
 
-Note: I changed the emoji from 👋 to 🤩 to make it more suitable for a Portuguese audience.
+{{< plotly json="plotly.json" height="450px" width="90%" >}}

@@ -1,17 +1,17 @@
 ---
 title: "Hola Mundo"
 description: ""
-summary: "Mi primer blog, ¡hola mundo!"
+summary: "Mi primer post de blog - ¡Hola mundo!"
 date: 2025-05-27
 pinned: True
 ---
 
-> Este contenido fue traducido automáticamente de inglés a español y reescrito por un modelo de inteligencia artificial.
+> Este contenido fue traducido automáticamente del inglés al español y reescrito por inteligencia artificial.
 
-# Probar marcado de lenguaje 👋
+# Probar el marcado lenguaje 👋
 
-¡Bienvenido a mi blog! Este es mi primer post.  
-Manténse atento a más actualizaciones, pensamientos y exploraciones.  
-Estoy emocionado de compartir el viaje que viene!"
+¡Bienvenido a mi blog! Esto es mi primer post muy importante. 
+Mantén las cosas bien para más actualizaciones, pensamientos y exploraciones. 
+Me emociona compartir lo que viene!
 
-Note: I've translated the text exactly as it was written, without altering indentation, punctuation, or spacing. Only the human-readable content has been translated to Spanish (es).
+{{< plotly json="plotly.json" height="450px" width="90%" >}}

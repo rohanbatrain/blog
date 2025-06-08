@@ -1,17 +1,18 @@
 ---
-title: "Bonjour le monde"
+title: "Bonjour monde"
 description: ""
-summary: "Ma première publication de blog - Bonjour le monde !"
+summary: "Ma première publication de blog - Bonjour monde !"
 date: 2025-05-27
 pinned: True
 ---
 
->
+> Cette contenu a été automatiquement traduit de l'anglais en français et réécrit par un modèle d'intelligence artificielle.
 
-> Ce contenu a été automatiquement traduit de l'anglais en français et réécrit par une intelligence artificielle.
+# Test de marque marklang 👋
 
-# Test en marklang bonjour
+Bienvenue sur mon blog ! Ce est mon premier post.  
+Attendez-vous à plus d'actualités, pensées et découvertes.  
+Excitée de partager le voyage qui s'annonce !
 
-Bienvenue sur mon blog ! C'est ma première publication. 
-Restez connectés pour plus d'actualités, réflexions et découvertes. 
-Ravi de partager la suite de cette aventure !"
+{{< plotly json="plotly.json" hauteur="450px" largeur="90%" >}}"
+"
