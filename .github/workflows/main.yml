@@ -130,7 +130,7 @@ jobs:
                         
       - name: Push built site to rohan_batra/landing under blog/
         run: |
-          git clone https://github.com/rohanbatrain/rohan_batra.git /tmp/landing-repo
+          git clone https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/rohanbatrain/rohan_batra.git /tmp/landing-repo
           cd /tmp/landing-repo
       
           git checkout landing || git checkout -b landing
