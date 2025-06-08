@@ -1,4 +1,4 @@
-baseURL: "https://blog.rohanbatra.in/"
+baseURL: 'https://rohanbatra.in/blog/'
 title: "Rohan's Blog"
 theme: PaperMod
 enableRobotsTXT: true
@@ -12,11 +12,13 @@ minify:
 
 params:
   env: production
-  description: "Rohan Batra's digital space: An eclectic collection of thoughts, creations, and documents of all kinds."
+  description:
+    "Rohan Batra's digital space: An eclectic collection of thoughts, creations,
+    and documents of all kinds."
   keywords:
     [Blog, Portfolio, Thoughts, Creations, Documents, Writing, Ideas, Personal]
-  author: "Rohan"
-  DateFormat: "January 2, 2006"
+  author: 'Rohan'
+  DateFormat: 'January 2, 2006'
   defaultTheme: auto
   disableThemeToggle: false
   ShowReadingTime: true
@@ -34,21 +36,21 @@ params:
   hideSummary: false
   showtoc: true
   tocopen: false
-  mainSections: ["posts"]
+  mainSections: ['posts']
 
   homeInfoParams:
-    Title: "Hi there 👋"
-    Content: "Welcome to my blog"
+    Title: 'Hi there 👋'
+    Content: 'Welcome to my blog'
 
   socialIcons:
-    - name: "x"
-      url: "https://x.com/rohanbatrain"
-    - name: "github"
-      url: "https://github.com/rohanbatrain"
+    - name: 'x'
+      url: 'https://x.com/rohanbatrain'
+    - name: 'github'
+      url: 'https://github.com/rohanbatrain'
 
   editPost:
-    URL: "https://github.com/rohanbatrain/blog/tree/main/content/en"
-    Text: "Suggest Changes"
+    URL: 'https://github.com/rohanbatrain/blog/tree/main/content/en'
+    Text: 'Suggest Changes'
     appendFilePath: true
 
   fuseOpts:
@@ -58,238 +60,238 @@ params:
     distance: 1000
     threshold: 0.4
     minMatchCharLength: 0
-    keys: ["title", "permalink", "summary", "content"]
+    keys: ['title', 'permalink', 'summary', 'content']
 
 defaultContentLanguage: en
 defaultContentLanguageInSubdir: true
 
 languages:
   en:
-    languageName: "English"
+    languageName: 'English'
     weight: 1
-    contentDir: "content/en"
+    contentDir: 'content/en'
     title: "Rohan Batra's Blog"
     menu:
       main:
         - identifier: categories
-          name: "Categories"
+          name: 'Categories'
           url: /en/categories/
           weight: 10
         - identifier: search
-          name: "Search"
+          name: 'Search'
           url: /en/search/
           weight: 20
         - identifier: tags
-          name: "Tags"
+          name: 'Tags'
           url: /en/tags/
           weight: 30
         - identifier: portfolio
-          name: "Portfolio"
+          name: 'Portfolio'
           url: https://rohanbatra.in/
           weight: 40
         - identifier: github
-          name: "Blog"
+          name: 'Blog'
           url: https://github.com/rohanbatrain/blog/
           weight: 50
 
   hi:
-    languageName: "हिंदी"
+    languageName: 'हिंदी'
     weight: 2
-    contentDir: "content/hi"
-    title: "रोहन बत्रा का ब्लॉग"
+    contentDir: 'content/hi'
+    title: 'रोहन बत्रा का ब्लॉग'
     menu:
       main:
         - identifier: categories
-          name: "श्रेणियाँ"
+          name: 'श्रेणियाँ'
           url: /hi/categories/
           weight: 10
         - identifier: search
-          name: "खोज"
+          name: 'खोज'
           url: /hi/search/
           weight: 20
         - identifier: tags
-          name: "टैग्स"
+          name: 'टैग्स'
           url: /hi/tags/
           weight: 30
         - identifier: portfolio
-          name: "पोर्टफोलियो"
+          name: 'पोर्टफोलियो'
           url: https://rohanbatra.in/
           weight: 40
         - identifier: github
-          name: "ब्लॉग"
+          name: 'ब्लॉग'
           url: https://github.com/rohanbatrain/blog/
           weight: 50
 
   de:
-    languageName: "Deutsch"
+    languageName: 'Deutsch'
     weight: 3
-    contentDir: "content/de"
-    title: "Rohan Batras Blog"
+    contentDir: 'content/de'
+    title: 'Rohan Batras Blog'
     menu:
       main:
         - identifier: categories
-          name: "Kategorien"
+          name: 'Kategorien'
           url: /de/categories/
           weight: 10
         - identifier: search
-          name: "Suche"
+          name: 'Suche'
           url: /de/search/
           weight: 20
         - identifier: tags
-          name: "Tags"
+          name: 'Tags'
           url: /de/tags/
           weight: 30
         - identifier: portfolio
-          name: "Portfolio"
+          name: 'Portfolio'
           url: https://rohanbatra.in/
           weight: 40
         - identifier: github
-          name: "Blog"
+          name: 'Blog'
           url: https://github.com/rohanbatrain/blog/
           weight: 50
 
   fr:
-    languageName: "Français"
+    languageName: 'Français'
     weight: 4
-    contentDir: "content/fr"
-    title: "Blog de Rohan Batra"
+    contentDir: 'content/fr'
+    title: 'Blog de Rohan Batra'
     menu:
       main:
         - identifier: categories
-          name: "Catégories"
+          name: 'Catégories'
           url: /fr/categories/
           weight: 10
         - identifier: search
-          name: "Recherche"
+          name: 'Recherche'
           url: /fr/search/
           weight: 20
         - identifier: tags
-          name: "Tags"
+          name: 'Tags'
           url: /fr/tags/
           weight: 30
         - identifier: portfolio
-          name: "Portfolio"
+          name: 'Portfolio'
           url: https://rohanbatra.in/
           weight: 40
         - identifier: github
-          name: "Blog"
+          name: 'Blog'
           url: https://github.com/rohanbatrain/blog/
           weight: 50
 
   it:
-    languageName: "Italiano"
+    languageName: 'Italiano'
     weight: 5
-    contentDir: "content/it"
-    title: "Blog di Rohan Batra"
+    contentDir: 'content/it'
+    title: 'Blog di Rohan Batra'
     menu:
       main:
         - identifier: categories
-          name: "Categorie"
+          name: 'Categorie'
           url: /it/categories/
           weight: 10
         - identifier: search
-          name: "Cerca"
+          name: 'Cerca'
           url: /it/search/
           weight: 20
         - identifier: tags
-          name: "Tag"
+          name: 'Tag'
           url: /it/tags/
           weight: 30
         - identifier: portfolio
-          name: "Portfolio"
+          name: 'Portfolio'
           url: https://rohanbatra.in/
           weight: 40
         - identifier: github
-          name: "Blog"
+          name: 'Blog'
           url: https://github.com/rohanbatrain/blog/
           weight: 50
 
   pt:
-    languageName: "Português"
+    languageName: 'Português'
     weight: 6
-    contentDir: "content/pt"
-    title: "Blog de Rohan Batra"
+    contentDir: 'content/pt'
+    title: 'Blog de Rohan Batra'
     menu:
       main:
         - identifier: categories
-          name: "Categorias"
+          name: 'Categorias'
           url: /pt/categories/
           weight: 10
         - identifier: search
-          name: "Pesquisar"
+          name: 'Pesquisar'
           url: /pt/search/
           weight: 20
         - identifier: tags
-          name: "Tags"
+          name: 'Tags'
           url: /pt/tags/
           weight: 30
         - identifier: portfolio
-          name: "Portfolio"
+          name: 'Portfolio'
           url: https://rohanbatra.in/
           weight: 40
         - identifier: github
-          name: "Blog"
+          name: 'Blog'
           url: https://github.com/rohanbatrain/blog/
           weight: 50
 
   es:
-    languageName: "Español"
+    languageName: 'Español'
     weight: 7
-    contentDir: "content/es"
-    title: "Blog de Rohan Batra"
+    contentDir: 'content/es'
+    title: 'Blog de Rohan Batra'
     menu:
       main:
         - identifier: categories
-          name: "Categorías"
+          name: 'Categorías'
           url: /es/categories/
           weight: 10
         - identifier: search
-          name: "Buscar"
+          name: 'Buscar'
           url: /es/search/
           weight: 20
         - identifier: tags
-          name: "Etiquetas"
+          name: 'Etiquetas'
           url: /es/tags/
           weight: 30
         - identifier: portfolio
-          name: "Portfolio"
+          name: 'Portfolio'
           url: https://rohanbatra.in/
           weight: 40
         - identifier: github
-          name: "Blog"
+          name: 'Blog'
           url: https://github.com/rohanbatrain/blog/
           weight: 50
 
   th:
-    languageName: "ไทย"
+    languageName: 'ไทย'
     weight: 8
-    contentDir: "content/th"
-    title: "บล็อกของโรฮัน บาตรา"
+    contentDir: 'content/th'
+    title: 'บล็อกของโรฮัน บาตรา'
     menu:
       main:
         - identifier: categories
-          name: "หมวดหมู่"
+          name: 'หมวดหมู่'
           url: /th/categories/
           weight: 10
         - identifier: search
-          name: "ค้นหา"
+          name: 'ค้นหา'
           url: /th/search/
           weight: 20
         - identifier: tags
-          name: "แท็ก"
+          name: 'แท็ก'
           url: /th/tags/
           weight: 30
         - identifier: portfolio
-          name: "พอร์ตโฟลิโอ"
+          name: 'พอร์ตโฟลิโอ'
           url: https://rohanbatra.in/
           weight: 40
         - identifier: github
-          name: "บล็อก"
+          name: 'บล็อก'
           url: https://github.com/rohanbatrain/blog/
           weight: 50
 
 outputs:
-  home: ["html", "rss", "json"]
+  home: ['html', 'rss', 'json']
 
 pygmentsUseClasses: true
 

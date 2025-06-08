@@ -17,5 +17,3 @@ Excited to share the journey ahead!
 I hope this works in prod with caching
 
 {{< plotly json="/json/bar_chart_test.json" height="450px" width="90%" >}}
-
-HEHE
