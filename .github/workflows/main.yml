@@ -1,11 +1,14 @@
 name: Hugo Static Site Build with Ollama and MarkLang
 
 on:
+  workflow_dispatch:
   push:
     branches:
       - main
     paths:
       - 'content/en/**'
+    
+
 
 jobs:
   hugo_marklang:
