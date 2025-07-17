@@ -63,7 +63,7 @@ params:
     keys: ['title', 'permalink', 'summary', 'content']
 
 defaultContentLanguage: en
-defaultContentLanguageInSubdir: true
+defaultContentLanguageInSubdir: false
 
 languages:
   en:
