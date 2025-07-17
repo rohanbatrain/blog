@@ -75,7 +75,7 @@ languages:
       main:
         - identifier: categories
           name: 'Categories'
-          url: /en/categories/
+          url: /categories/
           weight: 10
         - identifier: search
           name: 'Search'
