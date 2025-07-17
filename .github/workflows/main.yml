@@ -110,12 +110,14 @@ jobs:
               fi
             done < changed_files.txt
           done
-
+          
       - name: Commit and push translated files
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-
+      
+          git pull --rebase origin main  # <-- Failsafe addition
+      
           git add content/
           git commit -m "Translate updated content files with MarkLang" || echo "No changes to commit"
           git push origin main
