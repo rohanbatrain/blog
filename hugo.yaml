@@ -12,8 +12,11 @@ minify:
 
 params:
   env: production
-  description: "Rohan Batra's digital space: An eclectic collection of thoughts, creations, and documents of all kinds."
-  keywords: [Blog, Portfolio, Thoughts, Creations, Documents, Writing, Ideas, Personal]
+  description:
+    "Rohan Batra's digital space: An eclectic collection of thoughts, creations,
+    and documents of all kinds."
+  keywords:
+    [Blog, Portfolio, Thoughts, Creations, Documents, Writing, Ideas, Personal]
   author: 'Rohan'
   DateFormat: 'January 2, 2006'
   defaultTheme: auto
@@ -60,7 +63,7 @@ params:
     keys: ['title', 'permalink', 'summary', 'content']
 
 defaultContentLanguage: en
-defaultContentLanguageInSubdir: true
+defaultContentLanguageInSubdir: false
 
 languages:
   en:
@@ -76,11 +79,11 @@ languages:
           weight: 10
         - identifier: search
           name: 'Search'
-          url: /search/
+          url: /en/search/
           weight: 20
         - identifier: tags
           name: 'Tags'
-          url: /tags/
+          url: /en/tags/
           weight: 30
         - identifier: portfolio
           name: 'Portfolio'
@@ -100,15 +103,15 @@ languages:
       main:
         - identifier: categories
           name: 'श्रेणियाँ'
-          url: /categories/
+          url: /hi/categories/
           weight: 10
         - identifier: search
           name: 'खोज'
-          url: /search/
+          url: /hi/search/
           weight: 20
         - identifier: tags
           name: 'टैग्स'
-          url: /tags/
+          url: /hi/tags/
           weight: 30
         - identifier: portfolio
           name: 'पोर्टफोलियो'
@@ -128,15 +131,15 @@ languages:
       main:
         - identifier: categories
           name: 'Kategorien'
-          url: /categories/
+          url: /de/categories/
           weight: 10
         - identifier: search
           name: 'Suche'
-          url: /search/
+          url: /de/search/
           weight: 20
         - identifier: tags
           name: 'Tags'
-          url: /tags/
+          url: /de/tags/
           weight: 30
         - identifier: portfolio
           name: 'Portfolio'
@@ -156,15 +159,15 @@ languages:
       main:
         - identifier: categories
           name: 'Catégories'
-          url: /categories/
+          url: /fr/categories/
           weight: 10
         - identifier: search
           name: 'Recherche'
-          url: /search/
+          url: /fr/search/
           weight: 20
         - identifier: tags
           name: 'Tags'
-          url: /tags/
+          url: /fr/tags/
           weight: 30
         - identifier: portfolio
           name: 'Portfolio'
@@ -184,15 +187,15 @@ languages:
       main:
         - identifier: categories
           name: 'Categorie'
-          url: /categories/
+          url: /it/categories/
           weight: 10
         - identifier: search
           name: 'Cerca'
-          url: /search/
+          url: /it/search/
           weight: 20
         - identifier: tags
           name: 'Tag'
-          url: /tags/
+          url: /it/tags/
           weight: 30
         - identifier: portfolio
           name: 'Portfolio'
@@ -212,15 +215,15 @@ languages:
       main:
         - identifier: categories
           name: 'Categorias'
-          url: /categories/
+          url: /pt/categories/
           weight: 10
         - identifier: search
           name: 'Pesquisar'
-          url: /search/
+          url: /pt/search/
           weight: 20
         - identifier: tags
           name: 'Tags'
-          url: /tags/
+          url: /pt/tags/
           weight: 30
         - identifier: portfolio
           name: 'Portfolio'
@@ -240,15 +243,15 @@ languages:
       main:
         - identifier: categories
           name: 'Categorías'
-          url: /categories/
+          url: /es/categories/
           weight: 10
         - identifier: search
           name: 'Buscar'
-          url: /search/
+          url: /es/search/
           weight: 20
         - identifier: tags
           name: 'Etiquetas'
-          url: /tags/
+          url: /es/tags/
           weight: 30
         - identifier: portfolio
           name: 'Portfolio'
@@ -268,15 +271,15 @@ languages:
       main:
         - identifier: categories
           name: 'หมวดหมู่'
-          url: /categories/
+          url: /th/categories/
           weight: 10
         - identifier: search
           name: 'ค้นหา'
-          url: /search/
+          url: /th/search/
           weight: 20
         - identifier: tags
           name: 'แท็ก'
-          url: /tags/
+          url: /th/tags/
           weight: 30
         - identifier: portfolio
           name: 'พอร์ตโฟลิโอ'
