@@ -6,7 +6,7 @@ summary: 'My first blog post – Hello World!'
 plotly: true
 ---
 
-# Testing marklang 👋
+# Testing marklang
 
 Welcome to my blog! This is my very first post.  
 Stay tuned for more updates, thoughts, and explorations.  
